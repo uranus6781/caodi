@@ -26,4 +26,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # Bạn cần tạo Secret này trong Settings Repo
           GH_REPO: ${{ github.repository }}
-        run: python your_script_name.py # Thay bằng tên file của bạn
+        run: python main.py # Thay bằng tên file của bạn
