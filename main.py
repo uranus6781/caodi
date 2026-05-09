@@ -35,8 +35,41 @@ _HEADERS = {
 # UTILS
 # =========================================================
 def get_team_logo(team_name):
-    if not team_name or team_name == "Unknown": return ""
-    return f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name[:2])}&size=200&background=1565C0&color=ffffff&bold=true"
+    if not team_name or team_name == "Unknown": 
+        return ""
+    
+    team_name = normalize_team_name(team_name)
+    if team_name in LOGO_CACHE:
+        return LOGO_CACHE[team_name]
+
+    slug = team_name.lower().replace(" ", "-")
+    # Danh sách các URL tiềm năng để thử
+    sources = [
+        # Nguồn 1: Football-Logos (Chuyên sâu bóng đá)
+        f"https://football-logos.cc/logos/{slug}/logo.png",
+        
+        # Nguồn 2: Clearbit API (Thử tìm logo dựa trên tên miền giả định)
+        f"https://logo.clearbit.com/{slug}.com",
+        
+        # Nguồn 3: Biểu tượng từ kho dữ liệu mở
+        f"https://img.icons8.com/color/200/football-team.png" 
+    ]
+
+    for url in sources:
+        try:
+            # Kiểm tra nhanh xem link có tồn tại không (chỉ check 3 giây)
+            r = requests.head(url, headers=_HEADERS, timeout=3)
+            if r.status_code == 200:
+                LOGO_CACHE[team_name] = url
+                return url
+        except:
+            continue
+
+    # Nguồn cuối cùng: UI-Avatars (Luôn hoạt động, hiển thị chữ cái đầu của đội bóng)
+    # Background màu xanh đậm chuyên nghiệp
+    fallback_url = f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name)}&size=200&background=0D47A1&color=ffffff&bold=true"
+    LOGO_CACHE[team_name] = fallback_url
+    return fallback_url
 
 def parse_url_to_info(url):
     try:
