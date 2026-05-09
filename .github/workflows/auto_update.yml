@@ -1,22 +1,30 @@
 name: Playwright Scraper
+
 on:
   schedule:
-    - cron: '0 */1 * * *'
-  workflow_dispatch:
+    - cron: '0 */1 * * *' # Chạy mỗi tiếng một lần
+  workflow_dispatch:      # Cho phép bấm nút chạy thủ công
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
-      - uses: actions/checkout@v3
-      - sys-python: actions/setup-python@v4
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
-          playwright install chromium
+          pip install playwright playwright-stealth PyGithub requests beautifulsoup4
+          playwright install chromium # Bắt buộc phải có dòng này để chạy trình duyệt
+
       - name: Run Scraper
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
