@@ -1,51 +1,42 @@
-name: Update Football Playlist
+name: Football Update
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Chạy mỗi 30 phút
-  workflow_dispatch: # Cho phép bấm nút chạy thủ công
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
-
   scrape:
-
-    runs-on: ubuntu-22.04
-
-    timeout-minutes: 20
-
+    runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: 📥 Checkout
-      uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: 🐍 Setup Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          # Fix lỗi thư viện trên Ubuntu mới (Noble)
+          sudo apt-get install -y libasound2t64 libatk1.0-0t64 libgbm1 libnss3 libasound2
 
-    - name: 🌐 Install Chrome
-      uses: browser-actions/setup-chrome@v1
+      - name: Install Python Packages
+        run: |
+          pip install requests PyGithub playwright playwright-stealth
+          playwright install --with-deps chromium
 
-    - name: 💾 Cache Playwright
-      uses: actions/cache@v4
-      with:
-        path: ~/.cache/ms-playwright
-        key: ${{ runner.os }}-playwright
+      - name: Run Script
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: python main.py
 
-    - name: 📦 Install dependencies
-      run: |
-
-        python -m pip install --upgrade pip
-
-        pip install -r requirements.txt
-
-        playwright install --with-deps chromium
-
-    - name: 🚀 Run bot
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        GH_REPO: ${{ github.repository }}
-
-      run: |
-
-        python main.py
+      - name: Save Debug Image
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug-result
+          path: last_debug.png
