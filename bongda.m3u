@@ -1,23 +1,8 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 01:13 10/05/2026
-
-#EXTINF:-1 tvg-id="Kickers Emden vs Vfb Lubeck" tvg-name="Kickers Emden vs Vfb Lubeck" tvg-logo="https://ui-avatars.com/api/?name=Ki&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:00 ⚽ Kickers Emden vs Vfb Lubeck
-https://live.rapidlive.shop/live/4e3b3cde11d60aae6ba8e3b443cf8ba7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tus Blauweiss Lohne vs Fc Schoningen08" tvg-name="Tus Blauweiss Lohne vs Fc Schoningen08" tvg-logo="https://ui-avatars.com/api/?name=Tu&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:00 ⚽ Tus Blauweiss Lohne vs Fc Schoningen08
-https://live.rapidlive.shop/live/4be82554d09de7e5091afdc463f8992f/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Al Najmaksa vs Alhazm" tvg-name="Al Najmaksa vs Alhazm" tvg-logo="https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:15 ⚽ Al Najmaksa vs Alhazm
-https://live.rapidlive.shop/live/573d1561c9be4998008fe3d95eb372d9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Beerschot Wilrijk vs Kvsk Lommel" tvg-name="Beerschot Wilrijk vs Kvsk Lommel" tvg-logo="https://ui-avatars.com/api/?name=Be&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:15 ⚽ Beerschot Wilrijk vs Kvsk Lommel
-https://live.rapidlive.shop/live/350bcb21cb907f580c3262e732140958/playlist.m3u8
+#PLAYLISTNAME: ⚽ Xem ngay - 01:32 10/05/2026
 
 #EXTINF:-1 tvg-id="Rudar Prijedor vs Sarajevo" tvg-name="Rudar Prijedor vs Sarajevo" tvg-logo="https://ui-avatars.com/api/?name=Ru&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:30 ⚽ Rudar Prijedor vs Sarajevo
 https://live.rapidlive.shop/live/518c8603fc04ad6b501b20debd4516bf/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Radnik Bijeljina vs Hsk Zrinjski Mostar" tvg-name="Radnik Bijeljina vs Hsk Zrinjski Mostar" tvg-logo="https://ui-avatars.com/api/?name=Ra&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:30 ⚽ Radnik Bijeljina vs Hsk Zrinjski Mostar
-https://live.rapidlive.shop/live/2dce2645b47009d52024edcc079585ae/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Manchester City vs Brentford" tvg-name="Manchester City vs Brentford" tvg-logo="https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:30 ⚽ Manchester City vs Brentford
 https://cdn-hls.taoxanh.biz/live/69ff586942283_4908/index.m3u8?expire=1778946793&sign=9467ed12990d8b978d563c4690186926
@@ -37,17 +22,29 @@ https://live.rapidlive.shop/live/1bdae480464f73282b92c40565592780/playlist.m3u8
 #EXTINF:-1 tvg-id="Bhantal vs Wilberforce Strikers" tvg-name="Bhantal vs Wilberforce Strikers" tvg-logo="https://ui-avatars.com/api/?name=Bh&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:30 ⚽ Bhantal vs Wilberforce Strikers
 https://live.rapidlive.shop/live/129ed901e24f14252c9c53cdb6867a4b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Manchester City vs Brentford.Dnsy Kleos" tvg-name="Manchester City vs Brentford.Dnsy Kleos" tvg-logo="https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Manchester City vs Brentford.Dnsy Kleos
-https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177835018483253&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202333418134578
+#EXTINF:-1 tvg-id="Qatar U17 vs Indonesia U17" tvg-name="Qatar U17 vs Indonesia U17" tvg-logo="https://ui-avatars.com/api/?name=Qa&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:30 ⚽ Qatar U17 vs Indonesia U17
+https://cdn-hls.taoxanh.biz/live/69ff52b8203f5_73445/index.m3u8?expire=1778945336&sign=e0a814a520c38ef801ab0c10506b4c48
 
-#EXTINF:-1 tvg-id="Manchester City vs Brentford.Kulujduhru" tvg-name="Manchester City vs Brentford.Kulujduhru" tvg-logo="https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Manchester City vs Brentford.Kulujduhru
-https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177835019559631&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="Nk Varteks Varazdin vs Nk Lokomotiva Zagreb" tvg-name="Nk Varteks Varazdin vs Nk Lokomotiva Zagreb" tvg-logo="https://ui-avatars.com/api/?name=Nk&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:45 ⚽ Nk Varteks Varazdin vs Nk Lokomotiva Zagreb
+https://live.rapidlive.shop/live/6b166f7831b2749e651d64763ce92512/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Atletico Madrid vs Celta Vigo.Psmzvh4O04" tvg-name="Atletico Madrid vs Celta Vigo.Psmzvh4O04" tvg-logo="https://ui-avatars.com/api/?name=At&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Atletico Madrid vs Celta Vigo.Psmzvh4O04
-https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177835020665732&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="Eyupspor vs Caykur Rizespor" tvg-name="Eyupspor vs Caykur Rizespor" tvg-logo="https://ui-avatars.com/api/?name=Ey&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",00:00 ⚽ Eyupspor vs Caykur Rizespor
+https://vlsrq.alilicloud.com/live/2bd8ae6807307432c1413c71aa134fb3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Baakehir Futbol Kulb vs Samsunspor" tvg-name="Baakehir Futbol Kulb vs Samsunspor" tvg-logo="https://ui-avatars.com/api/?name=Ba&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",00:00 ⚽ Baakehir Futbol Kulb vs Samsunspor
+https://vlsrq.alilicloud.com/live/709e578a77583bd6114437b80889b4c9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Goztepe vs Gazisehir Gaziantep" tvg-name="Goztepe vs Gazisehir Gaziantep" tvg-logo="https://ui-avatars.com/api/?name=Go&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",00:00 ⚽ Goztepe vs Gazisehir Gaziantep
+https://vlsrq.alilicloud.com/live/ae705d13667ce2acaa6c1e52733cbd5d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H" tvg-name="Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H" tvg-logo="https://ui-avatars.com/api/?name=Vf&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H
-https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177835021740728&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202392933970899
+https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=cf1f6f907953641cf35f4010-177835137644729&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243256664118498
 
 #EXTINF:-1 tvg-id="Toronto Fc vs Inter Miami.Iuoekzasos" tvg-name="Toronto Fc vs Inter Miami.Iuoekzasos" tvg-logo="https://ui-avatars.com/api/?name=To&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Toronto Fc vs Inter Miami.Iuoekzasos
-https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177835022853083&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202392933970899
+https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=766ed26e817f96f91654d703-177835138692639&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243343870168317
+
+#EXTINF:-1 tvg-id="Lecce vs Juventus.00Lwdcqkrc" tvg-name="Lecce vs Juventus.00Lwdcqkrc" tvg-logo="https://ui-avatars.com/api/?name=Le&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Lecce vs Juventus.00Lwdcqkrc
+https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=766ed26e817f96f91654d703-177835139810797&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243343870168317
+
+#EXTINF:-1 tvg-id="Real Sociedad vs Real Betis.Sbtcutkp M" tvg-name="Real Sociedad vs Real Betis.Sbtcutkp M" tvg-logo="https://ui-avatars.com/api/?name=Re&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Real Sociedad vs Real Betis.Sbtcutkp M
+https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cf1f6f907953641cf35f4010-177835140883007&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243256664118498
