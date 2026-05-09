@@ -1,0 +1,35 @@
+name: Update Bong Da M3U
+
+on:
+  schedule:
+    # Chạy mỗi 30 phút một lần
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Cho phép bấm nút chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run scrape script
+      run: python main.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        git add bongda.m3u
+        git commit -m "Auto-update m3u list [$(date)]" || exit 0
+        git push
