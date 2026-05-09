@@ -1,138 +1,148 @@
-import os
-import re
-import time
-import datetime
-import requests
-from github import Github, Auth
+# main.py
 from playwright.sync_api import sync_playwright
-from playwright_stealth import Stealth
+import time
+import re
+from datetime import datetime
 
-# =========================================================
-# CONFIG
-# =========================================================
-CHANNELS = [
-    {
-        "id": "hoiquan",
-        "name": "Hội Quán TV",
-        "url": "https://sv2.hoiquan3.live/lich-thi-dau/bong-da",
-        "base_url": "https://sv2.hoiquan3.live"
-    }
-]
-
-M3U_FILE_PATH = "bongda.m3u"
-WAITING_VIDEO_URL = "https://example.com/waiting.mp4"
-VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
-
-GITHUB_TOKEN = os.getenv("GH_TOKEN")
-REPO_NAME = os.getenv("GH_REPO", "uranus6781/caodi")
-
-_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-}
-
-def get_team_logo(team_name):
-    if not team_name or team_name == "Unknown": return ""
-    return f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name[:2])}&size=200&background=1565C0&color=ffffff&bold=true"
-
-def parse_url_to_info(url):
-    try:
-        slug = url.split('/')[-1].split('?')[0]
-        # Xử lý lấy tên đội từ slug (ví dụ: man-city-vs-arsenal-123456)
-        clean_slug = re.sub(r'-\d+$', '', slug) # Bỏ ID số ở cuối
-        if "-vs-" in clean_slug:
-            parts = clean_slug.split("-vs-")
-            nha = parts[0].replace("-", " ").title()
-            khach = parts[1].replace("-", " ").title()
-            return nha, khach
-    except: pass
-    return "Trận Đấu", "Sắp Đá"
-
-def capture_stream(context, match_url):
-    page = context.new_page()
-    Stealth().apply_stealth_sync(page)
-    streams = set()
-
-    def process_url(url):
-        u = url.lower()
-        if any(k in u for k in [".m3u8", "100ycdn", "edgemaxcdn", "taoxanh", "rapidlive"]):
-            if not any(bad in u for bad in ["ad", "banner", "loop", "waiting"]):
-                streams.add(url)
-
-    page.on("request", lambda req: process_url(req.url))
-    try:
-        page.goto(match_url, wait_until="networkidle", timeout=60000)
-        page.wait_for_timeout(10000) # Chờ lâu hơn để luồng kịp load
-        if streams:
-            best = sorted(list(streams), key=lambda s: ("100ycdn" in s)*10 + ("token" in s)*5, reverse=True)
-            return best[0]
-    except: pass
-    finally: page.close()
-    return None
-
-def main():
-    all_data = []
+def scrape_hoiquan_to_m3u():
+    m3u_content = "#EXTM3U\n"
+    m3u_content += f"# Playlist generated at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+    m3u_content += "# Source: sv2.hoiquan2.live\n\n"
+    
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        context = browser.new_context(user_agent=_HEADERS["User-Agent"])
+        context = browser.new_context(
+            viewport={"width": 1366, "height": 768},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
         
-        for channel in CHANNELS:
-            page = context.new_page()
+        print("🌐 Đang mở trang lịch thi đấu...")
+        page.goto("https://sv2.hoiquan2.live/lich-thi-dau/bong-da", wait_until="networkidle", timeout=60000)
+        time.sleep(7)
+        
+        # Lấy danh sách các trận
+        matches = page.query_selector_all('a[href*="/truc-tiep/"], a[href*="/match/"], div[class*="match"], .grid a, article a')
+        
+        print(f"Tìm thấy {len(matches)} trận. Đang scrape top 10...")
+        
+        count = 0
+        for match_link in matches[:15]:   # dư để lọc
             try:
-                print(f"🚀 Truy cập: {channel['url']}")
-                page.goto(channel["url"], wait_until="load")
-                page.wait_for_timeout(5000)
+                # Extract thông tin trên trang lịch
+                title_elem = match_link.query_selector('h3, .team, strong, span')
+                raw_title = title_elem.inner_text().strip() if title_elem else match_link.inner_text().strip()
                 
-                # CÁCH TÌM LINK MỚI: Tìm tất cả thẻ <a> có chứa "-vs-" trong href
-                links = []
-                hrefs = page.eval_on_selector_all("a", "elements => elements.map(el => el.href)")
-                for h in hrefs:
-                    if "-vs-" in h and h not in links:
-                        links.append(h)
+                # Mở trang trận đấu
+                href = match_link.get_attribute('href')
+                if not href:
+                    continue
+                if href.startswith('/'):
+                    href = "https://sv2.hoiquan2.live" + href
                 
-                print(f"✅ Tìm thấy {len(links)} trận đấu.")
+                print(f"[{count+1}/10] Đang scrape: {raw_title[:60]}...")
+                page.goto(href, wait_until="networkidle", timeout=45000)
+                time.sleep(5)
                 
-                for href in links[:10]: # Lấy 10 trận đầu tiên
-                    nha, khach = parse_url_to_info(href)
-                    print(f"🎬 Đang săn link: {nha} vs {khach}")
+                # === LẤY CHI TIẾT TRẬN ĐẤU ===
+                match_info = page.evaluate('''() => {
+                    const data = {
+                        league: '',
+                        time: '',
+                        team1: '',
+                        team2: '',
+                        logo1: '',
+                        logo2: '',
+                        title: ''
+                    };
                     
-                    stream = capture_stream(context, href)
-                    if stream:
-                        all_data.append({
-                            "title": f"{nha} vs {khach}",
-                            "time": datetime.datetime.now(VN_TZ).strftime("%H:%M"),
-                            "logo": get_team_logo(nha),
-                            "stream": stream
+                    // Giải đấu
+                    const leagueEl = document.querySelector('h1, .league, .competition, [class*="league"]');
+                    if (leagueEl) data.league = leagueEl.innerText.trim();
+                    
+                    // Thời gian
+                    const timeEl = document.querySelector('[class*="time"], .kickoff, .match-time, time');
+                    if (timeEl) data.time = timeEl.innerText.trim();
+                    
+                    // Tên 2 đội
+                    const teams = Array.from(document.querySelectorAll('.team-name, .team, strong, h2'));
+                    if (teams.length >= 2) {
+                        data.team1 = teams[0].innerText.trim();
+                        data.team2 = teams[1].innerText.trim();
+                    } else {
+                        // fallback
+                        const vsText = document.body.innerText.match(/(.+?)\s+vs\s+(.+?)(?:\n|$)/i);
+                        if (vsText) {
+                            data.team1 = vsText[1].trim();
+                            data.team2 = vsText[2].trim();
+                        }
+                    }
+                    
+                    // Logo
+                    const imgs = Array.from(document.querySelectorAll('img'));
+                    for (let img of imgs) {
+                        const src = img.src || '';
+                        if (src.includes('logo') || src.includes('team') || src.includes('flag')) {
+                            if (!data.logo1) data.logo1 = src;
+                            else if (!data.logo2) data.logo2 = src;
+                        }
+                    }
+                    
+                    data.title = `${data.team1} vs ${data.team2}`;
+                    return data;
+                }''')
+                
+                # Tìm link stream
+                streams = page.evaluate('''() => {
+                    return Array.from(document.querySelectorAll('a, button'))
+                        .filter(el => {
+                            const href = (el.href || el.getAttribute('data-link') || '').toLowerCase();
+                            const text = (el.innerText || '').toLowerCase();
+                            return href.includes('.m3u8') || href.includes('stream') || 
+                                   text.includes('xem') || text.includes('blv') || 
+                                   text.includes('lương sơn') || text.includes('bún chả');
                         })
+                        .map(el => ({
+                            url: el.href || el.getAttribute('data-link') || '',
+                            label: el.innerText.trim() || 'Stream'
+                        }));
+                }''')
+                
+                clean_title = f"{match_info['team1']} vs {match_info['team2']}"
+                if match_info['time']:
+                    clean_title = f"[{match_info['time']}] {clean_title}"
+                if match_info['league']:
+                    clean_title = f"{match_info['league']} - {clean_title}"
+                
+                for stream in streams:
+                    if '.m3u8' in stream['url'] or 'stream' in stream['url']:
+                        # Thêm metadata vào #EXTINF
+                        extinf = f'#EXTINF:-1 group-title="Hội Quán TV",'
+                        extinf += f'tvg-logo="{match_info["logo1"] or ""}" '
+                        extinf += f'tvg-name="{clean_title}" '
+                        extinf += f'{clean_title} | {stream["label"]}\n'
+                        
+                        m3u_content += extinf
+                        m3u_content += f'{stream["url"]}\n\n'
+                
+                count += 1
+                if count >= 10:
+                    break
+                
+                page.go_back()
+                time.sleep(3)
+                
             except Exception as e:
-                print(f"Lỗi quét: {e}")
-            finally:
-                page.close()
+                print(f"Lỗi: {e}")
+                continue
+        
         browser.close()
-
-    # Ghi file và push
-    push_to_github(all_data)
-
-def push_to_github(matches):
-    content = "#EXTM3U\n"
-    if not matches:
-        content += '#EXTINF:-1 tvg-logo="" group-title="Hệ thống",Hiện chưa có trận trực tiếp hoặc lỗi bot\n'
-        content += f'{WAITING_VIDEO_URL}\n'
-    else:
-        for m in matches:
-            content += f'#EXTINF:-1 tvg-id="" tvg-logo="{m["logo"]}" group-title="Bóng Đá Trực Tiếp",{m["time"]} | {m["title"]}\n'
-            content += f'{m["stream"]}\n'
-
-    auth = Auth.Token(GITHUB_TOKEN)
-    g = Github(auth=auth)
-    repo = g.get_repo(REPO_NAME)
-    msg = f"⚽ Update: {datetime.datetime.now(VN_TZ).strftime('%H:%M %d/%m/%Y')}"
     
-    try:
-        f_obj = repo.get_contents(M3U_FILE_PATH)
-        repo.update_file(f_obj.path, msg, content, f_obj.sha)
-    except:
-        repo.create_file(M3U_FILE_PATH, msg, content)
-    print("✅ Đã đẩy file lên GitHub.")
+    # Lưu file
+    with open("bongda.m3u", "w", encoding="utf-8") as f:
+        f.write(m3u_content)
+    
+    print(f"\n✅ Hoàn thành! Đã scrape {count} trận với thông tin đầy đủ.")
 
 if __name__ == "__main__":
-    main()
+    scrape_hoiquan_to_m3u()
