@@ -256,28 +256,38 @@ def create_json(all_channel_data):
 #------jsontom3u----#
 
 def json_to_m3u(json_content):
-    data = json.loads(json_content)
-    lines = ["#EXTM3U"]
-    lines.append(f"#PLAYLISTNAME: Sáng TV - Last Updated: {data.get('last_updated')}")
-    lines.append("")
+    try:
+        data = json.loads(json_content)
+        lines = ["#EXTM3U"]
+        lines.append(f"#PLAYLISTNAME: Sáng TV - Cập nhật: {data.get('last_updated', 'N/A')}")
+        lines.append("")
 
-    # Duyệt qua các kênh trong JSON (buncha, hoiquan)
-    for key in ["buncha", "hoiquan"]:
-        matches = data.get(key, [])
-        group_title = "Bún Chả TV" if key == "buncha" else "Hội Quán TV"
+        channels_found = 0
         
-        for m in matches:
-            stream_url = m.get("stream_url")
-            # Chỉ thêm vào m3u nếu có link stream thực tế (không phải link chờ)
-            if stream_url and stream_url != "https://example.com/waiting.mp4":
-                title = f"{m['trang_thai']} {m['title']} - {m['thoi_gian']}"
-                logo = m.get("logo_nha") or m.get("logo_khach") or ""
-                
-                lines.append(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group_title}",{title}')
-                lines.append(stream_url)
-                lines.append("")
-    
-    return "\n".join(lines)
+        # Duyệt qua các key trong CHANNELS định nghĩa ở đầu script
+        for channel in CHANNELS:
+            c_id = channel['id']
+            c_name = channel['name']
+            
+            matches = data.get(c_id, [])
+            for m in matches:
+                # KIỂM TRA: Bỏ điều kiện stream_url != WAITING_VIDEO_URL 
+                # để hiện tất cả các trận lên IPTV kiểm tra trước
+                stream_url = m.get("stream_url")
+                if stream_url:
+                    title = f"[{m.get('trang_thai', '??')}] {m.get('title', 'No Title')}"
+                    logo = m.get("logo_nha") or m.get("logo_khach") or ""
+                    
+                    lines.append(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{c_name}",{title}')
+                    lines.append(stream_url)
+                    lines.append("")
+                    channels_found += 1
+        
+        print(f"📊 Debug: Đã tìm thấy {channels_found} trận đấu để ghi vào M3U")
+        return "\n".join(lines)
+    except Exception as e:
+        print(f"❌ Lỗi chuyển đổi M3U: {e}")
+        return "#EXTM3U\n# ERROR DURING GENERATION"
     
 # =========================================================
 # PUSH GITHUB
