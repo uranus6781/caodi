@@ -6,34 +6,46 @@ on:
   workflow_dispatch: # Cho phép bấm nút chạy thủ công
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+
+  scrape:
+
+    runs-on: ubuntu-22.04
+
+    timeout-minutes: 20
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-           python -m pip install --upgrade pip
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
 
-           pip install -r requirements.txt
+    - name: 🌐 Install Chrome
+      uses: browser-actions/setup-chrome@v1
 
-           playwright install --with-deps chromium
+    - name: 💾 Cache Playwright
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright
 
-      - name: Run Scraper
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Bạn cần tạo Secret này trong Settings Repo
-          GH_REPO: ${{ github.repository }}
-        run: python main.py # Thay bằng tên file của bạn
+    - name: 📦 Install dependencies
+      run: |
 
-      - name: Upload Debug Screenshots
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: debug-screenshots
-          path: "*.png"
+        python -m pip install --upgrade pip
+
+        pip install -r requirements.txt
+
+        playwright install --with-deps chromium
+
+    - name: 🚀 Run bot
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_REPO: ${{ github.repository }}
+
+      run: |
+
+        python main.py
