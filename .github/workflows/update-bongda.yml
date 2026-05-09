@@ -1,15 +1,18 @@
-name: Football Update
+name: Football Live Update
 
 on:
   schedule:
+    # Chạy mỗi 30 phút một lần
     - cron: '*/30 * * * *'
+  # Cho phép chạy thủ công từ tab Actions
   workflow_dispatch:
 
 jobs:
-  scrape:
+  update_stream:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -20,23 +23,41 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          # Fix lỗi thư viện trên Ubuntu mới (Noble)
-          sudo apt-get install -y libasound2t64 libatk1.0-0t64 libgbm1 libnss3 libasound2
+          # Cài đặt các gói thư viện tương thích với Ubuntu 24.04
+          # Đặc biệt là libasound2t64 và libatk-bridge2.0-0t64 để fix lỗi 100
+          sudo apt-get install -y \
+            libasound2t64 \
+            libatk1.0-0t64 \
+            libatk-bridge2.0-0t64 \
+            libgbm1 \
+            libnss3 \
+            libxcomposite1 \
+            libxcursor1 \
+            libxdamage1 \
+            libxi6 \
+            libxtst6 \
+            libpangocairo-1.0-0 \
+            libpango-1.0-0 \
+            libcups2
 
       - name: Install Python Packages
         run: |
+          python -m pip install --upgrade pip
           pip install requests PyGithub playwright playwright-stealth
+          # Cài đặt Chromium kèm các dependency bổ trợ của Playwright
           playwright install --with-deps chromium
 
-      - name: Run Script
+      - name: Run Scraper Script
         env:
+          # Đảm bảo bạn đã thêm GH_TOKEN vào Repo Settings > Secrets > Actions
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_REPO: ${{ github.repository }}
         run: python main.py
 
-      - name: Save Debug Image
+      - name: Upload Debug Screenshot
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: debug-result
+          name: debug-results
           path: last_debug.png
+          retention-days: 3
