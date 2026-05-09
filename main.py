@@ -45,33 +45,51 @@ LOGO_CACHE = {}  # Cache logo đội bóng để tăng tốc độ
 # UTILS
 # =========================================================
 def get_team_logo(team_name):
-    """Hàm lấy logo đội bóng - ĐÃ THÊM MỚI"""
+    """Ưu tiên football-logos.cc, chỉ fallback UI Avatar khi không lấy được"""
     if not team_name or team_name == "Unknown":
         return ""
-    
+
     team_name = re.sub(r"\bFc\b$", "FC", team_name.strip())
     
     if team_name in LOGO_CACHE:
         return LOGO_CACHE[team_name]
 
-    # Ưu tiên logo thật từ football-logos.cc
+    # ==================== ƯU TIÊN 1: football-logos.cc ====================
     try:
-        slug = team_name.lower().replace(" ", "-")
-        url = f"https://football-logos.cc/{slug}/"
-        r = requests.get(url, headers=_HEADERS, timeout=5)
-        match = re.search(r'https://football-logos.cc/logos/[^"]+\.png', r.text)
-        if match:
-            logo = match.group(0)
-            LOGO_CACHE[team_name] = logo
-            return logo
+        base_slug = team_name.lower().replace(" ", "-").replace(".", "")
+        
+        # Thử nhiều biến thể slug phổ biến
+        slug_variants = [
+            base_slug,
+            base_slug.replace("manchester-united", "man-utd"),
+            base_slug.replace("manchester-city", "man-city"),
+            base_slug.replace("tottenham", "spurs"),
+            re.sub(r'-\d+$', '', base_slug)  # Xóa số thừa nếu có
+        ]
+
+        for slug in slug_variants:
+            try:
+                url = f"https://football-logos.cc/{slug}/"
+                r = requests.get(url, headers=_HEADERS, timeout=8)
+                
+                if r.status_code == 200:
+                    # Tìm logo PNG
+                    match = re.search(r'https?://football-logos\.cc/logos/[^"\']+\.png', r.text)
+                    if match:
+                        logo_url = match.group(0)
+                        LOGO_CACHE[team_name] = logo_url
+                        print(f"✅ Lấy logo thật: {team_name}")
+                        return logo_url
+            except:
+                continue
     except:
         pass
 
-    # Fallback
-    logo = f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name[:2])}&size=200&background=1565C0&color=ffffff&bold=true"
-    LOGO_CACHE[team_name] = logo
-    return logo
-
+    # ==================== FALLBACK: UI Avatar ====================
+    logo_url = f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name[:2])}&size=200&background=1565C0&color=ffffff&bold=true"
+    LOGO_CACHE[team_name] = logo_url
+    print(f"⚠️ Dùng UI Avatar cho: {team_name}")
+    return logo_url
 
 def parse_url_to_info(url):
     try:
