@@ -3,7 +3,7 @@ name: Football Live Update
 on:
   schedule:
     # Chạy mỗi 30 phút một lần
-    - cron: '*/30 * * * *'
+    - cron: '*/10 * * * *'
   # Cho phép chạy thủ công từ tab Actions
   workflow_dispatch:
 
