@@ -1,6 +1,6 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "00:13 10/05/2026",
+  "last_updated": "00:28 10/05/2026",
   "buncha": [
     {
       "title": "Albacete Balompie Sad vs Cultural Leonesa",
@@ -93,22 +93,22 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Grazer Ak vs Rheindorf Altach",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "22:00 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Gr&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/grazer-ak-vs-rheindorf-altach-2200-09-05-2026/601447030",
-      "stream_url": "https://live.rapidlive.shop/live/c4cd19994fac40ca94e0f7a26aa16341/playlist.m3u8"
-    },
-    {
-      "title": "Jagiellonia Bialystok vs Pogon Szczecin",
+      "title": "Fk Zeleznicar Pancevo vs Radnik Surdulica",
       "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "22:30 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Ja&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/jagiellonia-bialystok-vs-pogon-szczecin-2230-09-05-2026/601447174",
-      "stream_url": "https://live.rapidlive.shop/live/973db71b8d5834787954879dfdb0b1d6/playlist.m3u8"
+      "logo_nha": "https://ui-avatars.com/api/?name=Fk&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/fk-zeleznicar-pancevo-vs-radnik-surdulica-2230-09-05-2026/601447210",
+      "stream_url": "https://live.rapidlive.shop/live/05dddbda2c699984d798ec33739b75ae/playlist.m3u8"
+    },
+    {
+      "title": "Levski Sofia vs Ludogorets Razgrad",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "22:45 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Le&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/levski-sofia-vs-ludogorets-razgrad-2245-09-05-2026/601447216",
+      "stream_url": "https://live.rapidlive.shop/live/f9bcb9f858fa73ecde845a3725cc47ab/playlist.m3u8"
     }
   ],
   "hoiquan": [
@@ -119,7 +119,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=La&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/lazio-vs-inter.fp5irwz0iv/7246",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177834658369220&wsIPSercert=c930ff0890f8fa624d4f339221f05996&wsBindIP=2&wsserid=1168202333418134578"
+      "stream_url": "https://tfvq1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177834749976908&wsIPSercert=6e87888e3c1b7be480d55ff8c96dec94&wsBindIP=2&wsserid=1168176581102008440"
     },
     {
       "title": "Manchester City vs Brentford.Dnsy Kleos",
@@ -128,7 +128,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-brentford.DNSy-KlEoS/7247",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177834659427264&wsIPSercert=c930ff0890f8fa624d4f339221f05996&wsBindIP=2&wsserid=1168202333418134578"
+      "stream_url": "https://tfvq1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177834751071239&wsIPSercert=6e87888e3c1b7be480d55ff8c96dec94&wsBindIP=2&wsserid=1168176581104105640"
     },
     {
       "title": "Manchester City vs Brentford.Kulujduhru",
@@ -137,7 +137,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-brentford.KulujdUHru/7248",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177834660535133&wsIPSercert=c930ff0890f8fa624d4f339221f05996&wsBindIP=2&wsserid=1168202333420231774"
+      "stream_url": "https://tfvq1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177834752156108&wsIPSercert=6e87888e3c1b7be480d55ff8c96dec94&wsBindIP=2&wsserid=1168176581104105640"
     },
     {
       "title": "Atletico Madrid vs Celta Vigo.Psmzvh4O04",
@@ -146,7 +146,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=At&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/atletico-madrid-vs-celta-vigo.pSmzvH4o04/7249",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177834661609576&wsIPSercert=c930ff0890f8fa624d4f339221f05996&wsBindIP=2&wsserid=1168202333420231774"
+      "stream_url": "https://tfvq1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177834753257672&wsIPSercert=6e87888e3c1b7be480d55ff8c96dec94&wsBindIP=2&wsserid=1168176581102008440"
     },
     {
       "title": "Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H",
@@ -155,7 +155,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Vf&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/vfl-wolfsburg-vs-bayern-munchen.Dlc7r9AM1h/7250",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177834662721074&wsIPSercert=c930ff0890f8fa624d4f339221f05996&wsBindIP=2&wsserid=1168202392933970899"
+      "stream_url": "https://tfvq1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177834754308125&wsIPSercert=6e87888e3c1b7be480d55ff8c96dec94&wsBindIP=2&wsserid=1168176581104105640"
     },
     {
       "title": "Toronto Fc vs Inter Miami.Iuoekzasos",
@@ -164,7 +164,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=To&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/toronto-fc-vs-inter-miami.IuOeKZASoS/7287",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177834663795946&wsIPSercert=c930ff0890f8fa624d4f339221f05996&wsBindIP=2&wsserid=1168202392933970899"
+      "stream_url": "https://tfvq1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177834755404714&wsIPSercert=6e87888e3c1b7be480d55ff8c96dec94&wsBindIP=2&wsserid=1168176581102008440"
     },
     {
       "title": "Lecce vs Juventus.00Lwdcqkrc",
