@@ -107,35 +107,42 @@ def capture_stream(context, match_url):
 # OUTPUT & GITHUB
 # =========================================================
 def generate_m3u(data):
+    # Đường dẫn logo của từng Provider (Thay link ảnh của bạn vào đây)
+    LOGO_PROVIDER = {
+        "buncha": "https://i.imgur.com/your_buncha_logo.png", 
+        "hoiquan": "https://i.imgur.com/your_hoiquan_logo.png"
+    }
+    
     lines = ["#EXTM3U", f"#PLAYLISTNAME: ⚽ Sáng TV Live - {data['last_updated']}", ""]
     
     for cid in ["buncha", "hoiquan"]:
         matches = data.get(cid, [])
-        # Định dạng tên nhóm hiển thị trên App
+        # Tên nhóm hiển thị trên App
         group_name = "⭐ BÚN CHẢ TV" if cid == "buncha" else "🔥 HỘI QUÁN TV"
+        # Logo mặc định của Group/Provider
+        provider_logo = LOGO_PROVIDER.get(cid, "")
         
         for m in matches:
-            # Chỉ thêm vào list nếu có stream thực tế
             if m['stream_url'] and m['stream_url'] != WAITING_VIDEO_URL:
-                # Tối ưu tiêu đề: [Giờ] Đội A vs Đội B
+                # Định dạng tiêu đề: [Giờ] Đội A vs Đội B
                 display_time = m['thoi_gian'].split(' ')[0] if m['thoi_gian'] != "Unknown" else "Live"
                 title = f"{display_time} ⚽ {m['title']}"
                 
-                # Metadata cho IPTV App
-                logo = m.get("logo_nha", "")
+                # Ưu tiên logo đội bóng, nếu không có thì dùng logo Provider
+                logo_display = m.get("logo_nha") if m.get("logo_nha") else provider_logo
                 
-                # Cấu trúc chuẩn M3U Plus
+                # Metadata chuẩn M3U Plus
                 inf_line = (
                     f'#EXTINF:-1 tvg-id="{m["title"]}" '
                     f'tvg-name="{m["title"]}" '
-                    f'tvg-logo="{logo}" '
+                    f'tvg-logo="{logo_display}" '
                     f'group-title="{group_name}",'
                     f'{title}'
                 )
                 
                 lines.append(inf_line)
                 lines.append(m['stream_url'])
-                lines.append("") # Dòng trống ngăn cách
+                lines.append("") 
                 
     return "\n".join(lines)
     
