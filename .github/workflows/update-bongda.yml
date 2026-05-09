@@ -27,3 +27,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # Bạn cần tạo Secret này trong Settings Repo
           GH_REPO: ${{ github.repository }}
         run: python main.py # Thay bằng tên file của bạn
+
+        - name: Upload Debug Screenshots
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug-screenshots
+          path: "*.png"
