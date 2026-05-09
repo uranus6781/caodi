@@ -34,42 +34,34 @@ _HEADERS = {
 # =========================================================
 # UTILS
 # =========================================================
+def normalize_team_name(name):
+    name = re.sub(r"\bFc\b$", "FC", name)
+    return name.strip()
+
 def get_team_logo(team_name):
-    if not team_name or team_name == "Unknown": 
-        return ""
-    
+    if not team_name or team_name == "Unknown": return ""
     team_name = normalize_team_name(team_name)
-    if team_name in LOGO_CACHE:
-        return LOGO_CACHE[team_name]
+    if team_name in LOGO_CACHE: return LOGO_CACHE[team_name]
 
     slug = team_name.lower().replace(" ", "-")
-    # Danh sách các URL tiềm năng để thử
+    # Thử lấy từ các nguồn logo bóng đá uy tín
     sources = [
-        # Nguồn 1: Football-Logos (Chuyên sâu bóng đá)
         f"https://football-logos.cc/logos/{slug}/logo.png",
-        
-        # Nguồn 2: Clearbit API (Thử tìm logo dựa trên tên miền giả định)
-        f"https://logo.clearbit.com/{slug}.com",
-        
-        # Nguồn 3: Biểu tượng từ kho dữ liệu mở
-        f"https://img.icons8.com/color/200/football-team.png" 
+        f"https://crests.football-data.org/{slug}.png"
     ]
 
     for url in sources:
         try:
-            # Kiểm tra nhanh xem link có tồn tại không (chỉ check 3 giây)
-            r = requests.head(url, headers=_HEADERS, timeout=3)
+            r = requests.head(url, timeout=2)
             if r.status_code == 200:
                 LOGO_CACHE[team_name] = url
                 return url
-        except:
-            continue
+        except: continue
 
-    # Nguồn cuối cùng: UI-Avatars (Luôn hoạt động, hiển thị chữ cái đầu của đội bóng)
-    # Background màu xanh đậm chuyên nghiệp
-    fallback_url = f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name)}&size=200&background=0D47A1&color=ffffff&bold=true"
-    LOGO_CACHE[team_name] = fallback_url
-    return fallback_url
+    # Fallback về UI Avatars nếu không tìm thấy logo xịn
+    fallback = f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name)}&size=200&background=0D47A1&color=ffffff&bold=true"
+    LOGO_CACHE[team_name] = fallback
+    return fallback
 
 def parse_url_to_info(url):
     try:
@@ -181,34 +173,20 @@ def generate_m3u(data):
     
 def push_to_github(all_data):
     if not GITHUB_TOKEN: return
-    
     json_content = json.dumps(all_data, indent=2, ensure_ascii=False)
     m3u_content = generate_m3u(all_data)
     
     g = Github(GITHUB_TOKEN)
     repo = g.get_repo(REPO_NAME)
     now_str = datetime.datetime.now(VN_TZ).strftime("%H:%M %d/%m/%Y")
+    live_count = sum(1 for cid in ["buncha", "hoiquan"] for m in all_data.get(cid, []) if m['stream_url'] != WAITING_VIDEO_URL)
 
-    # Đếm số trận live để ghi vào commit message cho chuyên nghiệp
-    live_count = sum(1 for cid in ["buncha", "hoiquan"] 
-                     for m in all_data.get(cid, []) 
-                     if m['stream_url'] != WAITING_VIDEO_URL)
-
-    files = {
-        FILE_PATH_JSON: json_content,
-        FILE_PATH_M3U: m3u_content
-    }
-
-    for path, content in files.items():
+    for p, c in {FILE_PATH_JSON: json_content, FILE_PATH_M3U: m3u_content}.items():
         try:
-            existing = repo.get_contents(path)
-            # Commit message đẹp mắt
-            commit_msg = f"⚽ Update {path} | 🔴 Live: {live_count} | 🕒 {now_str}"
-            repo.update_file(existing.path, commit_msg, content, existing.sha)
-            print(f"✅ Updated {path} ({live_count} matches)")
-        except Exception as e:
-            repo.create_file(path, f"🚀 Initial {path}", content)
-            print(f"✅ Created {path}")
+            existing = repo.get_contents(p)
+            repo.update_file(existing.path, f"⚽ Update {p} | Live: {live_count} | {now_str}", c, existing.sha)
+        except:
+            repo.create_file(p, f"✅ Create {p}", c)
 
 # =========================================================
 # MAIN
