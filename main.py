@@ -13,18 +13,8 @@ from playwright_stealth import Stealth
 # CONFIGURATION
 # =========================================================
 CHANNELS = [
-    {
-        "id": "buncha",
-        "name": "Bún Chả TV",
-        "url": "https://bunchatv4.net/truc-tiep-bong-da-xoilac-tv",
-        "base_url": "https://bunchatv4.net"
-    },
-    {
-        "id": "hoiquan",
-        "name": "Hội Quán TV",
-        "url": "https://sv2.hoiquan3.live/lich-thi-dau/bong-da",
-        "base_url": "https://sv2.hoiquan3.live"
-    }
+    {"id": "buncha", "name": "Bún Chả TV", "url": "https://bunchatv4.net/truc-tiep-bong-da-xoilac-tv", "base_url": "https://bunchatv4.net"},
+    {"id": "hoiquan", "name": "Hội Quán TV", "url": "https://sv2.hoiquan3.live/lich-thi-dau/bong-da", "base_url": "https://sv2.hoiquan3.live"}
 ]
 
 FILE_PATH_JSON = "bongda.json"
@@ -45,18 +35,13 @@ _HEADERS = {
 # UTILS
 # =========================================================
 def get_team_logo(team_name):
-    if not team_name or team_name == "Unknown":
-        return ""
+    if not team_name or team_name == "Unknown": return ""
     return f"https://ui-avatars.com/api/?name={requests.utils.quote(team_name[:2])}&size=200&background=1565C0&color=ffffff&bold=true"
 
 def parse_url_to_info(url):
     try:
         parts = url.rstrip('/').split('/')
-        slug = ""
-        for p in reversed(parts):
-            if "-vs-" in p:
-                slug = p.split('?')[0].split('#')[0]
-                break
+        slug = next((p.split('?')[0] for p in reversed(parts) if "-vs-" in p), "")
         if not slug: return "Unknown", "Unknown", "Unknown"
         slug = re.sub(r'-\d{6,}$', '', slug)
         time_match = re.search(r"-(\d{4}-\d{2}-\d{2}-\d{4})$", slug)
@@ -65,22 +50,17 @@ def parse_url_to_info(url):
             thoi_gian = f"{t[0:2]}:{t[2:4]} {t[5:7]}/{t[8:10]}/{t[11:15]}"
             teams_slug = slug[:slug.rfind("-" + t)]
         else:
-            thoi_gian = "Unknown"
-            teams_slug = slug
+            thoi_gian = "Unknown"; teams_slug = slug
         teams = teams_slug.split("-vs-", 1)
-        doi_nha = teams[0].replace("-", " ").title().strip()
-        doi_khach = teams[1].replace("-", " ").title().strip() if len(teams) > 1 else "Unknown"
-        return doi_nha, doi_khach, thoi_gian
-    except:
-        return "Unknown", "Unknown", "Unknown"
+        return teams[0].replace("-", " ").title().strip(), teams[1].replace("-", " ").title().strip() if len(teams) > 1 else "Unknown", thoi_gian
+    except: return "Unknown", "Unknown", "Unknown"
 
 # =========================================================
-# CORE: CAPTURE STREAM (FIXED)
+# CORE: CAPTURE STREAM
 # =========================================================
 def capture_stream(context, match_url):
     page = context.new_page()
     Stealth().apply_stealth_sync(page)
-    
     found_streams = []
 
     def process_url(url):
@@ -98,9 +78,9 @@ def capture_stream(context, match_url):
 
     try:
         page.goto(match_url, wait_until="domcontentloaded", timeout=60000)
-        page.wait_for_timeout(10000) # Đợi load player
+        page.wait_for_timeout(10000) 
 
-        # Click kích hoạt video thông qua Iframe
+        # Click kích hoạt video qua mọi Frame (Iframe-Deep-Click)
         for frame in page.frames:
             try:
                 box = frame.frame_element().bounding_box()
@@ -108,16 +88,15 @@ def capture_stream(context, match_url):
                     page.mouse.click(box['x'] + box['width']/2, box['y'] + box['height']/2)
             except: continue
 
-        # Đợi luồng m3u8 phát sinh
         deadline = time.time() + 15
         while time.time() < deadline:
             if any(s['score'] >= 5000 for s in found_streams): break
+            page.mouse.wheel(0, 100) # Cuộn nhẹ để kích hoạt script player
             time.sleep(1)
-
     except Exception as e:
         print(f"   ❌ Lỗi Capture: {e}")
     finally:
-        page.screenshot(path="last_debug.png") # Luôn chụp ảnh để debug
+        page.screenshot(path="last_debug.png")
         page.close()
 
     if not found_streams: return None
@@ -125,130 +104,82 @@ def capture_stream(context, match_url):
     return found_streams[0]['url']
 
 # =========================================================
-# GENERATE CONTENT
-# =========================================================
-def generate_m3u(data):
-    lines = ["#EXTM3U", f"#PLAYLISTNAME: Sáng TV - Update: {data['last_updated']}", ""]
-    for cid in ["buncha", "hoiquan"]:
-        matches = data.get(cid, [])
-        gname = "Bún Chả TV" if cid == "buncha" else "Hội Quán TV"
-        for m in matches:
-            if m['stream_url'] and m['stream_url'] != WAITING_VIDEO_URL:
-                lines.append(f'#EXTINF:-1 tvg-logo="{m["logo_nha"]}" group-title="{gname}", {m["title"]}')
-                lines.append(m['stream_url'])
-    return "\n".join(lines)
-
-# =========================================================
-# GITHUB PUSH
+# OUTPUT & GITHUB
 # =========================================================
 def push_to_github(all_data):
     if not GITHUB_TOKEN: return
-    
     json_content = json.dumps(all_data, indent=2, ensure_ascii=False)
-    m3u_content = generate_m3u(all_data)
+    
+    # Tạo M3U
+    m3u_lines = ["#EXTM3U", f"#PLAYLISTNAME: Sáng TV - {all_data['last_updated']}", ""]
+    for cid in ["buncha", "hoiquan"]:
+        for m in all_data.get(cid, []):
+            if m['stream_url'] != WAITING_VIDEO_URL:
+                m3u_lines.append(f'#EXTINF:-1 tvg-logo="{m["logo_nha"]}" group-title="{cid.upper()}", {m["title"]}')
+                m3u_lines.append(m['stream_url'])
     
     g = Github(GITHUB_TOKEN)
     repo = g.get_repo(REPO_NAME)
     now_str = datetime.datetime.now(VN_TZ).strftime("%H:%M %d/%m/%Y")
 
-    files = {
-        FILE_PATH_JSON: json_content,
-        FILE_PATH_M3U: m3u_content
-    }
-
-    for path, content in files.items():
+    for p, c in {FILE_PATH_JSON: json_content, FILE_PATH_M3U: "\n".join(m3u_lines)}.items():
         try:
-            existing = repo.get_contents(path)
-            repo.update_file(existing.path, f"⚽ Update {path}: {now_str}", content, existing.sha)
-            print(f"✅ Updated {path}")
+            existing = repo.get_contents(p)
+            repo.update_file(existing.path, f"⚽ Update {p}: {now_str}", c, existing.sha)
         except:
-            repo.create_file(path, f"✅ Created {path}: {now_str}", content)
-            print(f"✅ Created {path}")
+            repo.create_file(p, f"✅ Create {p}: {now_str}", c)
 
 # =========================================================
-# MAIN SCRAPER
+# MAIN
 # =========================================================
 def scrape_and_push():
     all_channel_data = {"buncha": [], "hoiquan": []}
-    print(f"--- START: {datetime.datetime.now(VN_TZ)} ---")
-
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-setuid-sandbox"])
-        context = browser.new_context(
-            viewport={"width": 1920, "height": 1080},
-            user_agent=_HEADERS["User-Agent"],
-            locale="vi-VN",
-            timezone_id="Asia/Ho_Chi_Minh"
-        )
+        browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
+        context = browser.new_context(viewport={"width": 1920, "height": 1080}, user_agent=_HEADERS["User-Agent"], locale="vi-VN")
 
-        # 1. Quét lịch thi đấu
         for channel in CHANNELS:
-            print(f"📺 Quét kênh: {channel['name']}")
             page = context.new_page()
             Stealth().apply_stealth_sync(page)
             try:
                 page.goto(channel["url"], wait_until="domcontentloaded", timeout=60000)
                 page.wait_for_timeout(5000)
                 
-                # Cuộn trang để load trận
-                for _ in range(3): 
-                    page.mouse.wheel(0, 2000)
-                    page.wait_for_timeout(800)
-
                 links = []
                 seen = set()
                 for el in page.locator("a[href*='-vs-']").all():
                     href = el.get_attribute("href")
                     if href and "-vs-" in href and href not in seen:
                         seen.add(href)
-                        full_url = href if href.startswith("http") else f"{channel['base_url'].rstrip('/')}/{href.lstrip('/')}"
-                        links.append(full_url)
+                        links.append(href if href.startswith("http") else f"{channel['base_url'].rstrip('/')}/{href.lstrip('/')}")
                 
-                for idx, href in enumerate(links[:LIMIT_MATCHES]):
+                for href in links[:LIMIT_MATCHES]:
                     doi_nha, doi_khach, thoi_gian = parse_url_to_info(href)
-                    is_live, status = False, "Sắp diễn ra ⏳"
-                    
+                    is_live, status = False, "Chờ đợi"
                     try:
                         m_time = datetime.datetime.strptime(thoi_gian, "%H:%M %d/%m/%Y").replace(tzinfo=VN_TZ)
                         diff = (datetime.datetime.now(VN_TZ) - m_time).total_seconds() / 60
-                        if -15 <= diff <= 150:
-                            is_live = True
-                            status = "Đang trực tiếp 🔴"
-                        elif diff > 150:
-                            status = "Đã kết thúc 🏁"
-                    except: pass
+                        if -15 <= diff <= 150: is_live = True; status = "Đang trực tiếp 🔴"
+                        elif diff > 150: status = "Đã kết thúc 🏁"
+                    except: is_live = True # Fallback
 
                     all_channel_data[channel["id"]].append({
-                        "title": f"{doi_nha} vs {doi_khach}",
-                        "trang_thai": status,
-                        "is_live": is_live,
-                        "thoi_gian": thoi_gian,
-                        "logo_nha": get_team_logo(doi_nha),
-                        "link_xem": href,
-                        "stream_url": WAITING_VIDEO_URL
+                        "title": f"{doi_nha} vs {doi_khach}", "trang_thai": status, "is_live": is_live,
+                        "thoi_gian": thoi_gian, "logo_nha": get_team_logo(doi_nha), "link_xem": href, "stream_url": WAITING_VIDEO_URL
                     })
-            except Exception as e: print(f"❌ Lỗi quét {channel['id']}: {e}")
+            except: pass
             finally: page.close()
 
-        # 2. Bắt luồng cho các trận Live
         for cid in all_channel_data:
-            live_matches = [m for m in all_channel_data[cid] if m["is_live"]]
-            print(f"🎥 Kênh {cid}: Có {len(live_matches)} trận đang Live")
-            for m in live_matches:
-                print(f"   ► Bắt luồng: {m['title']}")
-                stream = capture_stream(context, m["link_xem"])
-                if stream: m["stream_url"] = stream
+            for m in all_channel_data[cid]:
+                if m["is_live"]:
+                    print(f"🎥 Bắt luồng: {m['title']}")
+                    stream = capture_stream(context, m["link_xem"])
+                    if stream: m["stream_url"] = stream
 
         browser.close()
 
-    # 3. Tổng hợp và đẩy lên GitHub
-    final_data = {
-        "playlist_name": "Sáng TV",
-        "last_updated": datetime.datetime.now(VN_TZ).strftime("%H:%M %d/%m/%Y"),
-        **all_channel_data
-    }
-    push_to_github(final_data)
-    print("--- HOÀN TẤT ---")
+    push_to_github({"playlist_name": "Sáng TV", "last_updated": datetime.datetime.now(VN_TZ).strftime("%H:%M %d/%m/%Y"), **all_channel_data})
 
 if __name__ == "__main__":
     scrape_and_push()
