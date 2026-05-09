@@ -186,9 +186,6 @@ def capture_stream(context, match_url):
         return priority[0]
     
     return None
-    
-# Lưu ảnh để xem trang có bị màn hình trắng, bị chặn Cloudflare hay không
-        page.screenshot(path=f"debug_{int(time.time())}.png")
         
     # ==================================
     # BỘ CHẤM ĐIỂM SIÊU TRÍ TUỆ
