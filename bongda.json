@@ -1,6 +1,224 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "00:47 10/05/2026",
-  "buncha": [],
-  "hoiquan": []
+  "last_updated": "00:57 10/05/2026",
+  "buncha": [
+    {
+      "title": "Albacete Balompie Sad vs Cultural Leonesa",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:15 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/albacete-balompie-sad-vs-cultural-leonesa-2115-09-05-2026/601446769",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Burgos Cf vs Almeria",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:15 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Bu&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/burgos-cf-vs-almeria-2115-09-05-2026/601446772",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Sv Waldhof Mannheim vs Ssv Jahn Regensburg",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Sv&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/sv-waldhof-mannheim-vs-ssv-jahn-regensburg-2130-09-05-2026/601446781",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Willem Ii vs Rkc Waalwijk",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Wi&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/willem-ii-vs-rkc-waalwijk-2130-09-05-2026/601446811",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Gd Chaves vs Leixoes",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Gd&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/gd-chaves-vs-leixoes-2130-09-05-2026/601451920",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Feirense vs Oliveirense",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Fe&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/feirense-vs-oliveirense-2130-09-05-2026/601451923",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Fc Felgueiras vs Portimonense",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Fc&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/fc-felgueiras-vs-portimonense-2130-09-05-2026/601451926",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Sc Farense vs Pacos De Ferreira",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Sc&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/sc-farense-vs-pacos-de-ferreira-2130-09-05-2026/601451935",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Sporting Cp B vs Porto B",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Sp&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/sporting-cp-b-vs-porto-b-2130-09-05-2026/601451938",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Aarau W vs Grasshopper W",
+      "trang_thai": "Đã kết thúc 🏁",
+      "is_live": false,
+      "thoi_gian": "21:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Aa&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/aarau-w-vs-grasshopper-w-2130-09-05-2026/601458805",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Kickers Emden vs Vfb Lubeck",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ki&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/kickers-emden-vs-vfb-lubeck-2300-09-05-2026/601447240",
+      "stream_url": "https://live.rapidlive.shop/live/4e3b3cde11d60aae6ba8e3b443cf8ba7/playlist.m3u8"
+    },
+    {
+      "title": "Tus Blauweiss Lohne vs Fc Schoningen08",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Tu&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/tus-blauweiss-lohne-vs-fc-schoningen08-2300-09-05-2026/601447243",
+      "stream_url": "https://live.rapidlive.shop/live/4be82554d09de7e5091afdc463f8992f/playlist.m3u8"
+    }
+  ],
+  "hoiquan": [
+    {
+      "title": "Manchester City vs Brentford.Dnsy Kleos",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-brentford.DNSy-KlEoS/7247",
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b13a377620805d23a25c70ea-177834923654433&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256623223254"
+    },
+    {
+      "title": "Manchester City vs Brentford.Kulujduhru",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-brentford.KulujdUHru/7248",
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177834924699137&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256620077470"
+    },
+    {
+      "title": "Atletico Madrid vs Celta Vigo.Psmzvh4O04",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=At&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/atletico-madrid-vs-celta-vigo.pSmzvH4o04/7249",
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177834925814903&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256620077470"
+    },
+    {
+      "title": "Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Vf&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/vfl-wolfsburg-vs-bayern-munchen.Dlc7r9AM1h/7250",
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=bd8904d53a0e9740aaeab4cb-177834926883829&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256629514822"
+    },
+    {
+      "title": "Toronto Fc vs Inter Miami.Iuoekzasos",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=To&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/toronto-fc-vs-inter-miami.IuOeKZASoS/7287",
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=141b69772512e4307536deab-177834927998137&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256626369038"
+    },
+    {
+      "title": "Lecce vs Juventus.00Lwdcqkrc",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Le&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/lecce-vs-juventus.00LwdcQkrc/7288",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Real Sociedad vs Real Betis.Sbtcutkp M",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Re&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/real-sociedad-vs-real-betis.SBtcUTKP-M/7289",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Nashville Sc vs Dc United.Gujhyyhibo",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Na&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/nashville-sc-vs-dc-united.gUjhYyhIBO/7302",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Yokohama F Marinos vs Kashima.Tqrtv18K9A",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Yo&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/yokohama-f-marinos-vs-kashima.tqrtV18K9a/7303",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Kashiwa Reysol vs Kawasaki Frontale.5Djjnvb_6W",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ka&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/kashiwa-reysol-vs-kawasaki-frontale.5DJjNVB_6W/7305",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Jef United Chiba vs Machida Zelvia.Lhkxx_N5Nw",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Je&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/jef-united-chiba-vs-machida-zelvia.LHKxx_N5NW/7307",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Hoang Anh Gia Lai vs Pho Hien.Myo9Wz1Pzz",
+      "trang_thai": "Chờ đợi",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ho&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/hoang-anh-gia-lai-vs-pho-hien.MyO9wz1PzZ/7290",
+      "stream_url": "https://example.com/waiting.mp4"
+    }
+  ]
 }
