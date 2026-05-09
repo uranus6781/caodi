@@ -1,42 +1,53 @@
-name: Update BongDa M3U Playlist
+name: ⚽ Update Bóng Đá M3U
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:
+    - cron: '*/12 * * * *'        # Chạy mỗi 12 phút (có thể chỉnh)
+  
+  workflow_dispatch:              # Cho phép chạy thủ công từ GitHub
 
 jobs:
-  update-playlist:
+  update-bongda:
     runs-on: ubuntu-latest
-    timeout-minutes: 15          # ← Giới hạn 15 phút tránh treo mãi
 
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install playwright
+          pip install playwright github.py requests playwright-stealth
 
-      - name: Install Playwright Browser + Deps
-        run: |
-          playwright install chromium --with-deps
+      - name: 🌐 Install Playwright Browsers
+        run: python -m playwright install chromium --with-deps
 
-      - name: Run scraper
-        run: python main.py
+      - name: ⚙️ Run Scraper Script
         env:
-          PYTHONUNBUFFERED: "1"     # Hiển thị log realtime
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # GH_REPO: uranus6781/caodi   # Nếu muốn ghi đè
+        run: python main.py     # ← Đổi tên file nếu khác
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add bongda.m3u
-          git commit -m "Update bongda.m3u - $(date '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes"
-          git push
+      - name: 📤 Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "⚽ Auto Update Bóng Đá M3U - ${{ github.event.repository.updated_at }}"
+          file_pattern: bongda.m3u
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: 🔔 Discord Notification (tùy chọn)
+        if: always()
+        uses: Ilshidur/action-discord@master
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        with:
+          args: |
+            **Bóng Đá Scraper** đã chạy xong!
+            Kết quả: ${{ job.status }}
+            Thời gian: ${{ github.event.repository.updated_at }}
