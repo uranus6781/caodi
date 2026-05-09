@@ -30,7 +30,7 @@ jobs:
       - name: ⚙️ Run Scraper Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python scrape_bongda.py
+        run: python main.py
 
       - name: 📤 Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
