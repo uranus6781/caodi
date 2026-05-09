@@ -1,7 +1,6 @@
 import os
 import re
 import time
-import json
 import datetime
 import requests
 from github import Github
@@ -32,7 +31,7 @@ LIMIT_MATCHES = 10
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
-REPO_NAME = os.getenv("GH_REPO", "Eternal161/dausoco")
+REPO_NAME = os.getenv("GH_REPO", "uranus6781/caodi")   # ← Đã đổi
 
 _HEADERS = {
     "User-Agent": (
@@ -135,7 +134,6 @@ def capture_stream(context, match_url):
         page.goto(match_url, wait_until="load", timeout=60000)
         page.wait_for_timeout(4000)
 
-        # Click giữa màn hình
         try:
             vp = page.viewport_size
             if vp:
@@ -155,7 +153,6 @@ def capture_stream(context, match_url):
     finally:
         page.close()
 
-    # Chọn stream tốt nhất
     if streams:
         priority = []
         for s in streams:
@@ -224,7 +221,7 @@ def push_to_github(content, file_name=FILE_PATH):
         return
 
     g = Github(GITHUB_TOKEN)
-    repo = g.get_repo(REPO_NAME)
+    repo = g.get_repo(REPO_NAME)          # ← Sử dụng repo mới
     msg = f"⚽ Update M3U: {datetime.datetime.now(VN_TZ).strftime('%H:%M %d/%m/%Y')}"
 
     try:
@@ -263,7 +260,6 @@ def scrape_and_push():
             ignore_https_errors=True
         )
 
-        # ====================== LẤY LỊCH ======================
         for channel in CHANNELS:
             print(f"\n📺 ĐANG QUÉT KÊNH: {channel['name'].upper()}")
             page = context.new_page()
@@ -323,7 +319,6 @@ def scrape_and_push():
                 all_channel_data[channel["id"]].append(match_info)
             page.close()
 
-        # ====================== BẮT STREAM ======================
         print("\n🎥 TIẾN HÀNH BẮT LUỒNG...")
         for channel in CHANNELS:
             live_matches = [m for m in all_channel_data[channel["id"]] if m["is_live"]]
@@ -338,7 +333,6 @@ def scrape_and_push():
 
         browser.close()
 
-    # ====================== TẠO & PUSH M3U ======================
     content = create_m3u(all_channel_data)
     
     with open(FILE_PATH, "w", encoding="utf-8") as f:
