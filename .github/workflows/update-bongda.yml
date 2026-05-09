@@ -1,41 +1,29 @@
-name: ⚽ Update Bóng Đá M3U
+name: Update Football Playlist
 
 on:
   schedule:
-    - cron: '*/12 * * * *'        # Chạy mỗi 12 phút
-  
-  workflow_dispatch:              # Chạy thủ công khi cần
+    - cron: '*/30 * * * *' # Chạy mỗi 30 phút
+  workflow_dispatch: # Cho phép bấm nút chạy thủ công
 
 jobs:
-  update-bongda:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: 🐍 Set up Python 3.11
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.10'
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install PyGithub playwright requests playwright-stealth
+          pip install requests PyGithub playwright playwright-stealth
+          playwright install chromium
 
-      - name: 🌐 Install Playwright Browsers
-        run: python -m playwright install chromium --with-deps
-
-      - name: ⚙️ Run Scraper Script
+      - name: Run Scraper
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python main.py
-
-      - name: 📤 Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "⚽ Auto Update Bóng Đá M3U"
-          file_pattern: bongda.m3u
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Bạn cần tạo Secret này trong Settings Repo
+          GH_REPO: ${{ github.repository }}
+        run: python your_script_name.py # Thay bằng tên file của bạn
