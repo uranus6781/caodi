@@ -109,11 +109,11 @@ def capture_stream(context, match_url):
 def generate_m3u(data):
     # Đường dẫn logo của từng Provider (Thay link ảnh của bạn vào đây)
     LOGO_PROVIDER = {
-        "buncha": "https://i.imgur.com/your_buncha_logo.png", 
-        "hoiquan": "https://i.imgur.com/your_hoiquan_logo.png"
+        "buncha": "https://bunchatv.com/images/logo.png", 
+        "hoiquan": "https://sv2.hoiquan3.live/logo.png"
     }
     
-    lines = ["#EXTM3U", f"#PLAYLISTNAME: ⚽ Sáng TV Live - {data['last_updated']}", ""]
+    lines = ["#EXTM3U", f"#PLAYLISTNAME: ⚽ Xem ngay - {data['last_updated']}", ""]
     
     for cid in ["buncha", "hoiquan"]:
         matches = data.get(cid, [])
