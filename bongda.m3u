@@ -1,2 +1,23 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 00:47 10/05/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 00:57 10/05/2026
+
+#EXTINF:-1 tvg-id="Kickers Emden vs Vfb Lubeck" tvg-name="Kickers Emden vs Vfb Lubeck" tvg-logo="https://ui-avatars.com/api/?name=Ki&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:00 ⚽ Kickers Emden vs Vfb Lubeck
+https://live.rapidlive.shop/live/4e3b3cde11d60aae6ba8e3b443cf8ba7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tus Blauweiss Lohne vs Fc Schoningen08" tvg-name="Tus Blauweiss Lohne vs Fc Schoningen08" tvg-logo="https://ui-avatars.com/api/?name=Tu&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",23:00 ⚽ Tus Blauweiss Lohne vs Fc Schoningen08
+https://live.rapidlive.shop/live/4be82554d09de7e5091afdc463f8992f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Manchester City vs Brentford.Dnsy Kleos" tvg-name="Manchester City vs Brentford.Dnsy Kleos" tvg-logo="https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Manchester City vs Brentford.Dnsy Kleos
+https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b13a377620805d23a25c70ea-177834923654433&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256623223254
+
+#EXTINF:-1 tvg-id="Manchester City vs Brentford.Kulujduhru" tvg-name="Manchester City vs Brentford.Kulujduhru" tvg-logo="https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Manchester City vs Brentford.Kulujduhru
+https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177834924699137&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256620077470
+
+#EXTINF:-1 tvg-id="Atletico Madrid vs Celta Vigo.Psmzvh4O04" tvg-name="Atletico Madrid vs Celta Vigo.Psmzvh4O04" tvg-logo="https://ui-avatars.com/api/?name=At&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Atletico Madrid vs Celta Vigo.Psmzvh4O04
+https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=63df5090efafaf6992db5545-177834925814903&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256620077470
+
+#EXTINF:-1 tvg-id="Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H" tvg-name="Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H" tvg-logo="https://ui-avatars.com/api/?name=Vf&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H
+https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=bd8904d53a0e9740aaeab4cb-177834926883829&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256629514822
+
+#EXTINF:-1 tvg-id="Toronto Fc vs Inter Miami.Iuoekzasos" tvg-name="Toronto Fc vs Inter Miami.Iuoekzasos" tvg-logo="https://ui-avatars.com/api/?name=To&size=200&background=1565C0&color=ffffff&bold=true" group-title="🔥 HỘI QUÁN TV",Live ⚽ Toronto Fc vs Inter Miami.Iuoekzasos
+https://tfvq1gr3uomttgr31hcj18yzd1c3pxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=141b69772512e4307536deab-177834927998137&wsIPSercert=c601d55e33ff3adc8f385e6f4bd7291d&wsBindIP=2&wsserid=1168243256626369038
