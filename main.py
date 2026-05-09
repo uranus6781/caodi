@@ -106,28 +106,69 @@ def capture_stream(context, match_url):
 # =========================================================
 # OUTPUT & GITHUB
 # =========================================================
+def generate_m3u(data):
+    lines = ["#EXTM3U", f"#PLAYLISTNAME: ⚽ Sáng TV Live - {data['last_updated']}", ""]
+    
+    for cid in ["buncha", "hoiquan"]:
+        matches = data.get(cid, [])
+        # Định dạng tên nhóm hiển thị trên App
+        group_name = "⭐ BÚN CHẢ TV" if cid == "buncha" else "🔥 HỘI QUÁN TV"
+        
+        for m in matches:
+            # Chỉ thêm vào list nếu có stream thực tế
+            if m['stream_url'] and m['stream_url'] != WAITING_VIDEO_URL:
+                # Tối ưu tiêu đề: [Giờ] Đội A vs Đội B
+                display_time = m['thoi_gian'].split(' ')[0] if m['thoi_gian'] != "Unknown" else "Live"
+                title = f"{display_time} ⚽ {m['title']}"
+                
+                # Metadata cho IPTV App
+                logo = m.get("logo_nha", "")
+                
+                # Cấu trúc chuẩn M3U Plus
+                inf_line = (
+                    f'#EXTINF:-1 tvg-id="{m["title"]}" '
+                    f'tvg-name="{m["title"]}" '
+                    f'tvg-logo="{logo}" '
+                    f'group-title="{group_name}",'
+                    f'{title}'
+                )
+                
+                lines.append(inf_line)
+                lines.append(m['stream_url'])
+                lines.append("") # Dòng trống ngăn cách
+                
+    return "\n".join(lines)
+    
 def push_to_github(all_data):
     if not GITHUB_TOKEN: return
-    json_content = json.dumps(all_data, indent=2, ensure_ascii=False)
     
-    # Tạo M3U
-    m3u_lines = ["#EXTM3U", f"#PLAYLISTNAME: Sáng TV - {all_data['last_updated']}", ""]
-    for cid in ["buncha", "hoiquan"]:
-        for m in all_data.get(cid, []):
-            if m['stream_url'] != WAITING_VIDEO_URL:
-                m3u_lines.append(f'#EXTINF:-1 tvg-logo="{m["logo_nha"]}" group-title="{cid.upper()}", {m["title"]}')
-                m3u_lines.append(m['stream_url'])
+    json_content = json.dumps(all_data, indent=2, ensure_ascii=False)
+    m3u_content = generate_m3u(all_data)
     
     g = Github(GITHUB_TOKEN)
     repo = g.get_repo(REPO_NAME)
     now_str = datetime.datetime.now(VN_TZ).strftime("%H:%M %d/%m/%Y")
 
-    for p, c in {FILE_PATH_JSON: json_content, FILE_PATH_M3U: "\n".join(m3u_lines)}.items():
+    # Đếm số trận live để ghi vào commit message cho chuyên nghiệp
+    live_count = sum(1 for cid in ["buncha", "hoiquan"] 
+                     for m in all_data.get(cid, []) 
+                     if m['stream_url'] != WAITING_VIDEO_URL)
+
+    files = {
+        FILE_PATH_JSON: json_content,
+        FILE_PATH_M3U: m3u_content
+    }
+
+    for path, content in files.items():
         try:
-            existing = repo.get_contents(p)
-            repo.update_file(existing.path, f"⚽ Update {p}: {now_str}", c, existing.sha)
-        except:
-            repo.create_file(p, f"✅ Create {p}: {now_str}", c)
+            existing = repo.get_contents(path)
+            # Commit message đẹp mắt
+            commit_msg = f"⚽ Update {path} | 🔴 Live: {live_count} | 🕒 {now_str}"
+            repo.update_file(existing.path, commit_msg, content, existing.sha)
+            print(f"✅ Updated {path} ({live_count} matches)")
+        except Exception as e:
+            repo.create_file(path, f"🚀 Initial {path}", content)
+            print(f"✅ Created {path}")
 
 # =========================================================
 # MAIN
