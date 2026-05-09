@@ -1,43 +1,7 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "01:13 10/05/2026",
+  "last_updated": "01:32 10/05/2026",
   "buncha": [
-    {
-      "title": "Kickers Emden vs Vfb Lubeck",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "23:00 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Ki&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/kickers-emden-vs-vfb-lubeck-2300-09-05-2026/601447240",
-      "stream_url": "https://live.rapidlive.shop/live/4e3b3cde11d60aae6ba8e3b443cf8ba7/playlist.m3u8"
-    },
-    {
-      "title": "Tus Blauweiss Lohne vs Fc Schoningen08",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "23:00 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Tu&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/tus-blauweiss-lohne-vs-fc-schoningen08-2300-09-05-2026/601447243",
-      "stream_url": "https://live.rapidlive.shop/live/4be82554d09de7e5091afdc463f8992f/playlist.m3u8"
-    },
-    {
-      "title": "Al Najmaksa vs Alhazm",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "23:15 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/al-najmaksa-vs-alhazm-2315-09-05-2026/601447435",
-      "stream_url": "https://live.rapidlive.shop/live/573d1561c9be4998008fe3d95eb372d9/playlist.m3u8"
-    },
-    {
-      "title": "Beerschot Wilrijk vs Kvsk Lommel",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "23:15 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Be&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/beerschot-wilrijk-vs-kvsk-lommel-2315-09-05-2026/601447438",
-      "stream_url": "https://live.rapidlive.shop/live/350bcb21cb907f580c3262e732140958/playlist.m3u8"
-    },
     {
       "title": "Rudar Prijedor vs Sarajevo",
       "trang_thai": "Đang trực tiếp 🔴",
@@ -46,15 +10,6 @@
       "logo_nha": "https://ui-avatars.com/api/?name=Ru&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://bunchatv4.net/truc-tiep/rudar-prijedor-vs-sarajevo-2330-09-05-2026/601446826",
       "stream_url": "https://live.rapidlive.shop/live/518c8603fc04ad6b501b20debd4516bf/playlist.m3u8"
-    },
-    {
-      "title": "Radnik Bijeljina vs Hsk Zrinjski Mostar",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "23:30 09/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Ra&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/radnik-bijeljina-vs-hsk-zrinjski-mostar-2330-09-05-2026/601446829",
-      "stream_url": "https://live.rapidlive.shop/live/2dce2645b47009d52024edcc079585ae/playlist.m3u8"
     },
     {
       "title": "Manchester City vs Brentford",
@@ -109,6 +64,51 @@
       "logo_nha": "https://ui-avatars.com/api/?name=Bh&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://bunchatv4.net/truc-tiep/bhantal-vs-wilberforce-strikers-2330-09-05-2026/601447477",
       "stream_url": "https://live.rapidlive.shop/live/129ed901e24f14252c9c53cdb6867a4b/playlist.m3u8"
+    },
+    {
+      "title": "Qatar U17 vs Indonesia U17",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:30 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Qa&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/qatar-u17-vs-indonesia-u17-2330-09-05-2026/601447486",
+      "stream_url": "https://cdn-hls.taoxanh.biz/live/69ff52b8203f5_73445/index.m3u8?expire=1778945336&sign=e0a814a520c38ef801ab0c10506b4c48"
+    },
+    {
+      "title": "Nk Varteks Varazdin vs Nk Lokomotiva Zagreb",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:45 09/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Nk&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/nk-varteks-varazdin-vs-nk-lokomotiva-zagreb-2345-09-05-2026/601447492",
+      "stream_url": "https://live.rapidlive.shop/live/6b166f7831b2749e651d64763ce92512/playlist.m3u8"
+    },
+    {
+      "title": "Eyupspor vs Caykur Rizespor",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "00:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ey&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/eyupspor-vs-caykur-rizespor-0000-10-05-2026/601449004",
+      "stream_url": "https://vlsrq.alilicloud.com/live/2bd8ae6807307432c1413c71aa134fb3/playlist.m3u8"
+    },
+    {
+      "title": "Baakehir Futbol Kulb vs Samsunspor",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "00:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ba&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/baakehir-futbol-kulb-vs-samsunspor-0000-10-05-2026/601449007",
+      "stream_url": "https://vlsrq.alilicloud.com/live/709e578a77583bd6114437b80889b4c9/playlist.m3u8"
+    },
+    {
+      "title": "Goztepe vs Gazisehir Gaziantep",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "00:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Go&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/goztepe-vs-gazisehir-gaziantep-0000-10-05-2026/601449010",
+      "stream_url": "https://vlsrq.alilicloud.com/live/ae705d13667ce2acaa6c1e52733cbd5d/playlist.m3u8"
     }
   ],
   "hoiquan": [
@@ -119,7 +119,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-brentford.DNSy-KlEoS/7247",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3e74063e3b2354b14bc96cc2-177835018483253&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202333418134578"
+      "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Manchester City vs Brentford.Kulujduhru",
@@ -128,7 +128,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Ma&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-brentford.KulujdUHru/7248",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177835019559631&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202333420231774"
+      "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Atletico Madrid vs Celta Vigo.Psmzvh4O04",
@@ -137,7 +137,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=At&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/atletico-madrid-vs-celta-vigo.pSmzvH4o04/7249",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8f47e38e2043bf642937c2d2-177835020665732&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202333420231774"
+      "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Vfl Wolfsburg vs Bayern Munchen.Dlc7R9Am1H",
@@ -146,7 +146,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Vf&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/vfl-wolfsburg-vs-bayern-munchen.Dlc7r9AM1h/7250",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177835021740728&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202392933970899"
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=cf1f6f907953641cf35f4010-177835137644729&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243256664118498"
     },
     {
       "title": "Toronto Fc vs Inter Miami.Iuoekzasos",
@@ -155,7 +155,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=To&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/toronto-fc-vs-inter-miami.IuOeKZASoS/7287",
-      "stream_url": "https://tfvq0gr4uqmtt8y41hcjw8yzdnpjufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c53c13e0f921081fdfef68c5-177835022853083&wsIPSercert=a5147ca74ea991e244130103bdcb15f7&wsBindIP=2&wsserid=1168202392933970899"
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=766ed26e817f96f91654d703-177835138692639&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243343870168317"
     },
     {
       "title": "Lecce vs Juventus.00Lwdcqkrc",
@@ -164,7 +164,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Le&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/lecce-vs-juventus.00LwdcQkrc/7288",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=766ed26e817f96f91654d703-177835139810797&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243343870168317"
     },
     {
       "title": "Real Sociedad vs Real Betis.Sbtcutkp M",
@@ -173,7 +173,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://ui-avatars.com/api/?name=Re&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/real-sociedad-vs-real-betis.SBtcUTKP-M/7289",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvq1gr3uomttgr31hcj18yzd1ctpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cf1f6f907953641cf35f4010-177835140883007&wsIPSercert=866c436612f0dedac545d396e41b55ff&wsBindIP=2&wsserid=1168243256664118498"
     },
     {
       "title": "Nashville Sc vs Dc United.Gujhyyhibo",
