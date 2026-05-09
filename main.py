@@ -121,86 +121,72 @@ def parse_url_to_info(url):
 
 def capture_stream(context, match_url):
     page = context.new_page()
+    # 1. Áp dụng Stealth để giả lập trình duyệt thật
     Stealth().apply_stealth_sync(page)
     streams = set()
 
     def process_url(url):
         u = url.lower()
-        if any(bad in u for bad in [".mp4", ".jpg", ".png", "waiting", "loop", "saba.m3u8", "/ad/", "/ads/", "/vast/", "quangcao", "banner"]):
+        # Loại bỏ các file tĩnh và quảng cáo rác
+        if any(bad in u for bad in [".mp4", ".jpg", ".png", "waiting", "google", "doubleclick", "ads-"]):
             return
-            
-        # Thêm tên miền 100ycdn.com từ ảnh của bạn vào danh sách săn lùng
-        if (".m3u8" in u or "taoxanh.biz" in u or "rapidlive.shop" in u 
-            or "edgemaxcdn.org" in u or "100ycdn.com" in u or "hqtv" in u or "live-stream" in u):
+        # Bộ lọc siêu rộng để bắt mọi loại link stream
+        if any(k in u for k in [".m3u8", "wssession", "sign=", "token=", "m3u8?"]):
             streams.add(url)
-            print(f"      🎯 TÓM ĐƯỢC: {url[:70]}...")
+            print(f" 🎯 TÓM ĐƯỢC: {url[:70]}...")
 
     page.on("request", lambda req: process_url(req.url))
     page.on("response", lambda res: process_url(res.url))
 
     try:
-        page.add_init_script("""
-        (() => {
-            const origFetch = window.fetch;
-            window.fetch = async (...args) => {
-                if (typeof args[0] === 'string') console.log('FETCH_HOOK:', args[0]);
-                return origFetch(...args);
-            };
-        })();
-        """)
+        # 2. Tăng timeout và giả lập hành vi chờ đợi
+        page.goto(match_url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(8000) # Đợi 8s cho trang load hết script
 
-        page.goto(match_url, wait_until="load", timeout=60000)
-        page.wait_for_timeout(4000)
-
-        try:
-            html_content = page.content()
-            hidden_links = re.findall(r'(https?://[^\s"\'<>]+(?:m3u8|taoxanh\.biz|rapidlive\.shop|edgemaxcdn\.org|100ycdn\.com|hqtv)[^\s"\'<>]*)', html_content)
-            for hl in hidden_links:
-                process_url(hl.replace('\\/', '/'))
-        except: pass
-
-        try:
-            page.evaluate("""
-            document.querySelectorAll('*').forEach(el => {
-                const s = window.getComputedStyle(el);
-                if (s.position === 'fixed' && parseInt(s.zIndex) > 900) el.remove();
-            });
-            """)
-        except: pass
-
-        try:
-            vp = page.viewport_size
-            if vp:
-                cx, cy = vp["width"] // 2, vp["height"] // 2
-                for _ in range(3):
-                    page.mouse.click(cx, cy)
-                    page.wait_for_timeout(800)
-        except: pass
-
-        for frame in page.frames:
+        # 3. KÍCH HOẠT PLAYER: Click vào tất cả Frame
+        # Vì video thường nằm trong Iframe, click ở trang chủ sẽ không có tác dụng
+        frames = page.frames
+        for frame in frames:
             try:
-                frame.evaluate("""
-                document.querySelectorAll('video').forEach(v => {
-                    v.muted = true;
-                    v.play().catch(()=>{});
-                });
-                """)
-            except: pass
+                # Tìm element video hoặc div phủ để click
+                box = frame.frame_element().bounding_box()
+                if box:
+                    # Click vào giữa Frame để kích hoạt Play
+                    page.mouse.click(box['x'] + box['width']/2, box['y'] + box['height']/2)
+                    page.wait_for_timeout(1000)
+            except:
+                continue
 
-        deadline = time.time() + 15
+        # 4. THỬ NGHIỆM: Click mù vào giữa màn hình chính 3 lần
+        for _ in range(3):
+            page.mouse.click(960, 540)
+            page.wait_for_timeout(1000)
+
+        # 5. CHỜ ĐỢI: Đợi thêm để link stream phát sinh sau khi click
+        deadline = time.time() + 20
         while time.time() < deadline:
-            # Rút lui sớm nếu chộp được link có wsSession
-            if any("token=" in s.lower() or "sign=" in s.lower() or "wssession=" in s.lower() or "100ycdn" in s.lower() for s in streams):
+            if any("m3u8" in s.lower() for s in streams):
                 break
             time.sleep(1)
 
-    except PWTimeout:
-        print("      ⚠️ TIMEOUT TRANG")
     except Exception as e:
-        print("      ❌ STREAM ERROR:", e)
+        print(f" ❌ Lỗi Capture: {e}")
     finally:
+        # Chụp ảnh screenshot để debug (tên file theo ID trận)
+        page.screenshot(path="last_debug.png")
         page.close()
-        
+
+    if streams:
+        # Ưu tiên các link có token hoặc từ server xịn
+        priority = sorted(list(streams), key=lambda x: (
+            "100ycdn" in x or "edgemax" in x, 
+            "token" in x or "sign" in x,
+            ".m3u8" in x
+        ), reverse=True)
+        return priority[0]
+    
+    return None
+    
 # Lưu ảnh để xem trang có bị màn hình trắng, bị chặn Cloudflare hay không
         page.screenshot(path=f"debug_{int(time.time())}.png")
         
