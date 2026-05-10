@@ -1,92 +1,181 @@
 {
-  "playlist_name": "Sáng TV",
-  "last_updated": "23:16 10/05/2026",
-  "buncha": [],
-  "hoiquan": [
+  "buncha": [
     {
-      "title": "Athletic Club vs Valencia.Qevqss567L",
-      "trang_thai": "Chờ",
+      "title": "Salitas Fc vs Asf Bobo Dioulasso",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/athletic-club-vs-valencia.QevQSs567L/7308",
-      "stream_url": "https://tfvr1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177842944926159&wsIPSercert=9d907f5f152dc56d9a31ec768071d99a&wsBindIP=2&wsserid=1168176581104105640"
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Sa&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/salitas-fc-vs-asf-bobo-dioulasso-2300-10-05-2026/601447321",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/4c0db86ab4a3a0df3ae8e584a874f561/playlist.m3u8"
     },
     {
+      "title": "Rc Bobo Dioulasso vs Us Forces Armees",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Rc&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/rc-bobo-dioulasso-vs-us-forces-armees-2300-10-05-2026/601447324",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/d490566019733d16bc086a1fa1a807f2/playlist.m3u8"
+    },
+    {
+      "title": "Ajeb vs Sporting Football Des Cascades",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Aj&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/ajeb-vs-sporting-football-des-cascades-2300-10-05-2026/601447327",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/980bdb1ed12dca1fc4160b6a3ec1137b/playlist.m3u8"
+    },
+    {
+      "title": "Vitesse Delft vs Rahimo Fc",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Vi&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/vitesse-delft-vs-rahimo-fc-2300-10-05-2026/601447336",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/b009cf5058eb8de8b98daccd0ec97c77/playlist.m3u8"
+    },
+    {
+      "title": "As Douanes Ouagadougou vs Cffeb",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=As&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/as-douanes-ouagadougou-vs-cffeb-2300-10-05-2026/601447342",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/aede9fa422ae5f47dd5b6331be8755eb/playlist.m3u8"
+    },
+    {
+      "title": "Alshabbab vs Sitra",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/alshabbab-vs-sitra-2300-10-05-2026/601447405",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/5dd6aa5ed16544abb99bd57e4c4f83af/playlist.m3u8"
+    },
+    {
+      "title": "Bahrain Sc vs Najma Manama",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ba&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/bahrain-sc-vs-najma-manama-2300-10-05-2026/601447408",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/4891364c5fd821e54eedbfdc0c9bbc0a/playlist.m3u8"
+    },
+    {
+      "title": "Parma vs As Roma",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Pa&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/parma-vs-as-roma-2300-10-05-2026/601452376",
+      "stream_url": "https://cdn-hls.taoxanh.biz/live/6a009cba42283_88186/index.m3u8?expire=1779029818&sign=8531e2dafd1782c20f370d2752f63f62"
+    },
+    {
+      "title": "Brondby If vs Aarhus Agf",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Br&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/brondby-if-vs-aarhus-agf-2300-10-05-2026/601452484",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/a74a9768486659861250428a608d7066/playlist.m3u8"
+    },
+    {
+      "title": "Fc Dinamo 1948 vs Arges",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Fc&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/fc-dinamo-1948-vs-arges-2300-10-05-2026/601452493",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/78542808bf9781e7c9a88a715e6f069b/playlist.m3u8"
+    },
+    {
+      "title": "Vietnam U17 vs South Korea U17",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:00 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Vi&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/vietnam-u17-vs-south-korea-u17-2300-10-05-2026/601452496",
+      "stream_url": "https://cdn-hls.taoxanh.biz/live/6a009cf3203f5_72787/index.m3u8?expire=1779029875&sign=2262554adb696c1612ea30a3de536d80"
+    },
+    {
+      "title": "Alriyadh vs Alfateh Sc",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "23:05 10/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/alriyadh-vs-alfateh-sc-2305-10-05-2026/601452502",
+      "stream_url": "https://cdn-hls.taoxanh.biz/live/6a009d0a203f5_136682/index.m3u8?expire=1779029898&sign=d9f0e3a3f54482a89140913223f1efe4"
+    }
+  ],
+  "hoiquan": [
+    {
       "title": "West Ham vs Arsenal.Ibfmypsdzf",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/west-ham-vs-arsenal.IbfMYpsDZF/7298",
-      "stream_url": "https://tfvr1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177842946038303&wsIPSercert=9d907f5f152dc56d9a31ec768071d99a&wsBindIP=2&wsserid=1168176581104105640"
-    },
-    {
-      "title": "1 Fc Koln vs 1 Fc Heidenheim.Nhzkwsyw14",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/1-fc-koln-vs-1-fc-heidenheim.nhZkwSYW14/7299",
-      "stream_url": "https://tfvr1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=5eaf10336ca0b8d2d1fbb677-177842947102774&wsIPSercert=9d907f5f152dc56d9a31ec768071d99a&wsBindIP=2&wsserid=1168176581104105640"
+      "stream_url": "https://tfvr0gr4uqmtt8y41hcjsgyzdnpb3fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=e991e052f2f5b72f195daeae-177843472625679&wsIPSercert=f0283a59b404e2ed6c35984c8fab7267&wsBindIP=2&wsserid=1168283476510245972"
     },
     {
       "title": "Parma vs As Roma.Qau0Vp_08A",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/parma-vs-as-roma.QAU0vP_08a/7300",
-      "stream_url": "https://tfvr1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177842948216151&wsIPSercert=9d907f5f152dc56d9a31ec768071d99a&wsBindIP=2&wsserid=1168176581102008440"
+      "stream_url": "https://tfvr0gr4uqmtt8y41hcjsgyzdnpb3fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=fae269ffaecc2bcc135fec19-177843473120611&wsIPSercert=f0283a59b404e2ed6c35984c8fab7267&wsBindIP=2&wsserid=1168283407512358315"
     },
     {
       "title": "Vietnam U17 vs Korea Republic U17.Xjbj 9Fg2L",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-u17-asian-cup-1763721503123/vietnam-u17-vs-korea-republic-u17.xjBJ-9FG2L/7301",
-      "stream_url": "https://tfvr1gr4uqmtt8y41hcjwgwzdocjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8caf23b1cfd0e780fba22da5-177842949265887&wsIPSercert=9d907f5f152dc56d9a31ec768071d99a&wsBindIP=2&wsserid=1168176581102008440"
+      "stream_url": "https://tfvr0gr4uqmtt8y41hcjsgyzdnpb3fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7eb8d13858194515a23689e7-177843473663412&wsIPSercert=f0283a59b404e2ed6c35984c8fab7267&wsBindIP=2&wsserid=1168283319001564024"
     },
     {
-      "title": "Ac Milan vs Atalanta.Iy5Epliybo",
-      "trang_thai": "Chờ",
+      "title": "Ac Milan vs Atalanta.Yuulona2P7",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/ac-milan-vs-atalanta.Iy5EPLIYbo/7321",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/ac-milan-vs-atalanta.YUULonA2p7/7321",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Barcelona vs Real Madrid.Ptzj9Zwlkt",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
+      "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/barcelona-vs-real-madrid.ptzj9ZwlkT/7322",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Barcelona vs Real Madrid. Yr6Jpvxf9",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
+      "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/barcelona-vs-real-madrid.-Yr6Jpvxf9/7324",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Paris Saint Germain vs Stade Brestois 29.Yjvlcvvelx",
-      "trang_thai": "Chờ",
+      "title": "Paris Saint Germain vs Stade Brestois 29.Xr654L3Spo",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligue-1-1759500389658/paris-saint-germain-vs-stade-brestois-29.yJvlCVVELX/7325",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligue-1-1759500389658/paris-saint-germain-vs-stade-brestois-29.xR654L3spo/7325",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Santos vs Rb Bragantino.Tkm1Ls8Hii",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
@@ -95,7 +184,7 @@
     },
     {
       "title": "Vasco Da Gama vs Athletico Paranaense.Wmil_Qfxah",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/Ou1hwj0.jpeg",
@@ -104,38 +193,29 @@
     },
     {
       "title": "Los Angeles Fc vs Houston Dynamo.Sropydunef",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/253.png",
+      "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/los-angeles-fc-vs-houston-dynamo.SROPYdUNef/7327",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Vietnam U17 W vs Australia U17 W.Orq87Ztadt",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/1101.png",
+      "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-u17-asian-cup-women.n6LAAS7WKA/vietnam-u17-w-vs-australia-u17-w.ORq87ZtADT/7328",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
       "title": "Bali United vs Pusamania Borneo.Cozpvy6Mzf",
-      "trang_thai": "Chờ",
+      "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/274.png",
+      "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-1.zjuvdyIVja/bali-united-vs-pusamania-borneo.CoZPVy6mzf/7330",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Neom vs Al Shabab.Iomucz_Jci",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/307.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/neom-vs-al-shabab.IomUCZ_JCI/7331",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
