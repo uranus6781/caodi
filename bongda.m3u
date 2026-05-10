@@ -1,41 +1,47 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Sáng TV - 01:10 11/05/2026
+#PLAYLISTNAME: ⚽ Sáng TV - 04:14 11/05/2026
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sl&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Slaven Belupo vs Hnk Gorica
-https://dlqcalr.alilicloud.com/live/94e48eea7982de9b0b5d0fe16da8f3dc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ac&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Academia Puerto Cabello B vs Atletico El Vigia
+https://dlqcalr.alilicloud.com/live/2e0c2d906c4939ef76c6198905258879/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sk&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Skala Itrottarfelag vs Ab Argir
-https://dlqcalr.alilicloud.com/live/c7e9feae11e66ca2d5dd4c755a751b80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sa&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",San Luis Fc W vs Huracan W
+https://dlqcalr.alilicloud.com/live/87820691fd1f343dd1199e4408bb2abc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Fc&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Fc Dobrudzha vs Beroe Stara Zagora
-https://dlqcalr.alilicloud.com/live/4222edae2bdb09a469380ce669b48202/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Alverca vs Estoril
+https://dlqcalr.alilicloud.com/live/5467f19d98b0a88e64735856a2c5136d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Bo&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Bo Rangers vs Star Sport Academy
-https://dlqcalr.alilicloud.com/live/536586fb74e66675210927cf9d1e9a8d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ch&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Chaco For Ever vs Club Ciudad De Bolivar
+https://dlqcalr.alilicloud.com/live/73c619fabc3ed373dd2c8628388ca811/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=On&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Onze Createurs vs Stade Malien
-https://dlqcalr.alilicloud.com/live/2bda77ccc37d827177b8fda2e4564002/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Go&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Godoy Cruz Antonio Tomba vs Racing De Cordoba
+https://dlqcalr.alilicloud.com/live/24456d8f0721bea1b3505385238c3830/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Us&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Usfas Bamako vs Afrique Football Elite
-https://dlqcalr.alilicloud.com/live/89f022484c9e5813a62af12d89783f69/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ce&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Central Norte Salta vs Deportivo Madryn
+https://dlqcalr.alilicloud.com/live/6c6944f8178c0c128da26e8968f0fd1d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Lo&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Lokomotiv Moscow vs Baltika Kaliningrad
-https://dlqcalr.alilicloud.com/live/9350e2c48c51c08801a8a2169e77c77d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ag&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Aguilas Doradas vs Jaguares De Cordoba
+https://dlqcalr.alilicloud.com/live/dfb1a25aa5c905bca5ef83cf40a94c88/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Re&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Real Oviedo vs Getafe
-https://cdn-hls.taoxanh.biz/live/6a00aa1e42283_133172/index.m3u8?expire=1779033246&sign=7fa4c35c938fcb0d53d1cced0f362089
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Lo&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Los Angeles Fc Ii vs Real Monarchs
+https://dlqcalr.alilicloud.com/live/ecab7a4f8e8a0514eafc7efaff1cac84/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Co&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Cordoba vs Granada Cf
-https://dlqcalr.alilicloud.com/live/b211fffc7824d0dc055660b987a07af7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=De&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Deportivo Miranda vs Maritimo De La Guaira
+https://dlqcalr.alilicloud.com/live/9502f2c5c3da10f366549be17968a461/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mi&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Mirandes vs Eibar
-https://dlqcalr.alilicloud.com/live/76f43f7a37b42cfbf097cf720f898c02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ba&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Bay Fc W vs Utah Royals W
+https://dlqcalr.alilicloud.com/live/511c79aba7d985d6c46943893632c0e1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ab&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Abacha City vs Diamond Stars
-https://dlqcalr.alilicloud.com/live/44298bedd0f04f2af4962243fad091db/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Vo&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Volta Redonda vs Ferroviaria Sp
+https://dlqcalr.alilicloud.com/live/4e3d04b685767d0a431c5661c3342563/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mi&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Mighty Blackpool vs Slifa
-https://dlqcalr.alilicloud.com/live/40f8ba5c5439cdb8fb2d9244050e4c13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ba&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Barra Fc vs Caxias Rs
+https://dlqcalr.alilicloud.com/live/06f6c2ad77a58b068689bbc3bbd28c9a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="🔥 HỘI QUÁN TV",Ac Milan vs Atalanta.Yuulona2P7
-https://tfvr0gr4uqmtt8y41hcjzgrzdrcbofihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=44f4b210777dffd9e0edbc53-177843649407640&wsIPSercert=e87887db52ed659b60317624129e82a6&wsBindIP=2&wsserid=1168140848410257976
+#EXTINF:-1 tvg-logo="https://www.sporter.vn/wp-content/uploads/2023/04/Tiet-lo-logo-la-liga-moi-nhat-2023-3.jpg" group-title="🔥 HỘI QUÁN TV",Barcelona vs Real Madrid.Xl1Qeqqka9
+https://tfvr0gr3uomttgr31hcjagczdnct1fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=1f3809e67bf72add58bdbe24-177844756006843&wsIPSercert=af1a6bbae2f51239a367c8aedc73471d&wsBindIP=2&wsserid=1168259296643851339
+
+#EXTINF:-1 tvg-logo="https://www.sporter.vn/wp-content/uploads/2023/04/Tiet-lo-logo-la-liga-moi-nhat-2023-3.jpg" group-title="🔥 HỘI QUÁN TV",Barcelona vs Real Madrid.Uvx5Eifs5G
+https://tfvr0gr3uomttgr31hcjagczdnct1fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0d99ae2d257d5c7132e20911-177844756525393&wsIPSercert=af1a6bbae2f51239a367c8aedc73471d&wsBindIP=2&wsserid=1168259294120458059
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="🔥 HỘI QUÁN TV",Santos vs Rb Bragantino.Tkm1Ls8Hii
+https://tfvr0gr3uomttgr31hcjagczdnct1fihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=4f1a39136d95676490848f33-177844757073773&wsIPSercert=af1a6bbae2f51239a367c8aedc73471d&wsBindIP=2&wsserid=1168259296640705555
