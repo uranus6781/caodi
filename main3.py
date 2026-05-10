@@ -130,25 +130,19 @@ def capture_stream(context, match_url):
     try:
         page.goto(match_url, wait_until="domcontentloaded", timeout=60000)
         page.wait_for_timeout(10000)
-        # --- DIỆT POPUP QUẢNG CÁO ĐANG CHE MÀN HÌNH ---
-                page.evaluate("""
-                () => {
-                    // Xóa các phần tử có z-index cao hoặc được cố định màn hình (thường là popup)
-                    const overlays = document.querySelectorAll('*');
-                    overlays.forEach(el => {
-                        const style = window.getComputedStyle(el);
-                        if ((style.position === 'fixed' || style.position === 'absolute') && parseInt(style.zIndex) > 10) {
-                            el.remove();
-                        }
-                    });
-                    // Xóa các thẻ div phủ mờ màn hình (backdrop)
-                    document.querySelectorAll('[class*="modal"], [class*="overlay"], [class*="popup"]').forEach(el => el.remove());
-                }
-                """)
-                print(f" 🧹 Đã dọn dẹp Popup trên {channel['name']}")
-                # ---------------------------------------------
-                
-                # Cuộn trang để kích hoạt logo lazy-load
+        page.evaluate("""
+            () => {
+                const overlays = document.querySelectorAll('*');
+                overlays.forEach(el => {
+                    const style = window.getComputedStyle(el);
+                    if ((style.position === 'fixed' || style.position === 'absolute') && parseInt(style.zIndex) > 10) {
+                        el.remove();
+                    }
+                });
+                document.querySelectorAll('[class*="modal"], [class*="overlay"], [class*="popup"]').forEach(el => el.remove());
+            }
+        """)
+        
         for frame in page.frames:
             try:
                 box = frame.frame_element().bounding_box()
