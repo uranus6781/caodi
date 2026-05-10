@@ -290,7 +290,7 @@ def scrape_and_push():
                     except: pass
                     
                     doi_nha, doi_khach, thoi_gian = parse_url_to_info(full_url)
-                    if not logo_url: logo_url = get_team_logo(doi_nha)
+                    if not logo_url: logo_url = get_team_logo_fallback(doi_nha)
 
                     is_live, status = False, "Chờ"
                     try:
