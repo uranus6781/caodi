@@ -262,6 +262,24 @@ def scrape_and_push():
                     
                     full_url = href if href.startswith("http") else f"{channel['base_url'].rstrip('/')}/{href.lstrip('/')}"
                     
+                    # --- 1. LẤY THỜI GIAN (ƯU TIÊN NHÌN TRÊN WEB) ---
+                    thoi_gian = "Unknown"
+                    try:
+                        # Thử tìm các class phổ biến chứa giờ (time, date, match-time)
+                        time_selectors = [".time", ".match-time", ".clock", "span[class*='time']"]
+                        for sel in time_selectors:
+                            t_el = el.locator(sel).first
+                            if t_el.count() > 0:
+                                text = t_el.inner_text().strip()
+                                if text: 
+                                    # Nếu chỉ có giờ (hh:mm), ta thêm ngày hiện tại vào
+                                    if len(text) <= 5 and ":" in text:
+                                        thoi_gian = f"{text} {datetime.datetime.now(VN_TZ).strftime('%d/%m/%Y')}"
+                                    else:
+                                        thoi_gian = text
+                                    break
+                    except: pass
+                                            
                     # Lấy logo trực tiếp từ Provider
                     logo_url = ""
                     try:
@@ -272,7 +290,7 @@ def scrape_and_push():
                     except: pass
                     
                     doi_nha, doi_khach, thoi_gian = parse_url_to_info(full_url)
-                    if not logo_url: logo_url = get_team_logo_fallback(doi_nha)
+                    if not logo_url: logo_url = get_team_logo(doi_nha)
 
                     is_live, status = False, "Chờ"
                     try:
