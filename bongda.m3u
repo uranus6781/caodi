@@ -1,50 +1,5 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Sáng TV - 23:42 12/05/2026
+#PLAYLISTNAME: ⚽ Sáng TV - 04:59 13/05/2026
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Me&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Metalist 1925 Kharkiv vs Fc Karpaty Lviv
-https://dlqcalr.alilicloud.com/live/cd3c5617f4fcbfdc5190e8a0182ad41f/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ve&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Veres vs Kryvbas
-https://dlqcalr.alilicloud.com/live/d8291fd07d32a8a57cff280437c8e642/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Fk&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Fk Liepaja vs Ogre United
-https://dlqcalr.alilicloud.com/live/14087f8deef9fb33e27cc3e4e509d597/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Fa&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Fap vs Kabel Novi Sad
-https://dlqcalr.alilicloud.com/live/512c11695d384510fe02d1d0a3f192de/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Us&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Usce vs Fk Trajal Krusevac
-https://dlqcalr.alilicloud.com/live/e05129bfaf639e3a85725e45b995d6e0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Al&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Al Faisaly vs Alramtha Sc
-https://dlqcalr.alilicloud.com/live/045d96116d9b063087113d3303ea75c7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sj&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Sjk Seinajoen vs Pepo Lappeenranta
-https://cdn-hls.taoxanh.biz/live/6a03368a42284_95554/index.m3u8?expire=1779200266&sign=2a8e2819c8815c928cbe84780c2d664c
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ml&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Mlada Boleslav vs Dukla Prague
-https://dlqcalr.alilicloud.com/live/526802fd19554c2d29bb0ac954ebbd58/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Te&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Tescoma Zlin vs Teplice
-https://dlqcalr.alilicloud.com/live/0bb74d3df3b072153f1a9c678c8c4ee0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sy&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Synot Slovacko vs Banik Ostrava
-https://dlqcalr.alilicloud.com/live/b6ae09d0dcfdf28c3cffae30ea034175/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=As&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Asteras Aktor vs Panserraikos
-https://dlqcalr.alilicloud.com/live/4716ca331a5824ac7c30ca8aad93c7fa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ae&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Ae Kifisias vs Atromitos Athens
-https://dlqcalr.alilicloud.com/live/9badfff39d7bf353e6bccb638a0eb7c1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="🔥 HỘI QUÁN TV",Cherno More Varna vs Lokomotiv Plovdiv.Do1Nvnngaq
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="🔥 HỘI QUÁN TV",Japan U17 vs Indonesia U17.Vnd77Jh_Vd
-https://tfvt1gr3uomttgr31hcj18yzd1qbpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=79dc5b583daa148c6122bc59-177860400936810&wsIPSercert=6054c4b73a4d633cbe62528b2f10c2d1&wsBindIP=2&wsserid=1168243256613785902
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="🔥 HỘI QUÁN TV",China Pr U17 vs Qatar U17.Cvhrruzecb
-https://tfvt3gr3uomttgr31hcj18yzd1qbppbasa4mscwz8w5d3ptwzc3jqcpzs4.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8?wsSession=7b5acf7836ec3fea2e21b3e1-177860401495162&wsIPSercert=6054c4b73a4d633cbe62528b2f10c2d1&wsBindIP=2&wsserid=1168243256601202660
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Celta Vigo vs Levante. Bip5Ji3Do
-https://tfvt1gr3uomttgr31hcj18yzd1qbpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=79dc5b583daa148c6122bc59-177860402077726&wsIPSercert=6054c4b73a4d633cbe62528b2f10c2d1&wsBindIP=2&wsserid=1168243256613785902
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sv&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Sv Brazil Juniors vs Sv Estrella
+https://cdn-hls.taoxanh.biz/live/6a03886142284_124958/index.m3u8?expire=1779221217&sign=d6ef45cfe7ca0c8ff9909cf513c09f18
