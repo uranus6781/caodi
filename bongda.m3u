@@ -1,20 +1,14 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Sáng TV - 05:38 12/05/2026
+#PLAYLISTNAME: ⚽ Sáng TV - 15:24 12/05/2026
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sp&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Sportivo Ameliano vs Deportivo Recoleta
-https://dlqcalr.alilicloud.com/live/4d5f0710f8de5f8c5209893052938b27/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Au&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Auckland Fc Reserves vs South Island United Fc
+https://dlqcalr.alilicloud.com/live/39e0e2e9685e5f7c19253d34d3079aea/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=De&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Depindependiente Medellin vs Fortaleza Fc
-https://dlqcalr.alilicloud.com/live/f613da629f96f8859f6d626c019824ed/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sh&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Shaanxi Mobei Miners vs Beijing Huesca
+https://dlqcalr.alilicloud.com/live/03a0c549e5100fefdd4885c9a702582d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ca&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Ca Talleres De Cordoba W vs Gimnasia Lp W
-https://dlqcalr.alilicloud.com/live/1663d97b5e15a5c39c1bd9a2523691fa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Af&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Afghanistan U20 vs Turkmenistan U20
+https://dlqcalr.alilicloud.com/live/f28d52912a69b770e7a74639dd6a5388/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Fe&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Ferrol Carril Oeste vs Defensores De Belgrano
-https://dlqcalr.alilicloud.com/live/e316eaf8f916338c02771be75e2ec89b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Nu&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Nueva Chicago vs Almagro
-https://dlqcalr.alilicloud.com/live/708beb59775bc828650c4f87cd841668/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ce&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Cerro Porteno vs Club Guarani
-https://cdn-hls.taoxanh.biz/live/6a02559f42284_103/index.m3u8?expire=1779142687&sign=b2a47e100d187549be0b0f6d97cb29f2
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ku&size=200&background=1565C0&color=ffffff&bold=true" group-title="⭐ BÚN CHẢ TV",Kudrivka Nyva U21 vs Rukh Vynnyky U21
+https://dlqcalr.alilicloud.com/live/1d8b0f18414adfb5c30732b1ddd7c01c/playlist.m3u8
