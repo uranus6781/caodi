@@ -1,76 +1,40 @@
 {
   "buncha": [
     {
-      "title": "Sportivo Ameliano vs Deportivo Recoleta",
+      "title": "Auckland Fc Reserves vs South Island United Fc",
       "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
-      "thoi_gian": "03:45 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Sp&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/sportivo-ameliano-vs-deportivo-recoleta-0345-12-05-2026/601453537",
-      "stream_url": "https://dlqcalr.alilicloud.com/live/4d5f0710f8de5f8c5209893052938b27/playlist.m3u8"
+      "thoi_gian": "14:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Au&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/auckland-fc-reserves-vs-south-island-united-fc-1400-12-05-2026/601455271",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/39e0e2e9685e5f7c19253d34d3079aea/playlist.m3u8"
     },
     {
-      "title": "Depindependiente Medellin vs Fortaleza Fc",
+      "title": "Shaanxi Mobei Miners vs Beijing Huesca",
       "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
-      "thoi_gian": "04:00 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=De&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/depindependiente-medellin-vs-fortaleza-fc-0400-12-05-2026/601455472",
-      "stream_url": "https://dlqcalr.alilicloud.com/live/f613da629f96f8859f6d626c019824ed/playlist.m3u8"
+      "thoi_gian": "14:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Sh&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/shaanxi-mobei-miners-vs-beijing-huesca-1400-12-05-2026/601456948",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/03a0c549e5100fefdd4885c9a702582d/playlist.m3u8"
     },
     {
-      "title": "Ca Talleres De Cordoba W vs Gimnasia Lp W",
+      "title": "Afghanistan U20 vs Turkmenistan U20",
       "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
-      "thoi_gian": "04:30 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Ca&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/ca-talleres-de-cordoba-w-vs-gimnasia-lp-w-0430-12-05-2026/601453543",
-      "stream_url": "https://dlqcalr.alilicloud.com/live/1663d97b5e15a5c39c1bd9a2523691fa/playlist.m3u8"
+      "thoi_gian": "14:30 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Af&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/afghanistan-u20-vs-turkmenistan-u20-1430-12-05-2026/601461298",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/f28d52912a69b770e7a74639dd6a5388/playlist.m3u8"
     },
     {
-      "title": "Ferrol Carril Oeste vs Defensores De Belgrano",
+      "title": "Kudrivka Nyva U21 vs Rukh Vynnyky U21",
       "trang_thai": "Đang trực tiếp 🔴",
       "is_live": true,
-      "thoi_gian": "05:00 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Fe&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/ferrol-carril-oeste-vs-defensores-de-belgrano-0500-12-05-2026/601453546",
-      "stream_url": "https://dlqcalr.alilicloud.com/live/e316eaf8f916338c02771be75e2ec89b/playlist.m3u8"
-    },
-    {
-      "title": "Nueva Chicago vs Almagro",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "05:30 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Nu&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/nueva-chicago-vs-almagro-0530-12-05-2026/601453555",
-      "stream_url": "https://dlqcalr.alilicloud.com/live/708beb59775bc828650c4f87cd841668/playlist.m3u8"
-    },
-    {
-      "title": "Cerro Porteno vs Club Guarani",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "06:00 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Ce&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/cerro-porteno-vs-club-guarani-0600-12-05-2026/601453111",
-      "stream_url": "https://cdn-hls.taoxanh.biz/live/6a02559f42284_103/index.m3u8?expire=1779142687&sign=b2a47e100d187549be0b0f6d97cb29f2"
-    },
-    {
-      "title": "Millonarios vs Llaneros Fc",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "08:00 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Mi&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/millonarios-vs-llaneros-fc-0800-12-05-2026/601455265",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Sport Boys vs Universitario De Deportes",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "08:30 12/05/2026",
-      "logo_nha": "https://ui-avatars.com/api/?name=Sp&size=200&background=1565C0&color=ffffff&bold=true",
-      "link_xem": "https://bunchatv4.net/truc-tiep/sport-boys-vs-universitario-de-deportes-0830-12-05-2026/601453594",
-      "stream_url": "https://example.com/waiting.mp4"
+      "thoi_gian": "15:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ku&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/kudrivka-nyva-u21-vs-rukh-vynnyky-u21-1500-12-05-2026/601455316",
+      "stream_url": "https://dlqcalr.alilicloud.com/live/1d8b0f18414adfb5c30732b1ddd7c01c/playlist.m3u8"
     },
     {
       "title": "Gangwon Football Club vs Daejeon Citizen",
@@ -107,18 +71,45 @@
       "logo_nha": "https://ui-avatars.com/api/?name=Fk&size=200&background=1565C0&color=ffffff&bold=true",
       "link_xem": "https://bunchatv4.net/truc-tiep/fk-epitsentr-dunayivtsi-vs-polissya-zhytomyr-1930-12-05-2026/601453633",
       "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "El Gounah vs Kahraba Ismailia",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "21:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=El&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/el-gounah-vs-kahraba-ismailia-2100-12-05-2026/601453648",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Pharco vs Modern Sport Fc",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "21:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Ph&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/pharco-vs-modern-sport-fc-2100-12-05-2026/601453651",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Inter Turku vs Js Hercules",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "21:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=In&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/inter-turku-vs-js-hercules-2100-12-05-2026/601455346",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Sjk Seinajoen vs Pepo Lappeenranta",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "22:00 12/05/2026",
+      "logo_nha": "https://ui-avatars.com/api/?name=Sj&size=200&background=1565C0&color=ffffff&bold=true",
+      "link_xem": "https://bunchatv4.net/truc-tiep/sjk-seinajoen-vs-pepo-lappeenranta-2200-12-05-2026/601455361",
+      "stream_url": "https://example.com/waiting.mp4"
     }
   ],
   "hoiquan": [
-    {
-      "title": "Sport Boys vs Universitario.8Cmehkpzzz",
-      "trang_thai": "Đang trực tiếp 🔴",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primera-division.ih66t2ujqu/sport-boys-vs-universitario.8CMEhkPzZz/7351",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Gangwon Fc vs Daejeon Citizen.Wtohynod17",
       "trang_thai": "Đang trực tiếp 🔴",
@@ -216,6 +207,15 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/real-betis-vs-elche.VHhciWTpAt/7369",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Al Nassr vs Al Hilal Saudi Fc.B9Vqizowcd",
+      "trang_thai": "Đang trực tiếp 🔴",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-nassr-vs-al-hilal-saudi-fc.b9VQIzOWcD/7379",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
