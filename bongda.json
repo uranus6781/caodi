@@ -1,6 +1,6 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "23:00 16/05/2026",
+  "last_updated": "23:46 16/05/2026",
   "buncha": [],
   "hoiquan": [
     {
@@ -8,36 +8,18 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/45.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup.ZK2zQbMvXu/chelsea-vs-manchester-city.6xKEFVx9Y3/7492",
-      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894598169711&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202392933970899"
-    },
-    {
-      "title": "Chelsea vs Manchester City.Rf2Vjf1Qo4",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup-fan-che-xanh.LX7zKV_ZRG/chelsea-vs-manchester-city.Rf2vJf1QO4/7559",
-      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177894599274135&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202333418134578"
-    },
-    {
-      "title": "Chelsea vs Manchester City.Zguyflyspm",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup.ZK2zQbMvXu/chelsea-vs-manchester-city.zguyfLYSPM/7560",
-      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894600356622&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202392933970899"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8"
     },
     {
       "title": "Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/307.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-hilal-saudi-fc-vs-neom.fgIP8Fx6kj/7476",
-      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177894601471231&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202333420231774"
+      "stream_url": "https://tfvx3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177894880945305&wsIPSercert=5b2f2782a1571edf88378a0b62c196b8&wsBindIP=2&wsserid=1172666162445578538"
     },
     {
       "title": "Vietnam U17 vs Australia U17.Ifnbvlik B",
@@ -55,14 +37,14 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-u17-asian-cup-1763721503123/vietnam-u17-vs-australia-u17.rTQ8guNqW_/7503",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvx3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177894884673138&wsIPSercert=5b2f2782a1571edf88378a0b62c196b8&wsBindIP=2&wsserid=1172666312698126342"
     },
     {
       "title": "Al Nassr vs Gamba Osaka.Yzy5Yip_Rz",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-champions-league-two-1758632835955/al-nassr-vs-gamba-osaka.YZY5yiP_RZ/7504",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -71,7 +53,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-champions-league-two-1758632835955/al-nassr-vs-gamba-osaka.gM-M9ZM6So/7505",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -80,7 +62,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/94.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primeira-liga.iImEqROzwY/estoril-vs-benfica.NiHoU9B1MI/7506",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -89,7 +71,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/253.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/new-york-red-bulls-vs-new-york-city-fc.E8digsFml1/7532",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -98,7 +80,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/262.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-mx.BEKt8zYwW9/guadalajara-chivas-vs-cruz-azul.u9fFDQMjnj/7533",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -107,7 +89,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/253.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/san-jose-earthquakes-vs-fc-dallas.oya_2TtZcJ/7534",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -116,7 +98,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/v-varen-nagasaki-vs-vissel-kobe.59CWbDY2sy/7535",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -125,7 +107,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/kyoto-sanga-vs-sanfrecce-hiroshima.b981DMUctI/7536",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -143,7 +125,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/hoang-anh-gia-lai-vs-hong-linh-ha-tinh.yZt9VqEqsC/7507",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -179,7 +161,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/pho-hien-vs-ha-noi.eqi_aNgLfX/7511",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -188,7 +170,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/nam-dinh-vs-viettel.2xdL76RDY0/7512",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -215,7 +197,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/cong-an-nhan-dan-vs-thanh-hoa.w7pHpqPgPm/7515",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -296,7 +278,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/atletico-madrid-vs-girona.BwYpzEtCjU/7544",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -305,7 +287,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/athletic-club-vs-celta-vigo.Mg9uj-B2F1/7545",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -314,7 +296,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/rayo-vallecano-vs-villarreal.1gJyKa4JHe/7546",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -323,7 +305,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/real-sociedad-vs-valencia.3lxUuIHYc6/7547",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -332,7 +314,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/sevilla-vs-real-madrid.YIM4uoxRuo/7548",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -377,7 +359,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/barcelona-vs-real-betis.XanlfB2XVa/7553",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -386,7 +368,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/253.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/inter-miami-vs-portland-timbers.Qnxo7HHESh/7554",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -404,7 +386,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/253.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/nashville-sc-vs-los-angeles-fc.RCZQN8Bers/7555",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -413,7 +395,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/262.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-mx.BEKt8zYwW9/unam-pumas-vs-cf-pachuca.ML7kL4a2sA/7539",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -431,7 +413,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/323.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/indian-super-league.GHV7AM0OkL/kerala-blasters-vs-goa.05TwkHouGZ/7541",
       "stream_url": "https://example.com/waiting.mp4"
     },
@@ -449,7 +431,7 @@
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/lahti-vs-vps.xpWh-P3mfu/7543",
       "stream_url": "https://example.com/waiting.mp4"
     }
