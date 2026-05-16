@@ -52,7 +52,7 @@ jobs:
           # Đảm bảo bạn đã thêm GH_TOKEN vào Repo Settings > Secrets > Actions
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GH_REPO: ${{ github.repository }}
-        run: python main4.py
+        run: python main3.py
 
       - name: Upload Debug Screenshot
         uses: actions/upload-artifact@v4
