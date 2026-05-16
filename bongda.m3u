@@ -1,14 +1,11 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 23:00 16/05/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 23:46 16/05/2026
 
-#EXTINF:-1 tvg-id="Chelsea vs Manchester City.6Xkefvx9Y3" tvg-name="Chelsea vs Manchester City.6Xkefvx9Y3" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Chelsea vs Manchester City.6Xkefvx9Y3
-https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894598169711&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="Chelsea vs Manchester City.6Xkefvx9Y3" tvg-name="Chelsea vs Manchester City.6Xkefvx9Y3" tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Chelsea vs Manchester City.6Xkefvx9Y3
+https://hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Chelsea vs Manchester City.Rf2Vjf1Qo4" tvg-name="Chelsea vs Manchester City.Rf2Vjf1Qo4" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Chelsea vs Manchester City.Rf2Vjf1Qo4
-https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177894599274135&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202333418134578
+#EXTINF:-1 tvg-id="Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj" tvg-name="Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj" tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj
+https://tfvx3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177894880945305&wsIPSercert=5b2f2782a1571edf88378a0b62c196b8&wsBindIP=2&wsserid=1172666162445578538
 
-#EXTINF:-1 tvg-id="Chelsea vs Manchester City.Zguyflyspm" tvg-name="Chelsea vs Manchester City.Zguyflyspm" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Chelsea vs Manchester City.Zguyflyspm
-https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894600356622&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202392933970899
-
-#EXTINF:-1 tvg-id="Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj" tvg-name="Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj
-https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177894601471231&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="Vietnam U17 vs Australia U17.Rtq8Gunqw_" tvg-name="Vietnam U17 vs Australia U17.Rtq8Gunqw_" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="🔥 HỘI QUÁN TV",Live ⚽ Vietnam U17 vs Australia U17.Rtq8Gunqw_
+https://tfvx3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177894884673138&wsIPSercert=5b2f2782a1571edf88378a0b62c196b8&wsBindIP=2&wsserid=1172666312698126342
