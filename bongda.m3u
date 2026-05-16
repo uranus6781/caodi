@@ -1,8 +1,17 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 14:52 16/05/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 19:00 16/05/2026
 
-#EXTINF:-1 tvg-id="Urawa vs Fc Tokyo.Zjsetecpal" tvg-name="Urawa vs Fc Tokyo.Zjsetecpal" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Urawa vs Fc Tokyo.Zjsetecpal
-https://tfvx1gr3uomttgr31hcji8rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=6eede8db626eeaa6a52e1034-177891688610881&wsIPSercert=aef11336da7f1e6829ab9873a7cb7c48&wsBindIP=2&wsserid=1172665344093863948
+#EXTINF:-1 tvg-id="Newcastle Jets vs Sydney.Rjyxq1Boqq" tvg-name="Newcastle Jets vs Sydney.Rjyxq1Boqq" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Newcastle Jets vs Sydney.Rjyxq1Boqq
+https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4162c49958e88f60cbf8d2bd-177893124605594&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313570948617
 
-#EXTINF:-1 tvg-id="Daejeon Citizen vs Fc Seoul.V6P 1S9Ved" tvg-name="Daejeon Citizen vs Fc Seoul.V6P 1S9Ved" tvg-logo="https://i.imgur.com/UtyP0MT.jpeg" group-title="🔥 HỘI QUÁN TV",Live ⚽ Daejeon Citizen vs Fc Seoul.V6P 1S9Ved
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-id="Incheon United vs Gwangju Fc.1Oqptl1Mho" tvg-name="Incheon United vs Gwangju Fc.1Oqptl1Mho" tvg-logo="https://i.imgur.com/UtyP0MT.jpeg" group-title="🔥 HỘI QUÁN TV",Live ⚽ Incheon United vs Gwangju Fc.1Oqptl1Mho
+https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d78f47d79b6bb296d97aa035-177893125697993&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313568844709
+
+#EXTINF:-1 tvg-id="Hai Phong vs Binh Duong.A4X9Yo0E_A" tvg-name="Hai Phong vs Binh Duong.A4X9Yo0E_A" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Hai Phong vs Binh Duong.A4X9Yo0E_A
+https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=d78f47d79b6bb296d97aa035-177893126757823&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313568844709
+
+#EXTINF:-1 tvg-id="Song Lam Nghe An vs Phu Dong.W Yi94Twzv" tvg-name="Song Lam Nghe An vs Phu Dong.W Yi94Twzv" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Song Lam Nghe An vs Phu Dong.W Yi94Twzv
+https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4162c49958e88f60cbf8d2bd-177893127858351&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313570948617
+
+#EXTINF:-1 tvg-id="Wuhan Three Towns vs Shenyang Urban.Yderf0Qjxi" tvg-name="Wuhan Three Towns vs Shenyang Urban.Yderf0Qjxi" tvg-logo="https://i.imgur.com/30aaqin.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Wuhan Three Towns vs Shenyang Urban.Yderf0Qjxi
+https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=ddf97ae7f08cbf1470eed1b8-177893128930042&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168282035622980969
