@@ -1,107 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "19:00 16/05/2026",
+  "last_updated": "23:00 16/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Newcastle Jets vs Sydney.Rjyxq1Boqq",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/a-league.URm2S_k9Ak/newcastle-jets-vs-sydney.RJYxq1BoqQ/7472",
-      "stream_url": "https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4162c49958e88f60cbf8d2bd-177893124605594&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313570948617"
-    },
-    {
-      "title": "Incheon United vs Gwangju Fc.1Oqptl1Mho",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/UtyP0MT.jpeg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/k-league-1-1758630323713/incheon-united-vs-gwangju-fc.1OqPTl1Mho/7473",
-      "stream_url": "https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=d78f47d79b6bb296d97aa035-177893125697993&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313568844709"
-    },
-    {
-      "title": "Hai Phong vs Binh Duong.A4X9Yo0E_A",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/hai-phong-vs-binh-duong.A4x9YO0E_A/7457",
-      "stream_url": "https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=d78f47d79b6bb296d97aa035-177893126757823&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313568844709"
-    },
-    {
-      "title": "Song Lam Nghe An vs Phu Dong.W Yi94Twzv",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/song-lam-nghe-an-vs-phu-dong.W-yI94twZv/7458",
-      "stream_url": "https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=4162c49958e88f60cbf8d2bd-177893127858351&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168278313570948617"
-    },
-    {
-      "title": "Wuhan Three Towns vs Shenyang Urban.Yderf0Qjxi",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/super-league.gxratlGLOJ/wuhan-three-towns-vs-shenyang-urban.YDeRf0QJxi/7474",
-      "stream_url": "https://tfvx1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=ddf97ae7f08cbf1470eed1b8-177893128930042&wsIPSercert=ade9c6aff98993fef498c7818bc71ea5&wsBindIP=2&wsserid=1168282035622980969"
-    },
-    {
-      "title": "Bayer Leverkusen vs Hamburger Sv.4K_Mh4W4Gq",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/bayer-leverkusen-vs-hamburger-sv.4k_mH4W4Gq/7459",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Bayern Munchen vs 1 Fc Koln.O4N6K 7Oxv",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/bayern-munchen-vs-1-fc-koln.O4N6K-7OXv/7460",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Eintracht Frankfurt vs Vfb Stuttgart.Ddtamfs8Aj",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/eintracht-frankfurt-vs-vfb-stuttgart.dDTAMFS8Aj/7461",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Sc Freiburg vs Rb Leipzig.Q6Tdglxjo0",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/sc-freiburg-vs-rb-leipzig.q6Tdglxjo0/7462",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Werder Bremen vs Borussia Dortmund.Ncdxgdad2I",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/werder-bremen-vs-borussia-dortmund.NCDxgdAD2i/7463",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Fc St Pauli vs Vfl Wolfsburg. 4Dzzhg4Bt",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/bundesliga-1758631341946/fc-st-pauli-vs-vfl-wolfsburg.-4DZzhg4BT/7491",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Chelsea vs Manchester City.6Xkefvx9Y3",
       "trang_thai": "Chờ",
@@ -109,16 +10,16 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup.ZK2zQbMvXu/chelsea-vs-manchester-city.6xKEFVx9Y3/7492",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894598169711&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202392933970899"
     },
     {
-      "title": "Chelsea vs Manchester City.Vlipkl8_X_",
+      "title": "Chelsea vs Manchester City.Rf2Vjf1Qo4",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup.ZK2zQbMvXu/chelsea-vs-manchester-city.vliPKL8_X_/7559",
-      "stream_url": "https://example.com/waiting.mp4"
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup-fan-che-xanh.LX7zKV_ZRG/chelsea-vs-manchester-city.Rf2vJf1QO4/7559",
+      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177894599274135&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202333418134578"
     },
     {
       "title": "Chelsea vs Manchester City.Zguyflyspm",
@@ -127,16 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup.ZK2zQbMvXu/chelsea-vs-manchester-city.zguyfLYSPM/7560",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Fc Porto vs Santa Clara.Q4Rs 8L3Bq",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primeira-liga.iImEqROzwY/fc-porto-vs-santa-clara.Q4rs-8L3bQ/7475",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-177894600356622&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202392933970899"
     },
     {
       "title": "Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj",
@@ -145,16 +37,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/30aaqin.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-hilal-saudi-fc-vs-neom.fgIP8Fx6kj/7476",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Al Okhdood vs Al Khaleej Saihat.8Kjrh4Fb0G",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/30aaqin.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-okhdood-vs-al-khaleej-saihat.8kjrH4FB0G/7490",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvx0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=08a97592fcdc472fa413e2d6-177894601471231&wsIPSercert=cf35959e227937e58eaa9f26299354dd&wsBindIP=2&wsserid=1168202333420231774"
     },
     {
       "title": "Vietnam U17 vs Australia U17.Ifnbvlik B",
