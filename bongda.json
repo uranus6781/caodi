@@ -1,62 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "23:46 16/05/2026",
+  "last_updated": "03:09 17/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Chelsea vs Manchester City.6Xkefvx9Y3",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/45.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/fa-cup.ZK2zQbMvXu/chelsea-vs-manchester-city.6xKEFVx9Y3/7492",
-      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8"
-    },
-    {
-      "title": "Al Hilal Saudi Fc vs Neom.Fgip8Fx6Kj",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/307.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-hilal-saudi-fc-vs-neom.fgIP8Fx6kj/7476",
-      "stream_url": "https://tfvx3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=12a0e6a99ee8910a60f02bb3-177894880945305&wsIPSercert=5b2f2782a1571edf88378a0b62c196b8&wsBindIP=2&wsserid=1172666162445578538"
-    },
-    {
-      "title": "Vietnam U17 vs Australia U17.Ifnbvlik B",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-u17-asian-cup-1763721503123/vietnam-u17-vs-australia-u17.IfnbvLik-B/7502",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Vietnam U17 vs Australia U17.Rtq8Gunqw_",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-u17-asian-cup-1763721503123/vietnam-u17-vs-australia-u17.rTQ8guNqW_/7503",
-      "stream_url": "https://tfvx3gr4dymttgwanhct3fa4uemmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b8969814a7adf8c9b0ca01df-177894884673138&wsIPSercert=5b2f2782a1571edf88378a0b62c196b8&wsBindIP=2&wsserid=1172666312698126342"
-    },
-    {
-      "title": "Al Nassr vs Gamba Osaka.Yzy5Yip_Rz",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-champions-league-two-1758632835955/al-nassr-vs-gamba-osaka.YZY5yiP_RZ/7504",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Al Nassr vs Gamba Osaka.Gm M9Zm6So",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-champions-league-two-1758632835955/al-nassr-vs-gamba-osaka.gM-M9ZM6So/7505",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Estoril vs Benfica.Nihou9B1Mi",
       "trang_thai": "Chờ",
@@ -64,7 +10,16 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/94.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primeira-liga.iImEqROzwY/estoril-vs-benfica.NiHoU9B1MI/7506",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvx1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=5ea6b35beed3738c7bc75cad-177896105289342&wsIPSercert=0e046f6e6f577c2dea4153771bb8ddb3&wsBindIP=2&wsserid=1168259296640705555"
+    },
+    {
+      "title": "Sporting vs Gil Vicente.Vfnpri683U",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-bo-djao-nha-1758632349362/sporting-vs-gil-vicente.VFnPrI683u/7566",
+      "stream_url": "https://tfvx1gr4uqmtt8y41hcjagyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=6207feeb35a555b4255e98dd-177896106379097&wsIPSercert=0e046f6e6f577c2dea4153771bb8ddb3&wsBindIP=2&wsserid=1168259296643851339"
     },
     {
       "title": "New York Red Bulls vs New York City Fc.E8Digsfml1",
@@ -202,12 +157,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Inter vs Hellas Verona.Zflm_9Ueeb",
+      "title": "Inter vs Hellas Verona.2Cxusmbizp",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/inter-vs-hellas-verona.zfLm_9UEEb/7516",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/inter-vs-hellas-verona.2CXUsmbizp/7516",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -220,12 +175,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Everton vs Sunderland.Nrghnhiw45",
+      "title": "Everton vs Sunderland.Vz1Tx1Gpas",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/everton-vs-sunderland.nRGhnhIw45/7518",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/everton-vs-sunderland.VZ1Tx1Gpas/7518",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
