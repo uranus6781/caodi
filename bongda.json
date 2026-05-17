@@ -1,53 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "03:07 18/05/2026",
+  "last_updated": "06:24 18/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Udinese vs Cremonese.J11Gdtpipd",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/udinese-vs-cremonese.j11GdtPIPD/7549",
-      "stream_url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnctufihzc5jagy4urptqci1gq3mpcfhgg3dq.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=85800d398e57dd0134e2c4a2-177904783886088&wsIPSercert=80af75c52962f693ea1e6dc7679e0a53&wsBindIP=2&wsserid=1168283323207303220"
-    },
-    {
-      "title": "Paris Fc vs Paris Saint Germain.Aetmn5Jpsc",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligue-1-1759500389658/paris-fc-vs-paris-saint-germain.AeTMN5jPSC/7550",
-      "stream_url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a4af660ecdda9f1a15ddefdb-177904784994783&wsIPSercert=80af75c52962f693ea1e6dc7679e0a53&wsBindIP=2&wsserid=1168283319030924262"
-    },
-    {
-      "title": "Marseille vs Rennes.L5P1Jnos5Y",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligue-1-1759500389658/marseille-vs-rennes.L5p1JNOS5Y/7551",
-      "stream_url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=b779b2c12d9eb553cd165b82-177904786055131&wsIPSercert=80af75c52962f693ea1e6dc7679e0a53&wsBindIP=2&wsserid=1168283407512358315"
-    },
-    {
-      "title": "Lyon vs Lens.Omv7Duu5Dm",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligue-1-1759500389658/lyon-vs-lens.Omv7DUu5dM/7552",
-      "stream_url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-177904787168111&wsIPSercert=80af75c52962f693ea1e6dc7679e0a53&wsBindIP=2&wsserid=1168283476522828939"
-    },
-    {
-      "title": "Barcelona vs Real Betis.Xanlfb2Xva",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/140.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/la-liga.zb65Otf_xU/barcelona-vs-real-betis.XanlfB2XVa/7553",
-      "stream_url": "https://tfvy0gr4uqmtt8y41hcjsgyzdnct1fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177904788231095&wsIPSercert=80af75c52962f693ea1e6dc7679e0a53&wsBindIP=2&wsserid=1168283319001564024"
-    },
     {
       "title": "Inter Miami vs Portland Timbers.Qnxo7Hhesh",
       "trang_thai": "Chờ",
@@ -55,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/253.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/major-league-soccer.DpvnnCwBbD/inter-miami-vs-portland-timbers.Qnxo7HHESh/7554",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=a37b48b6a6131b65ea617dd8-177905973443026&wsIPSercert=49d2328a507ba6936f2d1877946e338e&wsBindIP=2&wsserid=1172580915169226372"
     },
     {
       "title": "Atletico Paranaense vs Flamengo.Jd26Djhkvw",
@@ -64,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/atletico-paranaense-vs-flamengo.Jd26djHkVW/7556",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfvy1gr4uqmtt8y41hcjs8rzdrptppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=498ad6b0888bc9c29a6331ea-177905974529446&wsIPSercert=49d2328a507ba6936f2d1877946e338e&wsBindIP=2&wsserid=1172580915176566596"
     },
     {
       "title": "Nashville Sc vs Los Angeles Fc.Rczqn8Bers",
