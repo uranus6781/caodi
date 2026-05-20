@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "05:57 20/05/2026",
+  "last_updated": "17:51 20/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Boca Juniors vs Cruzeiro.30Ijnm_Xza",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/boca-juniors-vs-cruzeiro.30Ijnm_XZa/7649",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Independiente Del Valle vs Libertad.Dwenw3Mkco",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1280px-Copa_Libertadores_logo.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-copa-libertado-1759747814287/independiente-del-valle-vs-libertad.DWEnw3mKco/7616",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Shanghai Shenhua vs Wuhan Three Towns.Cpp9Iaaffl",
       "trang_thai": "Chờ",
@@ -31,12 +13,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Hangzhou Greentown vs Shandong Luneng.Lmw7Paeyrr",
+      "title": "Hangzhou Greentown vs Shandong Luneng.Jryw636Vsl",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/278.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/super-league.gxratlGLOJ/hangzhou-greentown-vs-shandong-luneng.LmW7PaEyrr/7618",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/super-league.gxratlGLOJ/hangzhou-greentown-vs-shandong-luneng.jrYW636vSl/7618",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -76,12 +58,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Sc Freiburg vs Aston Villa.Ssyvwdmkxs",
+      "title": "Sc Freiburg vs Aston Villa.Evk50Sweaf",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-europa-league-1758631216599/sc-freiburg-vs-aston-villa.SSYVWDMKxs/7636",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-europa-league-1758631216599/sc-freiburg-vs-aston-villa.eVK50sWEaF/7636",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -175,12 +157,147 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
+      "title": "Al Ittihad Fc vs Al Qadisiyah Fc._Gx_2Iliwo",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/307.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-ittihad-fc-vs-al-qadisiyah-fc._gX_2ILIwo/7657",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Penarol vs Corinthians.Mphb8Qqov2",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/penarol-vs-corinthians.MPHB8QQOv2/7658",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Cruz Azul vs Unam Pumas.Qu5E6Ktrmc",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/262.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-mx.BEKt8zYwW9/cruz-azul-vs-unam-pumas.qU5E6KtrmC/7659",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Arema Fc vs Psim Yogyakarta.Iz1Ka_Vxtn",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/274.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-1.zjuvdyIVja/arema-fc-vs-psim-yogyakarta.iZ1kA_VxTN/7660",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Machida Zelvia vs Urawa.Oxawxpfavs",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/machida-zelvia-vs-urawa.OXAWxPFavS/7661",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Dewa United vs Bali United.Mwrgejggfu",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/274.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-1.zjuvdyIVja/dewa-united-vs-bali-united.MwRGeJGgfu/7662",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
       "title": "Viettel vs Pho Hien.Rys1Lbfatn",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/viettel-vs-pho-hien.RYs1LbfatN/7648",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Sumqayit vs Qarabag.Ontxn3Xuyx",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/419.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premyer-liqa.wEDclvZHmi/sumqayit-vs-qarabag.onTxN3xuyX/7663",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Vps vs Hjk Helsinki.8Ozopswwdk",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/vps-vs-hjk-helsinki.8ozoPSwWDK/7664",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Fiorentina vs Atalanta.Q4Sttzgjxa",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/fiorentina-vs-atalanta.q4STTZGjXA/7650",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Lens vs Nice.P7Wnrurzz1",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/66.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/coupe-de-france.ZdsAE_NSI0/lens-vs-nice.p7WnRURzZ1/7651",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Da Nang vs Hai Phong.Muctdtbc39",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/da-nang-vs-hai-phong.mucTdtBc39/7652",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Phu Dong vs Ho Chi Minh.Qtbxny1 Dl",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/phu-dong-vs-ho-chi-minh.qtbXNy1-dl/7653",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Thanh Hoa vs Hoang Anh Gia Lai.Cazenzdm6Y",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/thanh-hoa-vs-hoang-anh-gia-lai.CAzEnZDM6Y/7654",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Hull City vs Southampton.Cto6Xvqqbx",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.imgur.com/9wsLS4z.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/championship-1758631572173/hull-city-vs-southampton.CTo6XVQqBX/7655",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Bologna vs Inter.9Otpoga7W8",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/bologna-vs-inter.9oTpoGA7w8/7656",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
