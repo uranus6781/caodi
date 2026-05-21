@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "02:47 21/05/2026",
+  "last_updated": "07:10 21/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Al Khaleej Saihat vs Al Ahli Jeddah.Bg0Kkm4Dja",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/307.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league.Ba3nbJO6CY/al-khaleej-saihat-vs-al-ahli-jeddah.Bg0KKM4dJa/7639",
-      "stream_url": "https://tfw10gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=a4af660ecdda9f1a15ddefdb-177930578473029&wsIPSercert=238a498ab8b085dc9e4ef0032f1a0220&wsBindIP=2&wsserid=1168283319030924262"
-    },
-    {
-      "title": "Sc Freiburg vs Aston Villa.Evk50Sweaf",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-europa-league-1758631216599/sc-freiburg-vs-aston-villa.eVK50sWEaF/7636",
-      "stream_url": "https://tfw10gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fa047a81a3972ea683c4010f-177930579575395&wsIPSercert=238a498ab8b085dc9e4ef0032f1a0220&wsBindIP=2&wsserid=1168283476522828939"
-    },
-    {
-      "title": "Sc Freiburg vs Aston Villa.20Nwipyspm",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-europa-league-1758631216599/sc-freiburg-vs-aston-villa.20nwIpYSpM/7637",
-      "stream_url": "https://tfw10gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=795ceebdad1d160b17924ec6-177930580645021&wsIPSercert=238a498ab8b085dc9e4ef0032f1a0220&wsBindIP=2&wsserid=1168283319001564024"
-    },
     {
       "title": "Santos vs San Lorenzo.Zkidyaxe4_",
       "trang_thai": "Chờ",
@@ -37,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/11.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-sudamericana.iEHb_cc6YQ/santos-vs-san-lorenzo.zKidyaXe4_/7638",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw13gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177932157682249&wsIPSercert=877bb6c4362ab70a2d5d7a4a7bfa9683&wsBindIP=2&wsserid=1168162712924058667"
     },
     {
       "title": "Palmeiras vs Cerro Porteno.O17N8V4Rck",
