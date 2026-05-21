@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "07:10 21/05/2026",
+  "last_updated": "19:08 21/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Santos vs San Lorenzo.Zkidyaxe4_",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/11.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-sudamericana.iEHb_cc6YQ/santos-vs-san-lorenzo.zKidyaXe4_/7638",
-      "stream_url": "https://tfw13gr4dymttgwanhct3faauommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f1d6e7dc9e90ef84d715f9d8-177932157682249&wsIPSercert=877bb6c4362ab70a2d5d7a4a7bfa9683&wsBindIP=2&wsserid=1168162712924058667"
-    },
-    {
-      "title": "Palmeiras vs Cerro Porteno.O17N8V4Rck",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1280px-Copa_Libertadores_logo.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-copa-libertado-1759747814287/palmeiras-vs-cerro-porteno.O17N8V4rcK/7640",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Junior vs Sporting Cristal.Umgcr_Nq9L",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/junior-vs-sporting-cristal.UMGcR_nq9l/7641",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Minerva Punjab vs Mumbai City.Bmazecspji",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/323.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/indian-super-league.GHV7AM0OkL/minerva-punjab-vs-mumbai-city.bMazECSPJI/7642",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Shakhtar Donetsk vs Kolos Kovalivka.Z_167Xnawj",
       "trang_thai": "Chờ",
@@ -46,6 +10,15 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%D0%9E%D1%84%D1%96%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9F%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%9B%D1%96%D0%B3%D0%B8.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-ukraine-1758632053784/shakhtar-donetsk-vs-kolos-kovalivka.Z_167xnAwj/7643",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Minerva Punjab vs Mumbai City.Qtjohe52Wm",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/323.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/indian-super-league.GHV7AM0OkL/minerva-punjab-vs-mumbai-city.QTJOhe52wM/7642",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -112,12 +85,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Arema Fc vs Psim Yogyakarta.Iz1Ka_Vxtn",
+      "title": "Arema Fc vs Psim Yogyakarta.Pj8Hw3Xgl7",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/274.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-1.zjuvdyIVja/arema-fc-vs-psim-yogyakarta.iZ1kA_VxTN/7660",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-1.zjuvdyIVja/arema-fc-vs-psim-yogyakarta.PJ8Hw3XGl7/7660",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -139,12 +112,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Viettel vs Pho Hien.Rys1Lbfatn",
+      "title": "Viettel vs Pho Hien.N9D0Oycw_H",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/viettel-vs-pho-hien.RYs1LbfatN/7648",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/viettel-vs-pho-hien.n9d0oYcw_H/7648",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
