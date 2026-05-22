@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "00:43 23/05/2026",
+  "last_updated": "04:58 23/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "China Pr U17 vs Japan U17.4Zshw1Emrd",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/afc-u17-asian-cup-1763721503123/china-pr-u17-vs-japan-u17.4ZSHW1EmrD/7711",
-      "stream_url": "https://tfw30gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-177947103385502&wsIPSercert=f7d08c9e495d69be32da2e06a7d2bbfd&wsBindIP=2&wsserid=1168202333418134578"
-    },
-    {
-      "title": "Fiorentina vs Atalanta.Q4Sttzgjxa",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/fiorentina-vs-atalanta.q4STTZGjXA/7650",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Lens vs Nice.P7Wnrurzz1",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/66.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/coupe-de-france.ZdsAE_NSI0/lens-vs-nice.p7WnRURzZ1/7651",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Union Santa Fe vs Independiente.B7Fe_Q8Pvf",
       "trang_thai": "Chờ",
