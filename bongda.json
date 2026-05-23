@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "04:58 23/05/2026",
+  "last_updated": "14:52 23/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Union Santa Fe vs Independiente.B7Fe_Q8Pvf",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/130.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/copa-argentina.NyJtbpIaQv/union-santa-fe-vs-independiente.B7FE_q8PVf/7702",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Mexico vs Ghana.Fshqwfplbn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/mexico-vs-ghana.FsHQWfpLBN/7703",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Avispa Fukuoka vs Vissel Kobe.6_Kv2F U0P",
       "trang_thai": "Chờ",
@@ -28,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/avispa-fukuoka-vs-vissel-kobe.6_Kv2F-U0p/7704",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
     },
     {
       "title": "Auckland vs Sydney.Ikgozwng2T",
