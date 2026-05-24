@@ -1,53 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "19:24 24/05/2026",
+  "last_updated": "23:25 24/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Ajax vs Utrecht.Uvzytm3Vhl",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/88.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/eredivisie.t2Cv-NzEMi/ajax-vs-utrecht.uVzYTm3vhl/7732",
-      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177962486462992&wsIPSercert=ca3205331b44a3a0763051bcf584558e&wsBindIP=2&wsserid=1168283323406534424"
-    },
-    {
-      "title": "Binh Duong vs Song Lam Nghe An.Rud0Piyujc",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/binh-duong-vs-song-lam-nghe-an.rud0PIyujC/7686",
-      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177962487571916&wsIPSercert=ca3205331b44a3a0763051bcf584558e&wsBindIP=2&wsserid=1168283323302724409"
-    },
-    {
-      "title": "Hong Linh Ha Tinh vs Cong An Nhan Dan.3Nxvcraobk",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/hong-linh-ha-tinh-vs-cong-an-nhan-dan.3nxVcRaOBk/7687",
-      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177962488639902&wsIPSercert=ca3205331b44a3a0763051bcf584558e&wsBindIP=2&wsserid=1168283323406534424"
-    },
-    {
-      "title": "Ha Noi vs Nam Dinh.02Qblhwss0",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/ha-noi-vs-nam-dinh.02QbLHWsS0/7688",
-      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177962489764127&wsIPSercert=ca3205331b44a3a0763051bcf584558e&wsBindIP=2&wsserid=1168283323406534424"
-    },
-    {
-      "title": "Parma vs Sassuolo.Npnbfu1It2",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/parma-vs-sassuolo.npnBfu1It2/7689",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Brighton vs Manchester United.Bkynbijtk2",
       "trang_thai": "Chờ",
@@ -55,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/brighton-vs-manchester-united.BkYnBIJtK2/7690",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=85800d398e57dd0134e2c4a2-177963931776895&wsIPSercert=e7e3e4cdd752ee290c954175df5f3ce2&wsBindIP=2&wsserid=1168283323207303220"
     },
     {
       "title": "Crystal Palace vs Arsenal.3Ejzurvkd0",
@@ -64,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/crystal-palace-vs-arsenal.3ejzURvkD0/7691",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177963932890332&wsIPSercert=e7e3e4cdd752ee290c954175df5f3ce2&wsBindIP=2&wsserid=1168283323406534424"
     },
     {
       "title": "Liverpool vs Brentford.Ddf0M5Uyec",
@@ -73,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/liverpool-vs-brentford.DDf0m5uYeC/7692",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ddc6d8e2fb217c58ffca1bb2-177963933967741&wsIPSercert=e7e3e4cdd752ee290c954175df5f3ce2&wsBindIP=2&wsserid=1168283323302724409"
     },
     {
       "title": "Manchester City vs Aston Villa.Fzxhvejksc",
@@ -82,7 +37,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/manchester-city-vs-aston-villa.FZXHVEjksC/7693",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=fe882c23021ed5e2940a23fa-177963935089425&wsIPSercert=e7e3e4cdd752ee290c954175df5f3ce2&wsBindIP=2&wsserid=1168283323367736366"
     },
     {
       "title": "Sunderland vs Chelsea.Be6Yj 6Un9",
@@ -91,7 +46,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/sunderland-vs-chelsea.BE6yj-6Un9/7694",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177963936165957&wsIPSercert=e7e3e4cdd752ee290c954175df5f3ce2&wsBindIP=2&wsserid=1168283323406534424"
     },
     {
       "title": "Tottenham vs Everton.P0Ibowsjnl",
@@ -100,16 +55,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/tottenham-vs-everton.p0IbOWsjnL/7695",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "West Ham vs Leeds.Zdlnckciki",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/west-ham-vs-leeds.ZdLNcKCIkI/7696",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw50gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177963937315317&wsIPSercert=e7e3e4cdd752ee290c954175df5f3ce2&wsBindIP=2&wsserid=1168283323406534424"
     },
     {
       "title": "Ac Milan vs Cagliari.Mfoojo6Flz",
@@ -121,21 +67,21 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Hellas Verona vs As Roma.U0Nuvbdamz",
+      "title": "Torino vs Juventus.Qdghetvus_",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/hellas-verona-vs-as-roma.U0nUVBDaMZ/7720",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/torino-vs-juventus.QdghetvuS_/7721",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Torino vs Juventus.K6P_Eo6C3R",
+      "title": "Cremonese vs Como. Funfdbwyq",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/torino-vs-juventus.k6P_EO6c3R/7721",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/cremonese-vs-como.-fuNFDbWYQ/7742",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -235,6 +181,60 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/886.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u17-championship-qualification.K3yHaYrHQ1/montenegro-u17-vs-denmark-u17.bea2OVSkOJ/7741",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Santos vs Deportivo Cuenca.Lko3 Iz8Fi",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/11.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-sudamericana.iEHb_cc6YQ/santos-vs-deportivo-cuenca.LKO3-Iz8fI/7743",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Flamengo vs Cusco.Koiuwfxv_G",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/flamengo-vs-cusco.KoIuWFXV_G/7746",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Buriram United vs Selangor.G6Svoeg6N1",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-club-championship-1764562099395/buriram-united-vs-selangor.G6svoEG6n1/7744",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Jamaica vs Zimbabwe.Djfz1Jth61",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/jamaica-vs-zimbabwe.DJFZ1jth61/7745",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Ararat Armenia vs Gandzasar.Nftmvb0H2",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/ararat-armenia-vs-gandzasar.NftMVb0h2-/7747",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Fc Urartu vs Fc Noah.Blswngctzb",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/fc-urartu-vs-fc-noah.BLswnGcTzB/7748",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
