@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "02:39 27/05/2026",
+  "last_updated": "06:57 27/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Nigeria vs Zimbabwe.O1Y8Yyp4Al",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/nigeria-vs-zimbabwe.o1Y8yYP4AL/7767",
-      "stream_url": "https://tfw71gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-177982385232543&wsIPSercert=38e85c7f567c6fda856f8df6633ab29d&wsBindIP=2&wsserid=1168176337059421885"
-    },
-    {
-      "title": "Spvgg Greuther Furth vs Rot Weiss Essen.Pcnyhxuzlm",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/79.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/2-bundesliga.UYtyKbStwg/spvgg-greuther-furth-vs-rot-weiss-essen.pcNYHXUZlM/7768",
-      "stream_url": "https://tfw71gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=95c73cdd21d768bd8f270626-177982386336472&wsIPSercert=38e85c7f567c6fda856f8df6633ab29d&wsBindIP=2&wsserid=1168041062945190795"
-    },
-    {
-      "title": "Saint Etienne vs Nice.Jtoshrbfsx",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ligue_1_2024_Logo.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligue-1-1759500389658/saint-etienne-vs-nice.jtOsHRBFsX/7775",
-      "stream_url": "https://tfw71gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-177982387409444&wsIPSercert=38e85c7f567c6fda856f8df6633ab29d&wsBindIP=2&wsserid=1168176346318957775"
-    },
     {
       "title": "Santos vs Deportivo Cuenca.7Jvuep_Jfh",
       "trang_thai": "Chờ",
@@ -58,12 +31,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Ha Noi Nu vs Ho Chi Minh Nu.Fecqajnctj",
+      "title": "Ha Noi Nu vs Ho Chi Minh Nu.Mwyq0Dwt7I",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://static.bongda24h.vn/medias/standard/2025/09/09/logo-moi-cua-giai-dau-cup-quoc-gia-20252026-0909133035.jpg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/cup-quoc-gia-viet-nam-1758632768076/ha-noi-nu-vs-ho-chi-minh-nu.FEcqaJNCtJ/7772",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/cup-quoc-gia-viet-nam-1758632768076/ha-noi-nu-vs-ho-chi-minh-nu.mwYq0dWT7i/7772",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -76,12 +49,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Ararat Armenia vs Gandzasar.3Fkdxtu3Lg",
+      "title": "Ararat Armenia vs Gandzasar.Mr4X_9Uxmg",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c6/Armenia_-_Armenian_Football_Logo_4.jpg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-armenia-1764479003849/ararat-armenia-vs-gandzasar.3FkdXtU3lG/7747",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-armenia-1764479003849/ararat-armenia-vs-gandzasar.mr4X_9UXMG/7747",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -166,12 +139,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Ordabasy vs Kairat Almaty.Cd_2Ae Cqd",
+      "title": "Ordabasy vs Kairat Almaty.Mqgjod3Ko4",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/ordabasy-vs-kairat-almaty.cD_2AE-CQd/7791",
+      "logo_nha": "https://i.imgur.com/2hXnsCK.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/ordabasy-vs-kairat-almaty.mQgjod3KO4/7791",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -184,12 +157,111 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
+      "title": "Ismaily Sc vs Pharco.1Pljchafhr",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-ai-cap-1758632535039/ismaily-sc-vs-pharco.1PLJchafhR/7796",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Rep Of Ireland vs Qatar.Pklx5Gcnph",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/rep-of-ireland-vs-qatar.pklx5GCNph/7793",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Palmeiras vs Junior. Heclnaa9M",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/palmeiras-vs-junior.-hEclNaA9m/7797",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Boca Juniors vs U Catolica. Maexoyc_Z",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/boca-juniors-vs-u-catolica.-mAEXoyc_Z/7798",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Cruzeiro vs Barcelona Sc.Hcrhbdeyo3",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/cruzeiro-vs-barcelona-sc.HCRhbdEyo3/7799",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Montenegro U17 vs Italy U17.V4Wjvl 0Sb",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/921.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u17-championship.Hzbo1Jcvaz/montenegro-u17-vs-italy-u17.V4wjvl-0Sb/7800",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Shenyang Urban vs Shanghai Sipg.Powkiuikco",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/278.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/super-league.gxratlGLOJ/shenyang-urban-vs-shanghai-sipg.PowkiUikCo/7801",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
       "title": "Iran vs Gambia.8_Mcrnznfh",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/iran-vs-gambia.8_MCRNzNfh/7789",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Andorra vs Iraq.Krsajrxaih",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/andorra-vs-iraq.kRSAjRxAIH/7794",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "South Africa vs Nicaragua.Tooflpewpo",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/south-africa-vs-nicaragua.TOOflPEwPO/7795",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "France U17 vs Denmark U17.Aaoone4Itn",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/921.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u17-championship.Hzbo1Jcvaz/france-u17-vs-denmark-u17.AaOOne4iTn/7802",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Ludogorets vs Lokomotiv Plovdiv.Rlqgy4Ushw",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/first-league-1763539896569/ludogorets-vs-lokomotiv-plovdiv.RLqgY4UsHW/7803",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
