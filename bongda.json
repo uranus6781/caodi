@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "19:50 27/05/2026",
+  "last_updated": "03:47 28/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Altay vs Fc Astana.B1Gvu83Noi",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/2hXnsCK.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/altay-vs-fc-astana.b1gvU83NOi/7771",
-      "stream_url": "https://tfw80gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=ae5d40028ae96af9e63375e8-177988558273594&wsIPSercert=5d030b548b114bb3b5d74b9e9fbece2f&wsBindIP=2&wsserid=1168176337059421885"
-    },
-    {
-      "title": "Ha Noi Nu vs Ho Chi Minh Nu.Mwyq0Dwt7I",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://static.bongda24h.vn/medias/standard/2025/09/09/logo-moi-cua-giai-dau-cup-quoc-gia-20252026-0909133035.jpg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/cup-quoc-gia-viet-nam-1758632768076/ha-noi-nu-vs-ho-chi-minh-nu.mwYq0dWT7i/7772",
-      "stream_url": "https://tfw80gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9b058d900273200a9a301c7b-177988559379295&wsIPSercert=5d030b548b114bb3b5d74b9e9fbece2f&wsBindIP=2&wsserid=1168176346313714739"
-    },
-    {
-      "title": "Buriram United vs Selangor.Ma82N8Uh7",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-club-championship-1764562099395/buriram-united-vs-selangor.Ma82N8uH7-/7774",
-      "stream_url": "https://tfw80gr4uqmtt8y41hcjzgazdnpbwfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=edec454b741202f36893c258-177988560455464&wsIPSercert=5d030b548b114bb3b5d74b9e9fbece2f&wsBindIP=2&wsserid=1168176346318957775"
-    },
-    {
-      "title": "Ararat Armenia vs Gandzasar.Mr4X_9Uxmg",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/c/c6/Armenia_-_Armenian_Football_Logo_4.jpg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-armenia-1764479003849/ararat-armenia-vs-gandzasar.mr4X_9UXMG/7747",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Barcelona W vs Real Sociedad W.Xkoojr 172",
       "trang_thai": "Chờ",
@@ -46,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/142.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primera-division-femenina.TkGx1FlMXJ/barcelona-w-vs-real-sociedad-w.XkooJr-172/7783",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
     },
     {
       "title": "Crystal Palace vs Rayo Vallecano.Pt4F94Hydb",
@@ -55,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-europa-conference-league-1758632175125/crystal-palace-vs-rayo-vallecano.pt4F94hyDB/7755",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw80gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=024eddb3de2fb4f0be79664f-177991433379836&wsIPSercert=fcb2070bf21afc51a8a611f182368f21&wsBindIP=2&wsserid=1168283323355153405"
     },
     {
       "title": "Crystal Palace vs Rayo Vallecano.Tgfbt6Syoi",
@@ -64,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-europa-conference-league-1758632175125/crystal-palace-vs-rayo-vallecano.TgfbT6SYoi/7773",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfw80gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-177991434449356&wsIPSercert=fcb2070bf21afc51a8a611f182368f21&wsBindIP=2&wsserid=1168283323406534424"
     },
     {
       "title": "Fluminense vs Deportivo La Guaira.Pgup_Qiokm",
