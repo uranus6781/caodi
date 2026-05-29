@@ -1,17 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "03:08 29/05/2026",
+  "last_updated": "07:10 29/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Rep Of Ireland vs Qatar.Mhv94Efocs",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/rep-of-ireland-vs-qatar.MHv94eFoCs/7816",
-      "stream_url": "https://tfw90gr4uqmtt8y41hcjsgyzdnctafi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=e1a561d1e5fa9b11e4dd3219-177999827082599&wsIPSercert=aed35e28719f1fea145d1fc6e4bdc7d7&wsBindIP=2&wsserid=1168283323221983365"
-    },
     {
       "title": "Palmeiras vs Junior.Ddhni 6Bej",
       "trang_thai": "Chờ",
@@ -19,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/conmebol-libertadores-1758632201778/palmeiras-vs-junior.DDhNI-6BEj/7797",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
     },
     {
       "title": "Boca Juniors vs U Catolica. Maexoyc_Z",
