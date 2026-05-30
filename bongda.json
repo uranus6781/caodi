@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "04:19 30/05/2026",
+  "last_updated": "15:03 30/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Depor Fc vs Millonarios.L67Oauajrn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/241.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/copa-colombia.B7y75x3ZMH/depor-fc-vs-millonarios.l67oaUaJRN/7837",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Albirex Niigata vs Kagoshima United.Hny1Unafrs",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/albirex-niigata-vs-kagoshima-united.hnY1UNAFRs/7838",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Kochi United vs Renofa Yamaguchi.Si3Cmna3Xs",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/kochi-united-vs-renofa-yamaguchi.sI3CMNA3XS/7839",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Yokohama Fc vs Omiya Ardija.4Uu7Uwis1X",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/yokohama-fc-vs-omiya-ardija.4UU7uWiS1x/7840",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Yongin City vs Daegu Fc.7Ans66K4Kl",
       "trang_thai": "Chờ",
@@ -46,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/b3/K_League_2_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/k-league-2-1759747861904/yongin-city-vs-daegu-fc.7ANS66K4Kl/7841",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnctufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0a1dc30e3d4ff2cdf50d9b81-178012749505623&wsIPSercert=0d765e6082486980ec91a6d5698a4d35&wsBindIP=2&wsserid=1168283323406534424"
     },
     {
       "title": "Asan Mugunghwa vs Suwon Bluewings.N303Iyvobn",
@@ -55,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/b3/K_League_2_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/k-league-2-1759747861904/asan-mugunghwa-vs-suwon-bluewings.n303iYvobn/7842",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwb0gr4uqmtt8y41hcjsgyzdnct1fi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8e9f489a7bfb35c1ca56e9df-178012750623822&wsIPSercert=0d765e6082486980ec91a6d5698a4d35&wsBindIP=2&wsserid=1168270715628259813"
     },
     {
       "title": "Binh Phuoc vs Long An.Llaeshigqt",
