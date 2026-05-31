@@ -1,11 +1,14 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 03:07 01/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 06:58 01/06/2026
 
-#EXTINF:-1 tvg-id="Germany vs Finland.Uqkvplukgg" tvg-name="Germany vs Finland.Uqkvplukgg" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Germany vs Finland.Uqkvplukgg
-https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178025724978887&wsIPSercert=02c2c72aa1f59669b6f4c63c95178b93&wsBindIP=2&wsserid=1168202333418134578
+#EXTINF:-1 tvg-id="Brazil vs Panama.Hyo51 Bldr" tvg-name="Brazil vs Panama.Hyo51 Bldr" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Brazil vs Panama.Hyo51 Bldr
+https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178027118635932&wsIPSercert=5e73f1c0ff8f3223cbe0cdb2531edb52&wsBindIP=2&wsserid=1168176581102008440
 
-#EXTINF:-1 tvg-id="Germany vs Finland.Hkaiavh_Dx" tvg-name="Germany vs Finland.Hkaiavh_Dx" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Germany vs Finland.Hkaiavh_Dx
-https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178025726118681&wsIPSercert=02c2c72aa1f59669b6f4c63c95178b93&wsBindIP=2&wsserid=1168202333418134578
+#EXTINF:-1 tvg-id="Brazil vs Panama.1J8Uxa0Zin" tvg-name="Brazil vs Panama.1J8Uxa0Zin" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Brazil vs Panama.1J8Uxa0Zin
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Usa vs Senegal.G Mnkovmgj" tvg-name="Usa vs Senegal.G Mnkovmgj" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Usa vs Senegal.G Mnkovmgj
-https://tfwc0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178025727175885&wsIPSercert=02c2c72aa1f59669b6f4c63c95178b93&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="Remo vs Sao Paulo.Wavsdwwuiu" tvg-name="Remo vs Sao Paulo.Wavsdwwuiu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Remo vs Sao Paulo.Wavsdwwuiu
+https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178027120837227&wsIPSercert=5e73f1c0ff8f3223cbe0cdb2531edb52&wsBindIP=2&wsserid=1168176581104105640
+
+#EXTINF:-1 tvg-id="Palestino vs A Italiano.Ohuesty7Bi" tvg-name="Palestino vs A Italiano.Ohuesty7Bi" tvg-logo="https://media.api-sports.io/football/leagues/162.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Palestino vs A Italiano.Ohuesty7Bi
+https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178027121970337&wsIPSercert=5e73f1c0ff8f3223cbe0cdb2531edb52&wsBindIP=2&wsserid=1168176581102008440
