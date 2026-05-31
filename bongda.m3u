@@ -1,5 +1,8 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 07:03 31/05/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 17:13 31/05/2026
 
-#EXTINF:-1 tvg-id="Ecuador vs Saudi Arabia.Omjwna3Cvw" tvg-name="Ecuador vs Saudi Arabia.Omjwna3Cvw" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Ecuador vs Saudi Arabia.Omjwna3Cvw
-https://tfwb0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178018489597992&wsIPSercert=daab66aaf12611cc6254841ce6ba18f4&wsBindIP=2&wsserid=1168202333418134578
+#EXTINF:-1 tvg-id="Jeonnam Dragons vs Seoul E Land Fc.Morydj1Htx" tvg-name="Jeonnam Dragons vs Seoul E Land Fc.Morydj1Htx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/K_League_2_logo.svg" group-title="🔥 HỘI QUÁN TV",Live ⚽ Jeonnam Dragons vs Seoul E Land Fc.Morydj1Htx
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Japan vs Iceland.M9Ia0Xrop3" tvg-name="Japan vs Iceland.M9Ia0Xrop3" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Japan vs Iceland.M9Ia0Xrop3
+https://tfwc1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-178022164010956&wsIPSercert=07e3563d2bb2ec831ffb156032d52be2&wsBindIP=2&wsserid=1168243256607494228
