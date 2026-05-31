@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "07:03 31/05/2026",
+  "last_updated": "17:13 31/05/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Ecuador vs Saudi Arabia.Omjwna3Cvw",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/ecuador-vs-saudi-arabia.oMjWnA3CvW/7865",
-      "stream_url": "https://tfwb0gr4uqmtt8y41hcjw8yzdnpjufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=c1cf2d6691ff8f433063200f-178018489597992&wsIPSercert=daab66aaf12611cc6254841ce6ba18f4&wsBindIP=2&wsserid=1168202333418134578"
-    },
-    {
-      "title": "South Korea vs Trinidad And Tobago.P_Dd_Dcdxi",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/south-korea-vs-trinidad-and-tobago.P_Dd_dCdxI/7866",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Mexico vs Australia.Qfhxo02_Im",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/mexico-vs-australia.qFHXo02_IM/7867",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Blaublitz Akita vs Consadole Sapporo.Cmwwfltwaa",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/blaublitz-akita-vs-consadole-sapporo.cMWWFLTWAA/7859",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Jeonnam Dragons vs Seoul E Land Fc.Morydj1Htx",
       "trang_thai": "Chờ",
@@ -46,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/b/b3/K_League_2_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/k-league-2-1759747861904/jeonnam-dragons-vs-seoul-e-land-fc.MorYdj1hTX/7860",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
     },
     {
       "title": "Japan vs Iceland.M9Ia0Xrop3",
@@ -55,33 +19,24 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/japan-vs-iceland.M9iA0xRoP3/7868",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwc1gr3uomttgr31hcj18yzd1qbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3d4ec92cc5aa77589788444e-178022164010956&wsIPSercert=07e3563d2bb2ec831ffb156032d52be2&wsBindIP=2&wsserid=1168243256607494228"
     },
     {
-      "title": "Cong An Nhan Dan vs Binh Duong.Cmrg50G_Hv",
+      "title": "Cong An Nhan Dan vs Binh Duong.E9Mikqpmlp",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/cong-an-nhan-dan-vs-binh-duong.cMRG50G_Hv/7869",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/cong-an-nhan-dan-vs-binh-duong.e9mikQPmlp/7869",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Thanh Hoa vs Phu Dong.Zv75Ujmemk",
+      "title": "Thanh Hoa vs Phu Dong.Ezidjuvefo",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/thanh-hoa-vs-phu-dong.ZV75UJMemk/7870",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Hong Linh Ha Tinh vs Da Nang.Tamipogliy",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/hong-linh-ha-tinh-vs-da-nang.TaMiPoGliy/7871",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/thanh-hoa-vs-phu-dong.eziDjUVeFo/7870",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
