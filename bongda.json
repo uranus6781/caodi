@@ -1,170 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "06:58 01/06/2026",
+  "last_updated": "02:42 02/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Brazil vs Panama.Hyo51 Bldr",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/brazil-vs-panama.HyO51-BLdr/7885",
-      "stream_url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178027118635932&wsIPSercert=5e73f1c0ff8f3223cbe0cdb2531edb52&wsBindIP=2&wsserid=1168176581102008440"
-    },
-    {
-      "title": "Brazil vs Panama.1J8Uxa0Zin",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/brazil-vs-panama.1j8Uxa0Zin/7886",
-      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-    },
-    {
-      "title": "Remo vs Sao Paulo.Wavsdwwuiu",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-a-1758631315616/remo-vs-sao-paulo.wavsdwWuiu/7898",
-      "stream_url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=f493ac076bf7aa1c255e1ae6-178027120837227&wsIPSercert=5e73f1c0ff8f3223cbe0cdb2531edb52&wsBindIP=2&wsserid=1168176581104105640"
-    },
-    {
-      "title": "Palestino vs A Italiano.Ohuesty7Bi",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/162.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primera-division.ih66t2ujqu/palestino-vs-a-italiano.OHuESTY7Bi/7899",
-      "stream_url": "https://tfwc1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178027121970337&wsIPSercert=5e73f1c0ff8f3223cbe0cdb2531edb52&wsBindIP=2&wsserid=1168176581102008440"
-    },
-    {
-      "title": "Vietnam U19 vs Timor Leste U19.Uvrhsjw9_9",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/vietnam-u19-vs-timor-leste-u19.uvRHsjW9_9/7887",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Vietnam U19 vs Timor Leste U19.D3Tgmle9Ot",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/vietnam-u19-vs-timor-leste-u19.D3tgmlE9Ot/7888",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Vietnam U19 vs Timor Leste U19.19Jxu0K5T5",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/vietnam-u19-vs-timor-leste-u19.19Jxu0K5t5/7889",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Vietnam U19 vs Timor Leste U19.Qqd1Oar1Hb",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/vietnam-u19-vs-timor-leste-u19.Qqd1oAR1HB/7890",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Vanraure Hachinohe vs Fukushima United.Grtgvds05S",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/vanraure-hachinohe-vs-fukushima-united.grTgvDs05s/7900",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "France U17 vs Montenegro U17.Fq046Gon93",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/921.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u17-championship.Hzbo1Jcvaz/france-u17-vs-montenegro-u17.fQ046gON93/7901",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Indonesia U19 vs Myanmar U19.Wv0Oz9Te4Q",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-myanmar-u19.Wv0oZ9tE4Q/7891",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Indonesia U19 vs Myanmar U19.3Lqhk_1Wtf",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-myanmar-u19.3lqhK_1WtF/7893",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Slovakia vs Malta.Ni0Xzrummi",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/slovakia-vs-malta.NI0xZRUMmI/7895",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Turkiye vs Fyr Macedonia.Jwdc2Xwdli",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/turkiye-vs-fyr-macedonia.jWDC2xwdLi/7897",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Norway vs Sweden.2Vk4Glniyc",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/norway-vs-sweden.2VK4GLNiyC/7919",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Norway vs Sweden.Jnu9Bnhqv8",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/norway-vs-sweden.jnu9BnHQv8/7920",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Norway vs Sweden.2Wdlchdjv6",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/norway-vs-sweden.2WDLcHDjV6/7921",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Fc Voluntari vs Afc Hermannstadt.3K8Rjnpurp",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/283.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/liga-i.ZWiuiY2yeS/fc-voluntari-vs-afc-hermannstadt.3k8rJnPUrP/7931",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Austria vs Tunisia.Fmasvpfno4",
       "trang_thai": "Chờ",
@@ -172,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/austria-vs-tunisia.fMasVPFnO4/7922",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178034228549440&wsIPSercert=61508abde0c05446bdf4ddd6dba6210d&wsBindIP=2&wsserid=1168278313570948617"
     },
     {
       "title": "Ponte Preta vs Botafogo Sp.Dqdvgupgec",
@@ -262,6 +100,132 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/croatia-vs-belgium.eSElK7kmfh/7930",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Georgia vs Romania.Uzubpzh2Fo",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/georgia-vs-romania.UzUbPzh2FO/7934",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Morocco vs Madagascar.Makuw7Dbha",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/morocco-vs-madagascar.mAKUW7dBHA/7935",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Wales vs Ghana.5Sdz3177Jy",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/wales-vs-ghana.5Sdz3177JY/7936",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Haiti vs New Zealand.Ythgzxr2Ep",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/haiti-vs-new-zealand.ythgZXr2eP/7937",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Barracas Central vs Huracan.Z88Cf_Rg6V",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/130.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/copa-argentina.NyJtbpIaQv/barracas-central-vs-huracan.Z88Cf_RG6v/7942",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Junior vs Atletico Nacional.Fg9Mgmzp27",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/239.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primera-a.laR5rLh_KC/junior-vs-atletico-nacional.Fg9mGmzP27/7943",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Portugal U19 vs Kazakhstan U19.Byrpwz328G",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/893.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u19-championship-qualification.DL23kNq-pN/portugal-u19-vs-kazakhstan-u19.byRpWZ328g/7945",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Philippines vs Guam.Sun1Wkugv8",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/philippines-vs-guam.sUn1wKugv8/7938",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Philippines vs Guam.Rjqobnneyt",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/philippines-vs-guam.RjqObnneYT/7939",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Philippines U19 vs Australia U19.Lrssbhah8D",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/philippines-u19-vs-australia-u19.lrSsbhAh8d/7940",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Philippines U19 vs Australia U19.Bdikpeej1K",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/philippines-u19-vs-australia-u19.BdIkpeEj1k/7941",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Greece U19 vs Serbia U19.Jqlv0Pamvw",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/893.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u19-championship-qualification.DL23kNq-pN/greece-u19-vs-serbia-u19.JqLV0paMvW/7944",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Latvia U17 vs Albania U17.Jvpw6Tuvss",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/921.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u17-championship.Hzbo1Jcvaz/latvia-u17-vs-albania-u17.jVpW6TUvsS/7946",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Viken vs Utsikten.Xumzup5Ikm",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/115.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/svenska-cupen.nQz8Gj4NZb/viken-vs-utsikten.xuMzUP5IKM/7947",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
