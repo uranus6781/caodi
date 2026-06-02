@@ -1,17 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "02:42 02/06/2026",
+  "last_updated": "07:10 02/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Austria vs Tunisia.Fmasvpfno4",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/austria-vs-tunisia.fMasVPFnO4/7922",
-      "stream_url": "https://tfwd1gr4dymttgwanhc3sfaauccbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dbd8f789bb7a7a2508c32238-178034228549440&wsIPSercert=61508abde0c05446bdf4ddd6dba6210d&wsBindIP=2&wsserid=1168278313570948617"
-    },
     {
       "title": "Ponte Preta vs Botafogo Sp.Dqdvgupgec",
       "trang_thai": "Chờ",
@@ -19,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-b-1764992214413/ponte-preta-vs-botafogo-sp.dqdvgUPGEC/7932",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
     },
     {
       "title": "Colombia vs Costa Rica.Cbykrnh3Rd",
@@ -28,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/colombia-vs-costa-rica.CByKRNH3Rd/7923",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwe0gr4uqmtt8y41hcjzgrzdrcbofiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=b897078035d8e4cd82a99de7-178035846720217&wsIPSercert=7777c479a04aff6024c9c64683c60142&wsBindIP=2&wsserid=1168140848411308775"
     },
     {
       "title": "Canada vs Uzbekistan.Maoxgljks0",
