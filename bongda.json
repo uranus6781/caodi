@@ -1,80 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "20:17 02/06/2026",
+  "last_updated": "05:27 03/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Malaysia U19 vs Singapore U19.Ngd342Hctx",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/malaysia-u19-vs-singapore-u19.ngd342HCTx/7927",
-      "stream_url": "https://tfwe1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8868a9a6fbd72bbb9f0e427b-178040529985689&wsIPSercert=e9bc0ae7f289dc2dd53d64e401c2ea9f&wsBindIP=2&wsserid=1168176581102008440"
-    },
-    {
-      "title": "Malaysia U19 vs Singapore U19.Tq37Vug1Hw",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/malaysia-u19-vs-singapore-u19.tq37vuG1hW/7928",
-      "stream_url": "https://tfwe0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8c7a6d55d416b2df9bcd3060-178040531101660&wsIPSercert=e9bc0ae7f289dc2dd53d64e401c2ea9f&wsBindIP=2&wsserid=1168202392933970899"
-    },
-    {
-      "title": "Al Kahrabaa vs Al Karma.Nhmtvldccs",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/542.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/iraqi-league.ny4YI4tt09/al-kahrabaa-vs-al-karma.NHMtvldCCs/7933",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Croatia vs Belgium.Vgcttj0Ygy",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/croatia-vs-belgium.vgcTTJ0YGY/7929",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Croatia vs Belgium.Eselk7Kmfh",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/croatia-vs-belgium.eSElK7kmfh/7930",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Georgia vs Romania.Uzubpzh2Fo",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/georgia-vs-romania.UzUbPzh2FO/7934",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Morocco vs Madagascar.Makuw7Dbha",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/morocco-vs-madagascar.mAKUW7dBHA/7935",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Wales vs Ghana.5Sdz3177Jy",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/wales-vs-ghana.5Sdz3177JY/7936",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Haiti vs New Zealand.Ythgzxr2Ep",
       "trang_thai": "Chờ",
