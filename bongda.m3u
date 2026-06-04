@@ -1,5 +1,14 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 18:38 04/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 02:44 05/06/2026
 
-#EXTINF:-1 tvg-id="Belgium U17 vs France U17.5758Tmnwn7" tvg-name="Belgium U17 vs France U17.5758Tmnwn7" tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Belgium U17 vs France U17.5758Tmnwn7
-https://tfwg3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178057252872018&wsIPSercert=d026b7caf248ca9e88abcfe9ddb04e11&wsBindIP=2&wsserid=1172666312698126342
+#EXTINF:-1 tvg-id="Spain vs Iraq.Msygn 0965" tvg-name="Spain vs Iraq.Msygn 0965" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Spain vs Iraq.Msygn 0965
+https://tfwg3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178060191606235&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666312698126342
+
+#EXTINF:-1 tvg-id="Spain vs Iraq. H9Jnnyaf8" tvg-name="Spain vs Iraq. H9Jnnyaf8" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Spain vs Iraq. H9Jnnyaf8
+https://tfwg3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ba5af17125ac9bf4472fc03-178060192727389&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666162445578538
+
+#EXTINF:-1 tvg-id="France vs Ivory Coast.Rmgffoadmz" tvg-name="France vs Ivory Coast.Rmgffoadmz" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ France vs Ivory Coast.Rmgffoadmz
+https://tfwg3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178060193829697&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666312704417830
+
+#EXTINF:-1 tvg-id="France vs Ivory Coast.Kh5 Fnbjno" tvg-name="France vs Ivory Coast.Kh5 Fnbjno" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ France vs Ivory Coast.Kh5 Fnbjno
+https://tfwg3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3ba5af17125ac9bf4472fc03-178060194927284&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666162445578538
