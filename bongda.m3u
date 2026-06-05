@@ -1,11 +1,5 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 01:38 06/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 06:02 06/06/2026
 
-#EXTINF:-1 tvg-id="Moldova vs Bulgaria.Kubld8Inoo" tvg-name="Moldova vs Bulgaria.Kubld8Inoo" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Moldova vs Bulgaria.Kubld8Inoo
-https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178068431197255&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176337059421885
-
-#EXTINF:-1 tvg-id="Hungary vs Finland.Zofmrkvxn3" tvg-name="Hungary vs Finland.Zofmrkvxn3" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Hungary vs Finland.Zofmrkvxn3
-https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178068432311853&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176346313714739
-
-#EXTINF:-1 tvg-id="Azerbaijan vs Malta.Ok8Jogxpst" tvg-name="Azerbaijan vs Malta.Ok8Jogxpst" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Azerbaijan vs Malta.Ok8Jogxpst
-https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178068433378595&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176346318957775
+#EXTINF:-1 tvg-id="Puerto Rico vs Saudi Arabia.Vrcf4J17Kn" tvg-name="Puerto Rico vs Saudi Arabia.Vrcf4J17Kn" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Puerto Rico vs Saudi Arabia.Vrcf4J17Kn
+https://tfwh3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=aa24efa3d9c613f611f4a7d6-178069961047807&wsIPSercert=70465350ba9599509662fcec00284c0e&wsBindIP=2&wsserid=1177063474761571144
