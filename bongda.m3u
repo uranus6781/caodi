@@ -1,5 +1,11 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 19:04 05/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 01:38 06/06/2026
 
-#EXTINF:-1 tvg-id="Singapore vs China.Dbrzdaixqx" tvg-name="Singapore vs China.Dbrzdaixqx" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Singapore vs China.Dbrzdaixqx
-https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178066041221072&wsIPSercert=0a8ed428ce4a1b4cc55558ab8cc70195&wsBindIP=2&wsserid=1168283323277558487
+#EXTINF:-1 tvg-id="Moldova vs Bulgaria.Kubld8Inoo" tvg-name="Moldova vs Bulgaria.Kubld8Inoo" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Moldova vs Bulgaria.Kubld8Inoo
+https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178068431197255&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176337059421885
+
+#EXTINF:-1 tvg-id="Hungary vs Finland.Zofmrkvxn3" tvg-name="Hungary vs Finland.Zofmrkvxn3" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Hungary vs Finland.Zofmrkvxn3
+https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178068432311853&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176346313714739
+
+#EXTINF:-1 tvg-id="Azerbaijan vs Malta.Ok8Jogxpst" tvg-name="Azerbaijan vs Malta.Ok8Jogxpst" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Azerbaijan vs Malta.Ok8Jogxpst
+https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178068433378595&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176346318957775
