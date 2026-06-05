@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "02:44 05/06/2026",
+  "last_updated": "07:03 05/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Spain vs Iraq.Msygn 0965",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/spain-vs-iraq.msyGn-0965/8006",
-      "stream_url": "https://tfwg3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a0d8453133b83a3a56f80237-178060191606235&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666312698126342"
-    },
-    {
-      "title": "Spain vs Iraq. H9Jnnyaf8",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/spain-vs-iraq.-h9jnNYAF8/8007",
-      "stream_url": "https://tfwg3gr4uqmtt8y41hcjzgrzdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=3ba5af17125ac9bf4472fc03-178060192727389&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666162445578538"
-    },
     {
       "title": "France vs Ivory Coast.Rmgffoadmz",
       "trang_thai": "Chờ",
@@ -28,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/france-vs-ivory-coast.RMGfFOadMZ/8008",
-      "stream_url": "https://tfwg3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178060193829697&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666312704417830"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
     },
     {
       "title": "France vs Ivory Coast.Kh5 Fnbjno",
@@ -37,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/france-vs-ivory-coast.kh5-fNbjnO/8009",
-      "stream_url": "https://tfwg3gr4uqmtt8y41hcjzgrzdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3ba5af17125ac9bf4472fc03-178060194927284&wsIPSercert=8695f2308b4d1f4d3c16266d8b41e687&wsBindIP=2&wsserid=1172666162445578538"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
     },
     {
       "title": "Czech Republic vs Guatemala.Ljuxne92Yg",
@@ -46,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/czech-republic-vs-guatemala.lJUxNe92yg/8010",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178061752891047&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1172666312704417830"
     },
     {
       "title": "Mexico vs Serbia.Nhpwzyttuh",
