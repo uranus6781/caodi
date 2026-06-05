@@ -1,11 +1,5 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 07:03 05/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 19:04 05/06/2026
 
-#EXTINF:-1 tvg-id="France vs Ivory Coast.Rmgffoadmz" tvg-name="France vs Ivory Coast.Rmgffoadmz" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ France vs Ivory Coast.Rmgffoadmz
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France vs Ivory Coast.Kh5 Fnbjno" tvg-name="France vs Ivory Coast.Kh5 Fnbjno" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ France vs Ivory Coast.Kh5 Fnbjno
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Czech Republic vs Guatemala.Ljuxne92Yg" tvg-name="Czech Republic vs Guatemala.Ljuxne92Yg" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Czech Republic vs Guatemala.Ljuxne92Yg
-https://tfwg0gr4uqmtt8y41hcjzgyzdrcjifi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=90c30043258119c1e5858f91-178061752891047&wsIPSercert=6aae1af9acb84220cd030e6e00a20f56&wsBindIP=2&wsserid=1172666312704417830
+#EXTINF:-1 tvg-id="Singapore vs China.Dbrzdaixqx" tvg-name="Singapore vs China.Dbrzdaixqx" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Singapore vs China.Dbrzdaixqx
+https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178066041221072&wsIPSercert=0a8ed428ce4a1b4cc55558ab8cc70195&wsBindIP=2&wsserid=1168283323277558487
