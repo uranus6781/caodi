@@ -1,71 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "19:04 05/06/2026",
+  "last_updated": "01:38 06/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Singapore vs China.Dbrzdaixqx",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/singapore-vs-china.DbrzDaiXqx/8013",
-      "stream_url": "https://tfwh0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=1d5c93cf4c29764bc1dcc4c2-178066041221072&wsIPSercert=0a8ed428ce4a1b4cc55558ab8cc70195&wsBindIP=2&wsserid=1168283323277558487"
-    },
-    {
-      "title": "Thailand vs Kuwait.Wwdrhdciob",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/thailand-vs-kuwait.wwDRHdCiOb/8030",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Singapore U19 vs Thailand U19.Xv8Axjjxyc",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/singapore-u19-vs-thailand-u19.Xv8aXjJXYC/8015",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Indonesia vs Oman.Hxcmtjmy32",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/indonesia-vs-oman.hxCMTjMy32/8031",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Georgia vs Bahrain.Owx1Uovq8M",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/georgia-vs-bahrain.owX1uoVq8m/8016",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Belarus vs Syria.Awfhzcqzps",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/belarus-vs-syria.aWfhzcqZps/8017",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Austria W vs Slovenia W.Ao1Aivpo4P",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/880.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup-women-qualification-europe.DUYTfcGRKD/austria-w-vs-slovenia-w.aO1AiVPO4P/8033",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Moldova vs Bulgaria.Kubld8Inoo",
       "trang_thai": "Chờ",
@@ -73,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/moldova-vs-bulgaria.KubLD8iNoo/8042",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b13933daec94aca61dee8209-178068431197255&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176337059421885"
     },
     {
       "title": "Hungary vs Finland.Zofmrkvxn3",
@@ -82,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/hungary-vs-finland.zOFMrKvxN3/8043",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=33c58bb968e119c20b02d306-178068432311853&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176346313714739"
     },
     {
       "title": "Azerbaijan vs Malta.Ok8Jogxpst",
@@ -91,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/azerbaijan-vs-malta.ok8JOgXpST/8044",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwh1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2fbb71e8bd899055edae3fe8-178068433378595&wsIPSercert=8da502e39f5d48f8abf04f116e1fe751&wsBindIP=2&wsserid=1168176346318957775"
     },
     {
       "title": "Angola vs Mauritania.Pqt0_O0Jqd",
