@@ -1,5 +1,11 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 23:59 06/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 03:56 07/06/2026
 
-#EXTINF:-1 tvg-id="Portugal U19 vs Greece U19.Yonbv3Dw E" tvg-name="Portugal U19 vs Greece U19.Yonbv3Dw E" tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Portugal U19 vs Greece U19.Yonbv3Dw E
-https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178076458001001&wsIPSercert=11e0b8dad97487764884c3e8a1840813&wsBindIP=2&wsserid=1168283323207303220
+#EXTINF:-1 tvg-id="Usa vs Germany.Eklzb1Umsz" tvg-name="Usa vs Germany.Eklzb1Umsz" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Usa vs Germany.Eklzb1Umsz
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Australia vs Switzerland.Ujmovokjbn" tvg-name="Australia vs Switzerland.Ujmovokjbn" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Australia vs Switzerland.Ujmovokjbn
+https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=149be663ef1389e0051f6ddb-178077895150843&wsIPSercert=412cb7be6b4c3aa7c37695cebabc66bd&wsBindIP=2&wsserid=1168235283031012122
+
+#EXTINF:-1 tvg-id="England vs New Zealand.Svnnlwrtf8" tvg-name="England vs New Zealand.Svnnlwrtf8" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ England vs New Zealand.Svnnlwrtf8
+https://tfwi1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178077896243422&wsIPSercert=412cb7be6b4c3aa7c37695cebabc66bd&wsBindIP=2&wsserid=1168168154451507561
