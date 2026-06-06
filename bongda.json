@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "15:33 06/06/2026",
+  "last_updated": "20:05 06/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Jubilo Iwata vs Osaka.Bxmd8K6Nui",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/jubilo-iwata-vs-osaka.bxmd8k6nui/8120",
-      "stream_url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178073394238487&wsIPSercert=87bc56ad39862e2eb68fd6e59105dbc0&wsBindIP=2&wsserid=1168168154460945005"
-    },
-    {
-      "title": "Vanuatu vs Fiji.M489X11Qtp",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/vanuatu-vs-fiji.m489X11qTP/8050",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Sagan Tosu vs Shonan Bellmare.Pubp8Zulxm",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/sagan-tosu-vs-shonan-bellmare.pUBp8ZULXM/8059",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Myanmar vs Guam.Vidldzyk2P",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/myanmar-vs-guam.ViDLdzYK2P/8051",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Belgium vs Tunisia.0G2K_D_Kao",
       "trang_thai": "Chờ",
@@ -46,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/belgium-vs-tunisia.0G2K_D_Kao/8052",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178075050546338&wsIPSercert=a0099f3d1c1bb80c847c93f690b5feac&wsBindIP=2&wsserid=1172662091344090222"
     },
     {
       "title": "Lithuania vs Latvia.Iu9 M Cbrj",
@@ -55,16 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/849.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/baltic-cup.hMa0TNOpne/lithuania-vs-latvia.Iu9-m-CbrJ/8053",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Cambodia U19 vs Philippines U19.N7J2I Pkxh",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/cambodia-u19-vs-philippines-u19.N7j2i-pKxh/8061",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=aa24efa3d9c613f611f4a7d6-178075051621076&wsIPSercert=a0099f3d1c1bb80c847c93f690b5feac&wsBindIP=2&wsserid=1177063474761571144"
     },
     {
       "title": "Kyrgyzstan vs Palestine.Bawyhinoeq",
@@ -91,15 +46,6 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/armenia-vs-kazakhstan.CAZXKzrqwi/8055",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Rwanda vs Comoros.Xtjtdvx1 3",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/rwanda-vs-comoros.XtJtDVX1-3/8056",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -145,15 +91,6 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/england-vs-new-zealand.svnnlwRtF8/8078",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Bolivia vs Scotland.Gtrnp1J7Ai",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/bolivia-vs-scotland.GTrNp1J7aI/8079",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -220,12 +157,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Da Nang vs Thanh Hoa.Kjlg0Rmg7B",
+      "title": "Da Nang vs Thanh Hoa.Sdpjfy1Mst",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/da-nang-vs-thanh-hoa.KJlG0rmg7B/8085",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/da-nang-vs-thanh-hoa.sDPjFY1MSt/8085",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -235,15 +172,6 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/ha-noi-vs-ho-chi-minh.wO9Ddl5oot/8086",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Hai Phong vs Nam Dinh.Rfjauhshde",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/hai-phong-vs-nam-dinh.rFJauHshde/8087",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -265,12 +193,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Viettel vs Cong An Nhan Dan.Viilissqjk",
+      "title": "Viettel vs Cong An Nhan Dan.U7Zctrgqly",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/viettel-vs-cong-an-nhan-dan.vIILiSSQJK/8090",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/viettel-vs-cong-an-nhan-dan.u7ZCtrGqLy/8090",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -298,6 +226,15 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-vietnam-u19.TY4yf0XEYw/8093",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Denmark vs Ukraine.Nn8Utqbfnq",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/denmark-vs-ukraine.nn8UtQbfNQ/8127",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
