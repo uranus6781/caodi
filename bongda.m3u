@@ -1,8 +1,5 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 20:05 06/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 23:59 06/06/2026
 
-#EXTINF:-1 tvg-id="Belgium vs Tunisia.0G2K_D_Kao" tvg-name="Belgium vs Tunisia.0G2K_D_Kao" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Belgium vs Tunisia.0G2K_D_Kao
-https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d691546f63683fe66c49005-178075050546338&wsIPSercert=a0099f3d1c1bb80c847c93f690b5feac&wsBindIP=2&wsserid=1172662091344090222
-
-#EXTINF:-1 tvg-id="Lithuania vs Latvia.Iu9 M Cbrj" tvg-name="Lithuania vs Latvia.Iu9 M Cbrj" tvg-logo="https://media.api-sports.io/football/leagues/849.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Lithuania vs Latvia.Iu9 M Cbrj
-https://tfwi3gr4dymttgwanhc3sfa4urmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=aa24efa3d9c613f611f4a7d6-178075051621076&wsIPSercert=a0099f3d1c1bb80c847c93f690b5feac&wsBindIP=2&wsserid=1177063474761571144
+#EXTINF:-1 tvg-id="Portugal U19 vs Greece U19.Yonbv3Dw E" tvg-name="Portugal U19 vs Greece U19.Yonbv3Dw E" tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Portugal U19 vs Greece U19.Yonbv3Dw E
+https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178076458001001&wsIPSercert=11e0b8dad97487764884c3e8a1840813&wsBindIP=2&wsserid=1168283323207303220
