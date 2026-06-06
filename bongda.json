@@ -1,43 +1,16 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "06:02 06/06/2026",
+  "last_updated": "15:33 06/06/2026",
   "buncha": [],
   "hoiquan": [
     {
-      "title": "Puerto Rico vs Saudi Arabia.Vrcf4J17Kn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/puerto-rico-vs-saudi-arabia.VrCf4J17kN/8046",
-      "stream_url": "https://tfwh3gr4dymttgwanhc3sfa4urmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=aa24efa3d9c613f611f4a7d6-178069961047807&wsIPSercert=70465350ba9599509662fcec00284c0e&wsBindIP=2&wsserid=1177063474761571144"
-    },
-    {
-      "title": "Canada vs Rep Of Ireland.9Ifqzhqux2",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/canada-vs-rep-of-ireland.9ifqZHQuX2/8047",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Yokohama Fc vs Renofa Yamaguchi.F5Yrdmlky7",
+      "title": "Jubilo Iwata vs Osaka.Bxmd8K6Nui",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/yokohama-fc-vs-renofa-yamaguchi.f5YRDMlKy7/8057",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Fc Tokyo vs Cerezo Osaka.7M6Cvjjfh1",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j1-league-1758631930094/fc-tokyo-vs-cerezo-osaka.7m6CVJJfH1/8058",
-      "stream_url": "https://example.com/waiting.mp4"
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/jubilo-iwata-vs-osaka.bxmd8k6nui/8120",
+      "stream_url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=a1f53ea0c8ae941e53ed820c-178073394238487&wsIPSercert=87bc56ad39862e2eb68fd6e59105dbc0&wsBindIP=2&wsserid=1168168154460945005"
     },
     {
       "title": "Vanuatu vs Fiji.M489X11Qtp",
