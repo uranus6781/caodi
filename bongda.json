@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "23:59 06/06/2026",
+  "last_updated": "03:56 07/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Portugal U19 vs Greece U19.Yonbv3Dw E",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/893.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u19-championship-qualification.DL23kNq-pN/portugal-u19-vs-greece-u19.yonBV3dW-e/8060",
-      "stream_url": "https://tfwi0gr4uqmtt8y41hcjsgyzdnctafiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b8e6b9a63c3bf8b47600cd06-178076458001001&wsIPSercert=11e0b8dad97487764884c3e8a1840813&wsBindIP=2&wsserid=1168283323207303220"
-    },
-    {
-      "title": "Romania vs Wales.L5P7Xncktt",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/romania-vs-wales.L5P7XNcKTt/8074",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Portugal vs Chile.Vq8Befmsjh",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/portugal-vs-chile.vQ8BeFmSJH/8075",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Usa vs Germany.Eklzb1Umsz",
       "trang_thai": "Chờ",
@@ -37,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/usa-vs-germany.eKlzb1uMsZ/8076",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
     },
     {
       "title": "Australia vs Switzerland.Ujmovokjbn",
@@ -46,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/australia-vs-switzerland.UJMovokJBN/8077",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwi1gr3uomttgr31hcj3fa3dkcbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=149be663ef1389e0051f6ddb-178077895150843&wsIPSercert=412cb7be6b4c3aa7c37695cebabc66bd&wsBindIP=2&wsserid=1168235283031012122"
     },
     {
       "title": "England vs New Zealand.Svnnlwrtf8",
@@ -55,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/england-vs-new-zealand.svnnlwRtF8/8078",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwi1gr3uomttgr31hcj3fa3deqbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ff1c663e0a7f623fca95554e-178077896243422&wsIPSercert=412cb7be6b4c3aa7c37695cebabc66bd&wsBindIP=2&wsserid=1168168154451507561"
     },
     {
       "title": "Venezuela vs Turkiye.Yv9G8Tlecp",
