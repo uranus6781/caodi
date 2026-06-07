@@ -1,5 +1,14 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 22:24 07/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 03:12 08/06/2026
 
-#EXTINF:-1 tvg-id="Shakhter Soligorsk vs Slonim.Yuzknehbcq" tvg-name="Shakhter Soligorsk vs Slonim.Yuzknehbcq" tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Shakhter Soligorsk vs Slonim.Yuzknehbcq
-https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178084524480215&wsIPSercert=f432c2d183051a4547eae4031cc053dc&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="Croatia vs Slovenia.Msxregtdxs" tvg-name="Croatia vs Slovenia.Msxregtdxs" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Croatia vs Slovenia.Msxregtdxs
+https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=2bcac8c59898b1e728264dd4-178086266670320&wsIPSercert=9a640431c28639d2e9690fefb71dcb6b&wsBindIP=2&wsserid=1168202333420231774
+
+#EXTINF:-1 tvg-id="Morocco vs Norway.Zjs5U9Gy3T" tvg-name="Morocco vs Norway.Zjs5U9Gy3T" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Morocco vs Norway.Zjs5U9Gy3T
+https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=fc7f7f80e4c84ef4492e2a33-178086267775846&wsIPSercert=9a640431c28639d2e9690fefb71dcb6b&wsBindIP=2&wsserid=1168202333418134578
+
+#EXTINF:-1 tvg-id="Greece vs Italy.Am93Llkp3G" tvg-name="Greece vs Italy.Am93Llkp3G" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Greece vs Italy.Am93Llkp3G
+https://tfwj1gr4uqmtt8y41hcjwgwzdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6f21922f88610e305b2897ce-178086268849248&wsIPSercert=9a640431c28639d2e9690fefb71dcb6b&wsBindIP=2&wsserid=1168176581104105640
+
+#EXTINF:-1 tvg-id="Ecuador vs Guatemala.Pddzip Rmc" tvg-name="Ecuador vs Guatemala.Pddzip Rmc" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Ecuador vs Guatemala.Pddzip Rmc
+https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178086269981916&wsIPSercert=9a640431c28639d2e9690fefb71dcb6b&wsBindIP=2&wsserid=1168202392933970899
