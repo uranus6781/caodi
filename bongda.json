@@ -1,114 +1,24 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "15:54 07/06/2026",
+  "last_updated": "22:24 07/06/2026",
   "buncha": [],
   "hoiquan": [
     {
-      "title": "Oita Trinita vs Montedio Yamagata.Btrrquelp_",
+      "title": "Shakhter Soligorsk vs Slonim.Yuzknehbcq",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/99.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/j2j3-league.a30Kxru1vI/oita-trinita-vs-montedio-yamagata.btRrQuElP_/8095",
-      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+      "logo_nha": "https://media.api-sports.io/football/leagues/388.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/1-division.a2TuA0DFX-/shakhter-soligorsk-vs-slonim.yUzknehBCQ/8167",
+      "stream_url": "https://tfwj0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178084524480215&wsIPSercert=f432c2d183051a4547eae4031cc053dc&wsBindIP=2&wsserid=1168202392933970899"
     },
     {
-      "title": "Binh Duong vs Hoang Anh Gia Lai._Coa_8Olmn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/binh-duong-vs-hoang-anh-gia-lai._CoA_8OlMN/8084",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Da Nang vs Thanh Hoa.Sdpjfy1Mst",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/da-nang-vs-thanh-hoa.sDPjFY1MSt/8085",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Ha Noi vs Ho Chi Minh.Wo9Ddl5Oot",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/ha-noi-vs-ho-chi-minh.wO9Ddl5oot/8086",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Phu Dong vs Hong Linh Ha Tinh.0Lesmthlyn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/phu-dong-vs-hong-linh-ha-tinh.0LesMTHLYn/8088",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Song Lam Nghe An vs Pho Hien.Trxql8Q8Co",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/song-lam-nghe-an-vs-pho-hien.trXqL8Q8cO/8089",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Viettel vs Cong An Nhan Dan.U7Zctrgqly",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/viettel-vs-cong-an-nhan-dan.u7ZCtrGqLy/8090",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Indonesia U19 vs Vietnam U19.Wley1Vdbgr",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-vietnam-u19.WLEY1vDBgr/8091",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Indonesia U19 vs Vietnam U19.A0Ttkbpscc",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-vietnam-u19.A0TTkbpSCc/8092",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Indonesia U19 vs Vietnam U19.Ty4Yf0Xeyw",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-vietnam-u19.TY4yf0XEYw/8093",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Denmark vs Ukraine.Nn8Utqbfnq",
+      "title": "Denmark vs Ukraine.Dbzukxue9X",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/denmark-vs-ukraine.nn8UtQbfNQ/8127",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Belgium U17 vs Italy U17.V8Ay2Qf49G",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/921.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/uefa-u17-championship.Hzbo1Jcvaz/belgium-u17-vs-italy-u17.v8Ay2QF49G/8138",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/denmark-vs-ukraine.DbzUkXue9X/8127",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
