@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "07:24 09/06/2026",
+  "last_updated": "12:01 09/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Atletico Nacional vs Junior.0E1Epu9Wvo",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/239.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primera-a.laR5rLh_KC/atletico-nacional-vs-junior.0e1EpU9wvo/8162",
-      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-    },
-    {
-      "title": "Peru vs Spain.Dbere0Gpkn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/peru-vs-spain.DbErE0GpkN/8155",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Timor Leste vs Brunei.Oko3Az Vto",
       "trang_thai": "Chờ",
