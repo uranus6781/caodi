@@ -1,6 +1,6 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "12:01 09/06/2026",
+  "last_updated": "15:47 09/06/2026",
   "buncha": [],
   "hoiquan": [
     {
@@ -76,15 +76,6 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Congo Dr vs Chile.Lc5Nypupgh",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/congo-dr-vs-chile.lC5NyPUpGH/8160",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
       "title": "Serbia U19 vs Portugal U19.0Uhfh8Cse0",
       "trang_thai": "Chờ",
       "is_live": true,
@@ -103,6 +94,15 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
+      "title": "Congo Dr vs Chile.0N8H7Kiw46",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/congo-dr-vs-chile.0N8h7Kiw46/8160",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
       "title": "Belarus vs Burkina Faso.E3P1Azi4R1",
       "trang_thai": "Chờ",
       "is_live": true,
@@ -112,12 +112,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Hungary W vs Andorra W.Usvqukal4D",
+      "title": "Hungary W vs Kazakhstan W.Bdfh_Pfbxg",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/880.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup-women-qualification-europe.DUYTfcGRKD/hungary-w-vs-andorra-w.USVquKAL4D/8183",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup-women-qualification-europe.DUYTfcGRKD/hungary-w-vs-kazakhstan-w.bdFh_pFBXG/8183",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -127,6 +127,15 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/azerbaijan-vs-san-marino.y3Epiy3a7K/8184",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Togo vs Benin.9Yxmpddbgt",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/togo-vs-benin.9yXmPddbGT/8218",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
