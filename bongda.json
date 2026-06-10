@@ -1,15 +1,24 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "15:15 10/06/2026",
+  "last_updated": "19:00 10/06/2026",
   "buncha": [],
   "hoiquan": [
     {
-      "title": "Cape Town City vs Magesi.4Si7Lwiavl",
+      "title": "Buxdu vs Qiziriq.8C4Xysss4Z",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/288.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-soccer-league.s2dYTsIm0d/cape-town-city-vs-magesi.4SI7LwiAvL/8191",
+      "logo_nha": "https://media.api-sports.io/football/leagues/1075.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league-a.dsjXbnH7BM/buxdu-vs-qiziriq.8c4XYsss4Z/8252",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Shortan vs Gazalkent.Byiwwjdnui",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/1075.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/pro-league-a.dsjXbnH7BM/shortan-vs-gazalkent.ByiwWJdNUi/8251",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
