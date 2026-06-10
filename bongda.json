@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "04:49 11/06/2026",
+  "last_updated": "06:31 11/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Portugal vs Nigeria.Nsqumis6Tj",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/portugal-vs-nigeria.nSquMis6tJ/8196",
-      "stream_url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178112677279748&wsIPSercert=e0fefc5ceb8ad54e3a9486db3f9ecc5f&wsBindIP=2&wsserid=1168041062946239395"
-    },
-    {
-      "title": "England vs Costa Rica.Cknrkpbgid",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/england-vs-costa-rica.CKNrkpbGId/8197",
-      "stream_url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178112678382094&wsIPSercert=e0fefc5ceb8ad54e3a9486db3f9ecc5f&wsBindIP=2&wsserid=1168214263213094505"
-    },
     {
       "title": "Goias vs Novorizontino.Lmxscyiy1Y",
       "trang_thai": "Chờ",
@@ -28,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-b-1764992214413/goias-vs-novorizontino.lmXsCyIy1y/8202",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwm0gr4uqmtt8y41hcjsgyzdnpb3fiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c47e4b40ea4ec14dbe4db1c4-178113294505587&wsIPSercert=b8e45603f3fa2018b69a78f7f1003714&wsBindIP=2&wsserid=1168283476093891044"
     },
     {
       "title": "Phoenix Rising vs Louisville City.P3B2Ryz4J8",
