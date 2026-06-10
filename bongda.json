@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "01:50 11/06/2026",
+  "last_updated": "04:49 11/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Colombia U19 vs Tunisia U23.M7Di65U_Cu",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/914.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/tournoi-maurice-revello.5LuhD5m1Ly/colombia-u19-vs-tunisia-u23.m7dI65u_cu/8275",
-      "stream_url": "https://tfwm0gr4uqmtt8y41hcjw8yzdnpjufiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0f4c65b6037e6c692734a8f1-178111628987534&wsIPSercert=1c4524547cd388786ef5900fe8586994&wsBindIP=2&wsserid=1168202392933970899"
-    },
-    {
-      "title": "Malaga vs Las Palmas.Umjm2Juwvd",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/141.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/segunda-division.wC0XpO0aQC/malaga-vs-las-palmas.umJM2JuwvD/8201",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Portugal vs Nigeria.Nsqumis6Tj",
       "trang_thai": "Chờ",
@@ -28,25 +10,16 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/portugal-vs-nigeria.nSquMis6tJ/8196",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=1727692f2fcfce8af9ab5981-178112677279748&wsIPSercert=e0fefc5ceb8ad54e3a9486db3f9ecc5f&wsBindIP=2&wsserid=1168041062946239395"
     },
     {
-      "title": "England vs Costa Rica.R1Y2Xmu7I6",
+      "title": "England vs Costa Rica.Cknrkpbgid",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/england-vs-costa-rica.R1Y2XMU7i6/8197",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Bolivia vs Algeria.Rcjielcfrw",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/10.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/bolivia-vs-algeria.RCJieLCFrw/8198",
-      "stream_url": "https://example.com/waiting.mp4"
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/friendlies.bxYVZoqLdu/england-vs-costa-rica.CKNrkpbGId/8197",
+      "stream_url": "https://tfwm1gr4uqmtt8y41hcjz8rzdeqjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=775c4fb7a60d7fa03f035c22-178112678382094&wsIPSercert=e0fefc5ceb8ad54e3a9486db3f9ecc5f&wsBindIP=2&wsserid=1168214263213094505"
     },
     {
       "title": "Goias vs Novorizontino.Lmxscyiy1Y",
@@ -118,6 +91,15 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/245.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ykkonen.FLElzlW3xq/tampere-united-vs-ols.RhDaPwalyR/8206",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Tampere United vs Ols.6A6Oj Xmnh",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/245.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ykkonen.FLElzlW3xq/tampere-united-vs-ols.6A6Oj-XmNH/8297",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -211,12 +193,21 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Manly Utd U20 vs Sydney Utd U20.Tgpj2Akjco",
+      "title": "Suwon Fmc W vs Gumi Sportstoto W.Qk5Jlh9Mkf",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/1230.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/npl-nsw-u20.rvZRyUG9r2/manly-utd-u20-vs-sydney-utd-u20.TGPj2akjCo/8291",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/wk-league-1758632328728/suwon-fmc-w-vs-gumi-sportstoto-w.Qk5JLH9MKf/8292",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Eastern United vs Adelaide Olympic.I 22Aqjgu9",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/834.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/south-australia-state-league-1.NK7StO_4jR/eastern-united-vs-adelaide-olympic.I-22AqjGU9/8293",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -226,6 +217,33 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/340.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vleague-1.U9-8pk5qCM/pvf-cand-vs-bac-ninh.ii1441pT41/8265",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Ekibastuz vs Arys.Lfq1Nzkz_I",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/388.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/1-division.a2TuA0DFX-/ekibastuz-vs-arys.Lfq1NzKz_i/8294",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Fc Isloch Minsk R vs Naftan.2Oqazeb_5A",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/fc-isloch-minsk-r-vs-naftan.2OQaZEB_5a/8295",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Belshina vs Bate Borisov.X4Awtrjrxs",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdqg-belarus.0SwaDQ7tae/belshina-vs-bate-borisov.X4AwtRjRxs/8298",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -265,6 +283,24 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
+      "title": "Atletico Goianiense vs Crb.Avppiyagrm",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-b-1764992214413/atletico-goianiense-vs-crb.AVPpiyAgrm/8299",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "A Italiano vs D La Serena.Iirgqndxmu",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/162.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/primera-division.ih66t2ujqu/a-italiano-vs-d-la-serena.IirgQNDxmu/8300",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
       "title": "Usa vs Paraguay.Ccby6Khemf",
       "trang_thai": "Chờ",
       "is_live": true,
@@ -298,6 +334,87 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/1.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/usa-vs-paraguay.h_5iHwQGVt/8273",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Changchun Yatai vs Dalian Huayi.Rzgnuocpuz",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/changchun-yatai-vs-dalian-huayi.RZgNuOCPuZ/8301",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Laagri vs Kuressaare.Nj3C4Hef_S",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/329.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/meistriliiga.kdPnZD09Ys/laagri-vs-kuressaare.Nj3c4hef_S/8302",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Nanjing City vs Ningbo Professional.Fa2Czjhv8J",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/nanjing-city-vs-ningbo-professional.fa2cZJhV8j/8303",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Hebei Kungfu vs Suzhou Dongwu.Aclkqekhfu",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/hebei-kungfu-vs-suzhou-dongwu.aclkqEKHfU/8304",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Inter Turku vs Ac Oulu.Z0Vzyayene",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/inter-turku-vs-ac-oulu.z0vZyayeNe/8305",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Ilves vs Turku Ps.Htzudywmrx",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/ilves-vs-turku-ps.HtZuDYwmrx/8309",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Vps vs Kups.7_Nvebutwu",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/vps-vs-kups.7_nvEButWu/8306",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Lahti vs Sjk.Xoeh0Yruuc",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/lahti-vs-sjk.xoEh0Yruuc/8307",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Dinamo Minsk vs Fc Gomel.M8Jkmntiy3",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdqg-belarus.0SwaDQ7tae/dinamo-minsk-vs-fc-gomel.m8jkMntiy3/8308",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
