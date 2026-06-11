@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "23:26 11/06/2026",
+  "last_updated": "02:41 12/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Indonesia U19 vs Uc U19.Eh9Kpyimsv",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/indonesia-u19-vs-uc-u19.eH9kPyiMSV/8289",
-      "stream_url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-    },
-    {
-      "title": "Tampere United vs Ols.Rhdapwalyr",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/245.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ykkonen.FLElzlW3xq/tampere-united-vs-ols.RhDaPwalyR/8206",
-      "stream_url": "https://tfwn1gr4uqmtt8y41hcjz8rzd1pbpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178119372186921&wsIPSercert=f0f2affa966bf5802f7907bcf2cd9257&wsBindIP=2&wsserid=1168176346313714739"
-    },
-    {
-      "title": "Elva vs Maardu.Qqhbxj1W0",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/328.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/esiliiga-a.8JL_ZTYnYu/elva-vs-maardu.qQHbxj1w0-/8207",
-      "stream_url": "https://tfwn1gr4uqmtt8y41hcjz8rzd1pbppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9491eed0fee4da244cb519bb-178119373261257&wsIPSercert=f0f2affa966bf5802f7907bcf2cd9257&wsBindIP=2&wsserid=1168176346313714739"
-    },
-    {
-      "title": "Vastra Frolunda vs Onsala.4Ejjaud5Pw",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/115.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/svenska-cupen.nQz8Gj4NZb/vastra-frolunda-vs-onsala.4eJJaUD5PW/8290",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Mexico vs South Africa.Big6Qp Gq5",
       "trang_thai": "Chờ",
@@ -46,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/mexico-vs-south-africa.biG6QP-gQ5/8257",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178120554946814&wsIPSercert=640d29367f2f9edd8f1da5af73a14f4d&wsBindIP=2&wsserid=1168239733746099117"
     },
     {
       "title": "Mexico vs South Africa.Msuri1Q2Vd",
@@ -55,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/mexico-vs-south-africa.mSUri1Q2vd/8258",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178120556033121&wsIPSercert=640d29367f2f9edd8f1da5af73a14f4d&wsBindIP=2&wsserid=1168239733746099117"
     },
     {
       "title": "Mexico vs South Africa.Nr0Ojdnseh",
@@ -64,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/mexico-vs-south-africa.nr0OJdnseH/8259",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178120557151618&wsIPSercert=640d29367f2f9edd8f1da5af73a14f4d&wsBindIP=2&wsserid=1168239733746099117"
     },
     {
       "title": "Mexico vs South Africa.1Qchhoqvhf",
@@ -73,7 +37,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/mexico-vs-south-africa.1QcHHOQVHF/8260",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwn3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b93726b0c644658cca80b5c8-178120558221592&wsIPSercert=640d29367f2f9edd8f1da5af73a14f4d&wsBindIP=2&wsserid=1168239733746099117"
     },
     {
       "title": "South Korea vs Czech Republic.Rra1O2Npyf",
