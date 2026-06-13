@@ -1,17 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "15:58 13/06/2026",
+  "last_updated": "18:35 13/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Changchun Yatai vs Dalian Huayi.Qldb Fyhlk",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/changchun-yatai-vs-dalian-huayi.QLDB-FYHlk/8301",
-      "stream_url": "https://tfwp1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=706d286fa60d1f2a8282d305-178133984400912&wsIPSercert=ee585879ca57708235baf88143cecaf4&wsBindIP=2&wsserid=1168243256667264290"
-    },
     {
       "title": "Cambodia U19 vs Indonesia U19.R0Mv1Ttcik",
       "trang_thai": "Chờ",
@@ -19,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/928.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/asean-championship-u19.44yU9o2WjY/cambodia-u19-vs-indonesia-u19.R0mV1ttcIK/8394",
-      "stream_url": "https://tfwp1gr3uomttgr31hcj18yzd1ctppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e1bc56e4c0373602be514b65-178133985494225&wsIPSercert=ee585879ca57708235baf88143cecaf4&wsBindIP=2&wsserid=1168243344279114758"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
     },
     {
       "title": "Laagri vs Kuressaare.Nj3C4Hef_S",
@@ -28,7 +19,16 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/329.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/meistriliiga.kdPnZD09Ys/laagri-vs-kuressaare.Nj3c4hef_S/8302",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178134930911474&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243343857585137"
+    },
+    {
+      "title": "Harju Jalgpallikool vs Fc Kuressaare.Fpylq5Q10X",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_Estonia_FA.svg/2048px-Logo_Estonia_FA.svg.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdjqg-estonia-1760931227357/harju-jalgpallikool-vs-fc-kuressaare.Fpylq5Q10x/8429",
+      "stream_url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134931971677&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243256629514822"
     },
     {
       "title": "Nanjing City vs Ningbo Professional.4Pwzzuzwjk",
@@ -37,7 +37,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/nanjing-city-vs-ningbo-professional.4PWzzuzWJk/8303",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134933087913&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243256629514822"
     },
     {
       "title": "Hebei Kungfu vs Suzhou Dongwu.Aclkqekhfu",
@@ -46,7 +46,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/hebei-kungfu-vs-suzhou-dongwu.aclkqEKHfU/8304",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178134934155804&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243343857585137"
     },
     {
       "title": "Inter Turku vs Ac Oulu.Khi6Xbgd4Y",
