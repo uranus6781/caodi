@@ -1,17 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "01:33 14/06/2026",
+  "last_updated": "03:25 14/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Dinamo Brest vs Neman.Hjggzstz4F",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdqg-belarus.0SwaDQ7tae/dinamo-brest-vs-neman.hJgGZSTz4f/8338",
-      "stream_url": "https://tfwp3gr4nhct1gwzdepjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=4d0dc05b56b8dacf0f2a5310-178137413705168&wsIPSercert=61fb87612d621e85b57459b8f0cb7dab&wsBindIP=2&wsserid=1172648044479413382"
-    },
     {
       "title": "Qatar vs Switzerland.Wmsrtlvwra",
       "trang_thai": "Chờ",
@@ -19,16 +10,16 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/qatar-vs-switzerland.wMsrTLvWrA/8276",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dd67e4e1ba2ab3dcd1e556bd-178138091795753&wsIPSercert=9a5728af4392709f2e4ade64f7df61cd&wsBindIP=2&wsserid=1168239097241285722"
     },
     {
-      "title": "Qatar vs Switzerland.Nlshzblrjb",
+      "title": "Qatar vs Switzerland.Myzig1Uulh",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/qatar-vs-switzerland.nlshZBLRjB/8277",
-      "stream_url": "https://example.com/waiting.mp4"
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/qatar-vs-switzerland.MYzIg1uULH/8277",
+      "stream_url": "https://tfwp3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=dd67e4e1ba2ab3dcd1e556bd-178138092903063&wsIPSercert=9a5728af4392709f2e4ade64f7df61cd&wsBindIP=2&wsserid=1168239097241285722"
     },
     {
       "title": "Colo Colo vs Cobresal.Mva6Cjgfhs",
