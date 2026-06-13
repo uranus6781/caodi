@@ -1,17 +1,14 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 18:35 13/06/2026
-
-#EXTINF:-1 tvg-id="Cambodia U19 vs Indonesia U19.R0Mv1Ttcik" tvg-name="Cambodia U19 vs Indonesia U19.R0Mv1Ttcik" tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Cambodia U19 vs Indonesia U19.R0Mv1Ttcik
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laagri vs Kuressaare.Nj3C4Hef_S" tvg-name="Laagri vs Kuressaare.Nj3C4Hef_S" tvg-logo="https://media.api-sports.io/football/leagues/329.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Laagri vs Kuressaare.Nj3C4Hef_S
-https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178134930911474&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243343857585137
-
-#EXTINF:-1 tvg-id="Harju Jalgpallikool vs Fc Kuressaare.Fpylq5Q10X" tvg-name="Harju Jalgpallikool vs Fc Kuressaare.Fpylq5Q10X" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_Estonia_FA.svg/2048px-Logo_Estonia_FA.svg.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Harju Jalgpallikool vs Fc Kuressaare.Fpylq5Q10X
-https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134931971677&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243256629514822
+#PLAYLISTNAME: ⚽ Xem ngay - 20:24 13/06/2026
 
 #EXTINF:-1 tvg-id="Nanjing City vs Ningbo Professional.4Pwzzuzwjk" tvg-name="Nanjing City vs Ningbo Professional.4Pwzzuzwjk" tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Nanjing City vs Ningbo Professional.4Pwzzuzwjk
-https://tfwp1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178134933087913&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243256629514822
+https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178135594912396&wsIPSercert=664d6f57db4e84f602f87fa7cbab2b2a&wsBindIP=2&wsserid=1168231785641135723
 
-#EXTINF:-1 tvg-id="Hebei Kungfu vs Suzhou Dongwu.Aclkqekhfu" tvg-name="Hebei Kungfu vs Suzhou Dongwu.Aclkqekhfu" tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Hebei Kungfu vs Suzhou Dongwu.Aclkqekhfu
-https://tfwp1gr3uomttgr31hcj18yzd1ctpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0de74705abe5721b1a19c464-178134934155804&wsIPSercert=ebd090b520048022060cbb77b6a77b5f&wsBindIP=2&wsserid=1168243343857585137
+#EXTINF:-1 tvg-id="Inter Turku vs Ac Oulu.Khi6Xbgd4Y" tvg-name="Inter Turku vs Ac Oulu.Khi6Xbgd4Y" tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Inter Turku vs Ac Oulu.Khi6Xbgd4Y
+https://tfwp0gr4uqmtt8y41hcjsgyzdnctufi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178135596037948&wsIPSercert=664d6f57db4e84f602f87fa7cbab2b2a&wsBindIP=2&wsserid=1168283323406534424
+
+#EXTINF:-1 tvg-id="Ilves vs Turku Ps.Htzudywmrx" tvg-name="Ilves vs Turku Ps.Htzudywmrx" tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Ilves vs Turku Ps.Htzudywmrx
+https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=3dc064f35dd46f517ce7be5d-178135597089504&wsIPSercert=664d6f57db4e84f602f87fa7cbab2b2a&wsBindIP=2&wsserid=1168231785641135723
+
+#EXTINF:-1 tvg-id="Thailand U19 vs Australia U19.Czqqc7Nall" tvg-name="Thailand U19 vs Australia U19.Czqqc7Nall" tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Thailand U19 vs Australia U19.Czqqc7Nall
+https://tfwp0gr4uqmtt8y41hcjsgyzdnpjzfiw8n5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6a4094de2f01003befc3243a-178135598213317&wsIPSercert=664d6f57db4e84f602f87fa7cbab2b2a&wsBindIP=2&wsserid=1168231589578109987
