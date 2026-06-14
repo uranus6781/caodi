@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "13:59 14/06/2026",
+  "last_updated": "17:49 14/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Rockdale City Suns vs Sd Raiders.Bzcnllntcx",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/192.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/new-south-wales-npl.0JL1AbBGD9/rockdale-city-suns-vs-sd-raiders.BZCnllnTCx/8342",
-      "stream_url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3a8294388c4b3c7c46191384-178141928207223&wsIPSercert=e673e48905d0b45a2d9e9344945b889b&wsBindIP=2&wsserid=1168271908997640246"
-    },
-    {
-      "title": "Qingdao Red Lions vs Shanghai Port Ii.Fizbxeap61",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/929.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-two.m_lqjXl397/qingdao-red-lions-vs-shanghai-port-ii.fiZbxeaP61/8343",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Changchun Dazhong Nu vs Shaanxi Changan Nu.U 3_1Zoh2G",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/super-league-nu.PCuowx_c6F/changchun-dazhong-nu-vs-shaanxi-changan-nu.U-3_1zOh2G/8350",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Wuxi Wugou vs Meizhou Kejia._4Cmg9Yw0Y",
       "trang_thai": "Chờ",
@@ -40,39 +13,30 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Wuxi Wugou vs Meizhou Kejia.Pmhecmhlts",
+      "title": "Wuxi Wugou vs Meizhou Kejia.9Qyj2Uf6Jh",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/wuxi-wugou-vs-meizhou-kejia.PmhecmhLTs/8436",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/wuxi-wugou-vs-meizhou-kejia.9Qyj2uf6jH/8436",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Ulytau vs Zhenys.T Kkucku8V",
+      "title": "Ulytau vs Zhenys.4Y7Txrxlb9",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/2hXnsCK.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/ulytau-vs-zhenys.t-KkucKu8v/8345",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/ulytau-vs-zhenys.4y7TXRxlb9/8345",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Ulytau vs Zhenys.Oo0Hnbcaas",
+      "title": "Ljungskile Sk vs Ostersunds Fk.Ri9Ibkdv6L",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/ulytau-vs-zhenys.oO0HNbCaAs/8437",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Cotonsport vs Canon.Eih6Fzx C3",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/411.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/elite-one.YSYPUL7mtA/cotonsport-vs-canon.eiH6FzX-C3/8346",
+      "logo_nha": "https://media.api-sports.io/football/leagues/114.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/superettan.c0HHOyLNKm/ljungskile-sk-vs-ostersunds-fk.rI9ibKdV6l/8464",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
@@ -379,6 +343,150 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/329.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/meistriliiga.kdPnZD09Ys/kuressaare-vs-trans-narva.ev7auqJ84h/8457",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "France vs Senegal.Woij42M_7P",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/france-vs-senegal.wOiJ42M_7p/8465",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "France vs Senegal.Zmyfjaiifp",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/france-vs-senegal.zmyFjaiifp/8466",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "France vs Senegal.Jllfp3Pckn",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/france-vs-senegal.jllfP3PcKn/8467",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Iraq vs Norway.Kqrkcqhsdk",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/iraq-vs-norway.KQrKCQHsdK/8468",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Iraq vs Norway.Sqbktob5Vh",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/iraq-vs-norway.Sqbktob5vh/8469",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Iraq vs Norway.Jfxav 3Zp",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/iraq-vs-norway.jfxAv-3Zp-/8470",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Fortaleza Ec vs America Mineiro.Osoafnyqha",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-b-1764992214413/fortaleza-ec-vs-america-mineiro.OsOafnYqha/8476",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Argentina vs Algeria.Bdncew Lcr",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/argentina-vs-algeria.bDNCEw-LCR/8471",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Argentina vs Algeria.Srnokfc_J6",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/argentina-vs-algeria.SrNOKfC_j6/8472",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Argentina vs Algeria.Aelfpkibnp",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/argentina-vs-algeria.AeLFPKIBNp/8473",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Austria vs Jordan.R9Amtkzlm8",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/austria-vs-jordan.r9AmTkzlM8/8474",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Austria vs Jordan.Crqikvtv2S",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/austria-vs-jordan.crqIKVTV2S/8475",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Changnyeong W vs Suwon Fmc W.Fxgj0My5Hc",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/wk-league-1758632328728/changnyeong-w-vs-suwon-fmc-w.fXgJ0mY5hC/8477",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Kairat Almaty vs Kyzyl Zhar.Mzxtej32Qg",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/kairat-almaty-vs-kyzyl-zhar.MzxtEj32QG/8478",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Turku Ps vs Kups.15C24X6Zks",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/244.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/veikkausliiga.4soMFWiLAB/turku-ps-vs-kups.15C24x6ZkS/8479",
+      "stream_url": "https://example.com/waiting.mp4"
+    },
+    {
+      "title": "Riga vs Rigas Fs.Vlocyehh71",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://media.api-sports.io/football/leagues/365.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/virsliga.GX7mvPG-JD/riga-vs-rigas-fs.VLocyEHh71/8480",
       "stream_url": "https://example.com/waiting.mp4"
     }
   ]
