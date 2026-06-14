@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "19:46 14/06/2026",
+  "last_updated": "22:03 14/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Wuxi Wugou vs Meizhou Kejia.9Qyj2Uf6Jh",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/wuxi-wugou-vs-meizhou-kejia.9Qyj2uf6jH/8436",
-      "stream_url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178143981915604&wsIPSercert=2de72c33510c89e0e960f513319e6e25&wsBindIP=2&wsserid=1168243256629514822"
-    },
-    {
-      "title": "Phu Dong vs Ho Chi Minh.Rck5S_Rrv3",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://static.bongda24h.vn/medias/standard/2025/09/09/logo-moi-cua-giai-dau-cup-quoc-gia-20252026-0909133035.jpg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/cup-quoc-gia-viet-nam-1758632768076/phu-dong-vs-ho-chi-minh.rCK5s_rrv3/8481",
-      "stream_url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178143983024336&wsIPSercert=2de72c33510c89e0e960f513319e6e25&wsBindIP=2&wsserid=1168243256623223254"
-    },
-    {
-      "title": "Ulytau vs Zhenys.4Y7Txrxlb9",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.imgur.com/2hXnsCK.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/ulytau-vs-zhenys.4y7TXRxlb9/8345",
-      "stream_url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=1dcbe5f7cb158398529deaa3-178143984105263&wsIPSercert=2de72c33510c89e0e960f513319e6e25&wsBindIP=2&wsserid=1168243256626369038"
-    },
     {
       "title": "Ljungskile Sk vs Ostersunds Fk.Ri9Ibkdv6L",
       "trang_thai": "Chờ",
@@ -37,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/114.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/superettan.c0HHOyLNKm/ljungskile-sk-vs-ostersunds-fk.rI9ibKdV6l/8464",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178144810108295&wsIPSercert=3deecce3c804004af36a9c7468998690&wsBindIP=2&wsserid=1168231589572867007"
     },
     {
       "title": "Sao Bernardo vs Sport Recife.Fdqxyevh1A",
@@ -46,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-b-1764992214413/sao-bernardo-vs-sport-recife.fdQxyevH1A/8347",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178144811219045&wsIPSercert=3deecce3c804004af36a9c7468998690&wsBindIP=2&wsserid=1168283323406534424"
     },
     {
       "title": "Fc Dnepr Mogilev vs Arsenal.Ygc7G1Dx4N",
@@ -55,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdqg-belarus.0SwaDQ7tae/fc-dnepr-mogilev-vs-arsenal.ygC7G1DX4n/8348",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
     },
     {
       "title": "Ayacucho Fc vs Club Deportivo Los Chankas.6N1Mgrt P7",
