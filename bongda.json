@@ -1,17 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "17:49 14/06/2026",
+  "last_updated": "19:46 14/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Wuxi Wugou vs Meizhou Kejia._4Cmg9Yw0Y",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/wuxi-wugou-vs-meizhou-kejia._4CMG9yw0Y/8344",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Wuxi Wugou vs Meizhou Kejia.9Qyj2Uf6Jh",
       "trang_thai": "Chờ",
@@ -19,7 +10,16 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://media.api-sports.io/football/leagues/41.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/league-one.VcjmSnJ8pc/wuxi-wugou-vs-meizhou-kejia.9Qyj2uf6jH/8436",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e851a2b515b39bfc1b7fa041-178143981915604&wsIPSercert=2de72c33510c89e0e960f513319e6e25&wsBindIP=2&wsserid=1168243256629514822"
+    },
+    {
+      "title": "Phu Dong vs Ho Chi Minh.Rck5S_Rrv3",
+      "trang_thai": "Chờ",
+      "is_live": true,
+      "thoi_gian": "Unknown",
+      "logo_nha": "https://static.bongda24h.vn/medias/standard/2025/09/09/logo-moi-cua-giai-dau-cup-quoc-gia-20252026-0909133035.jpg",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/cup-quoc-gia-viet-nam-1758632768076/phu-dong-vs-ho-chi-minh.rCK5s_rrv3/8481",
+      "stream_url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=de40530e31dc965cd08ee763-178143983024336&wsIPSercert=2de72c33510c89e0e960f513319e6e25&wsBindIP=2&wsserid=1168243256623223254"
     },
     {
       "title": "Ulytau vs Zhenys.4Y7Txrxlb9",
@@ -28,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.imgur.com/2hXnsCK.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/ulytau-vs-zhenys.4y7TXRxlb9/8345",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwq1gr3uomttgr31hcj18yzd1c3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=1dcbe5f7cb158398529deaa3-178143984105263&wsIPSercert=2de72c33510c89e0e960f513319e6e25&wsBindIP=2&wsserid=1168243256626369038"
     },
     {
       "title": "Ljungskile Sk vs Ostersunds Fk.Ri9Ibkdv6L",
@@ -463,12 +463,12 @@
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
-      "title": "Kairat Almaty vs Kyzyl Zhar.Mzxtej32Qg",
+      "title": "Kairat Almaty vs Kyzyl Zhar.Qebm8A1Dea",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/premier-league-1758631271470/kairat-almaty-vs-kyzyl-zhar.MzxtEj32QG/8478",
+      "logo_nha": "https://i.imgur.com/2hXnsCK.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ngoai-hang-kazakhstan-1758631141301/kairat-almaty-vs-kyzyl-zhar.qEbm8a1dea/8478",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
