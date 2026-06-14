@@ -1,26 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "22:03 14/06/2026",
+  "last_updated": "23:43 14/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Ljungskile Sk vs Ostersunds Fk.Ri9Ibkdv6L",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/114.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/superettan.c0HHOyLNKm/ljungskile-sk-vs-ostersunds-fk.rI9ibKdV6l/8464",
-      "stream_url": "https://tfwq0gr4uqmtt8y41hcjsgyzdnpjzfi4ge5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=194b604fa3062ebdae2e3ad2-178144810108295&wsIPSercert=3deecce3c804004af36a9c7468998690&wsBindIP=2&wsserid=1168231589572867007"
-    },
-    {
-      "title": "Sao Bernardo vs Sport Recife.Fdqxyevh1A",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/serie-b-1764992214413/sao-bernardo-vs-sport-recife.fdQxyevH1A/8347",
-      "stream_url": "https://tfwq1gr4uqmtt8y41hcjsgyzdkcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=2e186216b608eafcfff113e0-178144811219045&wsIPSercert=3deecce3c804004af36a9c7468998690&wsBindIP=2&wsserid=1168283323406534424"
-    },
     {
       "title": "Fc Dnepr Mogilev vs Arsenal.Ygc7G1Dx4N",
       "trang_thai": "Chờ",
@@ -28,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdqg-belarus.0SwaDQ7tae/fc-dnepr-mogilev-vs-arsenal.ygC7G1DX4n/8348",
-      "stream_url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+      "stream_url": "https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c0f35dab7150efa780436009-178145414997649&wsIPSercert=6b1e04708f9fcb5f6a6d23ae195e6a45&wsBindIP=2&wsserid=1168271909007077544"
     },
     {
       "title": "Ayacucho Fc vs Club Deportivo Los Chankas.6N1Mgrt P7",
@@ -37,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Logo-fdnciclismochile-960x960-1.png/250px-Logo-fdnciclismochile-960x960-1.png",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/vdqg-chile.TUv6YhFCjL/ayacucho-fc-vs-club-deportivo-los-chankas.6N1Mgrt-p7/8349",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwq3gr4nhct1gwzdepjqgr5uommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=221e31d450141dc605e1fa47-178145416134083&wsIPSercert=6b1e04708f9fcb5f6a6d23ae195e6a45&wsBindIP=2&wsserid=1168271908994494404"
     },
     {
       "title": "Germany vs Curacao.Chw8Tmbdqj",
@@ -64,7 +46,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/germany-vs-curacao.FJOslHoLK6/8397",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=15f0f7fcfccc1275c09424cd-178145422534787&wsIPSercert=6b1e04708f9fcb5f6a6d23ae195e6a45&wsBindIP=2&wsserid=1168272001227032450"
     },
     {
       "title": "Netherlands vs Japan. Wusjay1B2",
