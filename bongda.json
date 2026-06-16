@@ -1,33 +1,15 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "15:44 16/06/2026",
+  "last_updated": "20:29 16/06/2026",
   "buncha": [],
   "hoiquan": [
     {
-      "title": "Gold Coast Knights vs Lions.U7W5K02H3F",
+      "title": "Bfc Daugavpils vs Super Nova.Oaybvigpgf",
       "trang_thai": "Chờ",
       "is_live": true,
       "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/482.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/queensland-npl.R5pFadK0zF/gold-coast-knights-vs-lions.U7w5K02h3F/8453",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Rochedale Rovers vs Moreton City Excelsior.Au4M6_Vok8",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/482.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/queensland-npl.R5pFadK0zF/rochedale-rovers-vs-moreton-city-excelsior.au4m6_VOk8/8454",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "Namungo vs Tabora United.N5Tna205O2",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/567.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/ligi-kuu-bara.D4YC5WHZSh/namungo-vs-tabora-united.N5tna205o2/8455",
+      "logo_nha": "https://media.api-sports.io/football/leagues/365.png",
+      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/virsliga.GX7mvPG-JD/bfc-daugavpils-vs-super-nova.oayBVigPGf/8533",
       "stream_url": "https://example.com/waiting.mp4"
     },
     {
