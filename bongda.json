@@ -1,44 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "01:34 17/06/2026",
+  "last_updated": "04:43 17/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "Ifk Varnamo vs Helsingborg. Zx1Oaiop7",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://media.api-sports.io/football/leagues/114.png",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/superettan.c0HHOyLNKm/ifk-varnamo-vs-helsingborg.-ZX1oaIOp7/8547",
-      "stream_url": "https://tfws3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178163377521476&wsIPSercert=b989f22e0ea7b74cd57b0822edd1828e&wsBindIP=2&wsserid=1168178972991608093"
-    },
-    {
-      "title": "France vs Senegal.Woij42M_7P",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/france-vs-senegal.wOiJ42M_7p/8465",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "France vs Senegal.Zmyfjaiifp",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/france-vs-senegal.zmyFjaiifp/8466",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
-    {
-      "title": "France vs Senegal.Jllfp3Pckn",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/france-vs-senegal.jllfP3PcKn/8467",
-      "stream_url": "https://example.com/waiting.mp4"
-    },
     {
       "title": "Iraq vs Norway.Kqrkcqhsdk",
       "trang_thai": "Chờ",
@@ -46,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/iraq-vs-norway.KQrKCQHsdK/8468",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfws3go3nhcjtgczdncjqgeaurmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178164522291676&wsIPSercert=529ddc483d9f5a3e65dd4e4f02e17b41&wsBindIP=2&wsserid=1168159941869888441"
     },
     {
       "title": "Iraq vs Norway.Sqbktob5Vh",
@@ -64,7 +28,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/iraq-vs-norway.jfxAv-3Zp-/8470",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfws3go3nhcjtgczdncjqgeaurmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=686f873655f37c0f494fc32b-178164526010414&wsIPSercert=529ddc483d9f5a3e65dd4e4f02e17b41&wsBindIP=2&wsserid=1168159941869888441"
     },
     {
       "title": "Fortaleza Ec vs America Mineiro.Osoafnyqha",
