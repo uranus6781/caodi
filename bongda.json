@@ -1,35 +1,8 @@
 {
   "playlist_name": "Sáng TV",
-  "last_updated": "04:19 18/06/2026",
+  "last_updated": "06:10 18/06/2026",
   "buncha": [],
   "hoiquan": [
-    {
-      "title": "England vs Croatia.9Xbtostcno",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/england-vs-croatia.9XBtoStcNo/8508",
-      "stream_url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178173039941380&wsIPSercert=d78c1c2e213c0c0e4e82c5de9e8638a8&wsBindIP=2&wsserid=1168159941869888407"
-    },
-    {
-      "title": "England vs Croatia.Ydag5Hn_Wt",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/england-vs-croatia.ydAg5HN_Wt/8509",
-      "stream_url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178173041014267&wsIPSercert=d78c1c2e213c0c0e4e82c5de9e8638a8&wsBindIP=2&wsserid=1168159941869888407"
-    },
-    {
-      "title": "England vs Croatia.Hczcwb43Sp",
-      "trang_thai": "Chờ",
-      "is_live": true,
-      "thoi_gian": "Unknown",
-      "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
-      "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/england-vs-croatia.HCzcWb43Sp/8510",
-      "stream_url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b729ead558c9cf9a676e9806-178173042142774&wsIPSercert=d78c1c2e213c0c0e4e82c5de9e8638a8&wsBindIP=2&wsserid=1168159941876180135"
-    },
     {
       "title": "Ghana vs Panama.Lfhcnhmjwk",
       "trang_thai": "Chờ",
@@ -37,7 +10,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/ghana-vs-panama.LfHcNhmjwk/8511",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178173709511522&wsIPSercert=09f8801a701c5a509bffc8cd8d52ee26&wsBindIP=2&wsserid=1168159941869888407"
     },
     {
       "title": "Ghana vs Panama.K3Jho0Svau",
@@ -46,7 +19,7 @@
       "thoi_gian": "Unknown",
       "logo_nha": "https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t",
       "link_xem": "https://sv2.hoiquan3.live/truc-tiep/bong-da/world-cup.E8aPiBXMj0/ghana-vs-panama.K3jho0SVaU/8512",
-      "stream_url": "https://example.com/waiting.mp4"
+      "stream_url": "https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178173710643625&wsIPSercert=09f8801a701c5a509bffc8cd8d52ee26&wsBindIP=2&wsserid=1168178972991608093"
     },
     {
       "title": "Fc Tulsa vs Monterey Bay.Gupo4Xtvms",
