@@ -1,8 +1,11 @@
 #EXTM3U
-#PLAYLISTNAME: ⚽ Xem ngay - 06:10 18/06/2026
+#PLAYLISTNAME: ⚽ Xem ngay - 07:33 18/06/2026
 
 #EXTINF:-1 tvg-id="Ghana vs Panama.Lfhcnhmjwk" tvg-name="Ghana vs Panama.Lfhcnhmjwk" tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="🔥 HỘI QUÁN TV",Live ⚽ Ghana vs Panama.Lfhcnhmjwk
-https://tfwt3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=e3fcde56d983ccae380d59b5-178173709511522&wsIPSercert=09f8801a701c5a509bffc8cd8d52ee26&wsBindIP=2&wsserid=1168159941869888407
+https://tfwu3go3nhcjtgczdncjqgrhugmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=ac54fedd9b782e62f6a5c9d8-178174212429179&wsIPSercert=ca05a38393df4cfdde3a891c297df45b&wsBindIP=2&wsserid=1168159941867791187
 
 #EXTINF:-1 tvg-id="Ghana vs Panama.K3Jho0Svau" tvg-name="Ghana vs Panama.K3Jho0Svau" tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="🔥 HỘI QUÁN TV",Live ⚽ Ghana vs Panama.K3Jho0Svau
-https://tfwt3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178173710643625&wsIPSercert=09f8801a701c5a509bffc8cd8d52ee26&wsBindIP=2&wsserid=1168178972991608093
+https://tfwu3go3nhcjtgczdncjqgrhugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=0998c9643b107f1d57c565c4-178174213544254&wsIPSercert=ca05a38393df4cfdde3a891c297df45b&wsBindIP=2&wsserid=1168178972991608093
+
+#EXTINF:-1 tvg-id="Fc Tulsa vs Monterey Bay.Gupo4Xtvms" tvg-name="Fc Tulsa vs Monterey Bay.Gupo4Xtvms" tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="🔥 HỘI QUÁN TV",Live ⚽ Fc Tulsa vs Monterey Bay.Gupo4Xtvms
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
